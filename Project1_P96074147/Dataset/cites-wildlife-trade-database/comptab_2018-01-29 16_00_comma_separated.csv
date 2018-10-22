@@ -1,0 +1,5000 @@
+Genus,Importer,Exporter,Term,Purpose,Source
+Aquila,TR,NL,bodies,T,C
+Aquila,XV,RS,bodies,Q,O
+Haliaeetus,BE,NO,feathers,S,W
+Haliaeetus,BE,NO,specimens,S,W
+Haliaeetus,DK,IS,specimens,S,W
+Haliaeetus,XV,RS,bodies,Q,O
+Harpia,BR,FR,feathers,S,C
+Harpia,BR,FR,feathers,S,U
+Harpia,BR,FR,feathers,S,W
+Acipenser,CH,DE,live,T,C
+Acipenser,US,IR,caviar,P,I
+Ailurus,AU,NZ,live,Z,C
+Ailurus,CA,US,live,Z,F
+Ailurus,IL,DE,live,Z,C
+Ailurus,JP,US,live,B,C
+Ailurus,JP,US,live,Z,C
+Ailurus,KP,CN,bodies,E,U
+Ailurus,KR,CN,specimens,E,C
+Ailurus,KR,JP,live,Z,C
+Ailurus,US,CA,live,Z,C
+Alligator,KP,CN,bodies,E,U
+Melanosuchus,US,DK,live,Z,F
+Anas,CA,US,feathers,S,I
+Anas,MC,FR,live,Z,I
+Asarcornis,GB,JE,bodies,S,C
+Asarcornis,GB,JE,bodies,S,C
+Branta,CN,GB,bodies,Q,C
+Branta,MC,FR,live,Z,I
+Branta,SG,NL,live,T,C
+Branta,SG,NL,live,Z,C
+Branta,ZA,NL,live,T,C
+Antilocapra,BE,CH,skins,Q,O
+Antilocapra,CH,BE,skins,Q,O
+Pachypodium,JP,NL,live,T,D
+Pachypodium,JP,TH,live,T,D
+Araucaria,BE,CL,live,T,A
+Araucaria,BE,CL,live,T,D
+Araucaria,CH,BE,live,T,A
+Araucaria,CH,DE,live,T,A
+Araucaria,CH,IT,live,T,D
+Araucaria,JP,NL,live,T,D
+Araucaria,NL,CL,live,T,A
+Araucaria,NL,CL,live,T,D
+Araucaria,US,NL,seeds,T,D
+Oreonax,DE,PE,hair,S,W
+Oreonax,DE,PE,specimens,S,W
+Balaena,AT,CH,carvings,S,O
+Balaena,AT,CH,carvings,S,W
+Balaena,CA,GL,specimens,S,W
+Balaena,CA,US,baleen,P,I
+Balaena,CA,US,baleen,P,W
+Balaena,CA,US,bone pieces,P,I
+Balaena,DE,CH,carvings,P,O
+Balaena,DE,RU,carvings,Q,O
+Balaena,DK,GL,baleen,P,W
+Balaena,NL,NO,specimens,S,W
+Balaena,NL,US,carvings,Q,O
+Balaena,NO,GL,specimens,S,W
+Balaena,RU,US,specimens,S,W
+Balaena,US,CA,baleen,P,W
+Balaena,US,CA,bone carvings,P,O
+Balaena,US,NL,bone carvings,Q,O
+Balaena,US,NL,carvings,Q,O
+,FR,TN,specimens,E,O
+,XX,TN,specimens,E,O
+Eubalaena,FR,CH,carvings,Q,O
+Eubalaena,FR,TN,teeth,E,O
+Eubalaena,XX,TN,specimens,E,O
+Eubalaena,GB,US,specimens,S,W
+Eubalaena,JP,ZZ,skin pieces,S,X
+Eubalaena,XX,TN,specimens,E,O
+Eubalaena,CA,US,skin pieces,S,W
+Balaenoptera,NL,CV,baleen,S,U
+Balaenoptera,NL,CV,specimens,S,U
+Balaenoptera,FO,NO,meat,T,W
+Balaenoptera,IS,NO,specimens,S,W
+Balaenoptera,JP,NO,meat,T,W
+Balaenoptera,JP,ZZ,skin pieces,S,X
+Balaenoptera,KR,CN,specimens,E,W
+Balaenoptera,US,AU,specimens,S,W
+Balaenoptera,US,DE,meat,P,I
+Balaenoptera,US,FI,meat,P,I
+Balaenoptera,US,IS,meat,P,I
+Balaenoptera,US,IS,meat,P,I
+Balaenoptera,US,IS,meat,P,I
+Balaenoptera,US,NO,meat,P,I
+Balaenoptera,US,NO,meat,P,I
+Balaenoptera,US,NO,meat,P,I
+Balaenoptera,US,NO,meat,P,I
+Balaenoptera,US,NO,meat,P,W
+Balaenoptera,US,NO,meat,T,I
+Balaenoptera,US,RU,bone carvings,P,I
+Balaenoptera,US,SE,meat,P,I
+Balaenoptera,US,XX,meat,P,I
+Balaenoptera,JP,ZZ,bodies,S,X
+Balaenoptera,JP,ZZ,skin pieces,S,X
+Balaenoptera,US,AQ,skins,S,W
+Balaenoptera,US,CA,baleen,P,W
+Balaenoptera,DE,CL,specimens,S,W
+Balaenoptera,JP,ZZ,bodies,S,X
+Balaenoptera,JP,ZZ,skin pieces,S,X
+Balaenoptera,US,AU,specimens,S,W
+Balaenoptera,US,JP,specimens,S,W
+Balaenoptera,US,JP,specimens,S,W
+Balaenoptera,JP,ZZ,bodies,S,X
+Balaenoptera,JP,ZZ,skin pieces,S,X
+Balaenoptera,US,JP,specimens,S,W
+Balaenoptera,US,JP,specimens,S,W
+Balaenoptera,ES,IS,skin pieces,S,W
+Balaenoptera,JP,ZZ,skin pieces,S,X
+Balaenoptera,NL,NO,specimens,S,W
+Balaenoptera,US,JP,meat,P,I
+Balaenoptera,US,JP,specimens,S,W
+Balaenoptera,US,JP,specimens,S,W
+Balaenoptera,US,MX,bones,P,I
+Balaenoptera,US,NZ,specimens,S,W
+Balaenoptera,CA,US,specimens,S,W
+Balaenoptera,DK,GL,jewellery,P,W
+Balaenoptera,ES,GL,baleen,S,W
+Balaenoptera,ES,GL,specimens,S,W
+Balaenoptera,ES,IS,skin pieces,S,W
+Balaenoptera,JP,ZZ,skin pieces,S,X
+Balaenoptera,NL,NO,specimens,S,W
+Balaenoptera,US,GB,specimens,S,W
+Balaenoptera,US,JP,specimens,S,W
+Balaenoptera,US,JP,specimens,S,W
+Megaptera,CA,US,specimens,S,W
+Megaptera,DE,VC,bones,P,W
+Megaptera,DK,GL,baleen,P,W
+Megaptera,DK,GL,jewellery,P,W
+Megaptera,DK,GL,specimens,S,W
+Megaptera,ES,IS,skin pieces,S,W
+Megaptera,FR,MG,specimens,S,W
+Megaptera,FR,TN,specimens,E,W
+Megaptera,GB,US,baleen,Q,O
+Megaptera,JP,ZZ,skin pieces,S,X
+Megaptera,NL,NO,specimens,S,W
+Megaptera,SE,GL,specimens,S,W
+Megaptera,US,AQ,skins,S,W
+Megaptera,US,AQ,specimens,S,W
+Megaptera,US,AU,specimens,S,W
+Megaptera,US,CA,specimens,S,W
+Megaptera,US,GB,specimens,S,W
+Megaptera,US,NZ,specimens,S,W
+Megaptera,US,OM,specimens,S,W
+Megaptera,XX,TN,skin pieces,E,O
+Megaptera,ZA,NA,skeletons,E,W
+Acrantophis,ID,FR,live,Z,F
+Acrantophis,IR,DE,live,T,C
+Acrantophis,XX,IT,live,Q,C
+Sanzinia,ID,FR,live,Z,F
+Addax,AR,US,trophies,H,F
+Addax,CA,US,trophies,H,F
+Addax,FR,FR,trophies,P,C
+Addax,FR,US,trophies,H,F
+Addax,GB,QA,specimens,S,F
+Addax,HU,US,trophies,H,F
+Addax,IT,US,trophies,H,F
+Addax,MX,US,trophies,H,F
+Addax,OM,AE,live,P,C
+Addax,PK,AE,live,T,C
+Bos,VN,DE,live,Z,C
+Capra,AE,SK,bodies,H,C
+Capra,AT,TJ,trophies,H,W
+Capra,BY,RU,live,Z,C
+Capra,CA,PK,trophies,H,W
+Capra,DE,PK,trophies,H,W
+Capra,DE,TJ,trophies,H,W
+Capra,ES,PK,trophies,H,W
+Capra,FI,RU,live,Z,C
+Capra,ID,DE,live,Z,C
+Capra,MX,PK,trophies,H,W
+Capra,MX,US,trophies,H,F
+Capra,NO,DK,trophies,H,W
+Capra,NO,DK,trophies,H,W
+Capra,PH,DE,trophies,H,W
+Capra,PH,DE,trophies,P,W
+Capra,RU,BY,live,T,C
+Capra,SG,FI,live,Z,C
+Capra,US,CA,trophies,H,W
+Capra,US,PK,trophies,H,W
+Capra,US,TJ,trophies,H,W
+Capra,UZ,RU,live,Z,C
+Capricornis,US,LA,horns,P,I
+Capricornis,US,LA,bone pieces,P,I
+Capricornis,US,LA,horns,P,I
+Capricornis,US,LA,specimens,P,I
+Capricornis,US,LA,horns,P,I
+Capricornis,US,LA,skulls,P,I
+Gazella,TN,ES,live,N,C
+Gazella,TN,ES,live,N,C
+Hippotragus,CN,GB,bodies,Q,O
+Hippotragus,PT,US,specimens,S,W
+Naemorhedus,KP,CN,bodies,E,U
+Nanger,IT,US,trophies,H,F
+Nanger,MX,US,trophies,H,F
+Oryx,AE,US,live,B,F
+Oryx,AR,ZA,trophies,H,W
+Oryx,AT,ZA,trophies,H,F
+Oryx,BE,ZA,trophies,H,F
+Oryx,CA,US,trophies,H,F
+Oryx,CZ,ZA,trophies,H,F
+Oryx,DE,ZA,trophies,H,F
+Oryx,DK,XX,trophies,H,W
+Oryx,DK,ZA,skins,H,W
+Oryx,DK,ZA,trophies,H,F
+Oryx,DK,ZA,trophies,H,W
+Oryx,ES,ZA,trophies,H,F
+Oryx,FI,ZA,trophies,H,F
+Oryx,FR,FR,trophies,P,W
+Oryx,FR,FR,trophies,P,C
+Oryx,FR,US,trophies,H,F
+Oryx,FR,US,trophies,P,F
+Oryx,FR,ZA,trophies,P,F
+Oryx,HU,ZA,trophies,H,F
+Oryx,IT,US,trophies,H,F
+Oryx,IT,ZA,trophies,H,F
+Oryx,LT,ZA,trophies,H,F
+Oryx,MX,US,trophies,H,C
+Oryx,MX,US,trophies,H,F
+Oryx,OM,AE,live,P,C
+Oryx,PK,ZA,trophies,H,W
+Oryx,PT,ZA,trophies,H,F
+Oryx,RS,ZA,trophies,H,F
+Oryx,SE,ZA,trophies,H,F
+Oryx,SK,ZA,bodies,H,F
+Oryx,SK,ZA,trophies,H,F
+Oryx,TD,AE,live,N,C
+Oryx,US,BE,fur product (small),T,I
+Oryx,US,CA,meat,H,I
+Oryx,VN,AE,live,Z,C
+Oryx,VN,AE,live,Z,C
+Oryx,VN,AE,live,Z,F
+Oryx,VN,DE,live,Z,C
+Oryx,VN,PL,live,Z,C
+Oryx,CH,FR,live,Z,C
+Oryx,CH,GB,live,Z,C
+Oryx,CN,GB,bodies,Q,O
+Oryx,CZ,CH,live,Z,C
+Oryx,GB,QA,specimens,S,F
+Oryx,IT,US,trophies,H,F
+Oryx,KW,AE,live,P,C
+Oryx,KW,AE,live,T,C
+Oryx,KW,AE,live,T,F
+Oryx,LT,ZA,trophies,H,F
+Oryx,MX,US,trophies,H,F
+Oryx,MX,US,trophies,P,F
+Oryx,OM,AE,live,P,C
+Oryx,OM,AE,live,P,F
+Oryx,OM,AE,live,T,C
+Oryx,PK,AE,live,T,C
+Oryx,QA,AE,live,P,C
+Oryx,QA,AE,live,P,F
+Oryx,QA,AE,live,T,C
+Oryx,QA,AE,live,T,F
+Oryx,SA,AE,live,P,C
+Oryx,SA,AE,live,P,F
+Oryx,SA,AE,live,T,C
+Ovis,DK,NO,trophies,H,W
+Pantholops,CH,FR,garments,L,I
+Pantholops,FR,CH,garments,L,I
+Buceros,AT,BR,live,Z,C
+Buceros,KP,CN,bodies,E,U
+Buceros,TW,FR,bodies,T,O
+Nectophrynoides,TZ,US,live,N,F
+Cacatua,BH,QA,live,T,C
+Cacatua,CA,DO,live,P,F
+Cacatua,OM,ZA,live,P,C
+Cacatua,OM,ZA,live,T,C
+Cacatua,QA,ZA,live,T,C
+Cacatua,TH,BH,live,P,C
+Cacatua,US,DE,live,P,F
+Cacatua,CH,FR,live,B,C
+Cacatua,CH,FR,live,T,C
+Cacatua,DE,CH,live,T,C
+Cacatua,AE,PH,live,P,C
+Cacatua,BR,PT,live,T,C
+Cacatua,BR,PT,live,T,C
+Cacatua,BS,US,live,P,C
+Cacatua,BS,US,live,Q,F
+Cacatua,CA,US,live,P,C
+Cacatua,CA,US,live,P,O
+Cacatua,CA,US,live,P,F
+Cacatua,CR,US,live,P,F
+Cacatua,DE,IL,specimens,S,F
+Cacatua,DE,PH,live,T,C
+Cacatua,JP,SG,live,T,D
+Cacatua,KG,KZ,live,Q,W
+Cacatua,KW,ES,live,T,C
+Cacatua,KZ,RU,live,Q,C
+Cacatua,NL,SG,specimens,S,C
+Cacatua,OM,ZA,live,P,C
+Cacatua,SR,NL,live,T,C
+Cacatua,SR,NL,live,P,F
+Cacatua,TW,SG,live,T,D
+Cacatua,US,BS,live,Q,C
+Cacatua,US,CA,live,P,W
+Cacatua,US,CA,live,P,O
+Cacatua,US,SG,specimens,S,C
+Cacatua,BH,BE,live,T,C
+Cacatua,BH,BE,live,T,C
+Cacatua,CA,US,live,P,C
+Cacatua,CH,ES,live,T,C
+Cacatua,CH,FR,live,T,C
+Cacatua,JP,SG,live,T,D
+Cacatua,KR,PH,live,Z,C
+Cacatua,LT,CA,live,P,F
+Cacatua,NL,SG,specimens,M,C
+Cacatua,NL,SG,specimens,S,C
+Cacatua,NO,DK,live,T,C
+Cacatua,NO,DK,live,T,C
+Cacatua,NZ,ZA,bodies,T,C
+Cacatua,PA,NL,live,T,C
+Cacatua,TW,BE,live,T,C
+Cacatua,TW,BE,live,T,C
+Cacatua,TW,BE,live,T,C
+Cacatua,TW,BE,live,T,C
+Cacatua,TW,BE,live,T,C
+Cacatua,TW,BE,live,T,F
+Cacatua,TW,SG,live,B,C
+Cacatua,US,CA,live,P,F
+Cacatua,US,CA,live,P,C
+Cacatua,US,SG,specimens,M,C
+Cacatua,US,XX,live,P,F
+Cacatua,XX,US,live,P,F
+Probosciger,BG,UZ,live,T,C
+Probosciger,CZ,ZA,live,P,C
+Probosciger,DE,PH,feathers,M,C
+Probosciger,DE,PH,live,B,C
+Probosciger,DE,PH,live,T,C
+Probosciger,DE,PH,specimens,M,C
+Probosciger,DE,PH,specimens,M,C
+Probosciger,DE,PH,specimens,S,C
+Probosciger,FR,SG,specimens,Z,C
+Probosciger,GR,PH,live,Z,C
+Probosciger,IR,KW,live,T,C
+Probosciger,NL,SG,specimens,M,C
+Probosciger,NL,SG,specimens,S,C
+Probosciger,PH,TH,live,B,C
+Probosciger,SA,KW,live,P,C
+Probosciger,SA,KW,live,T,C
+Probosciger,US,SG,specimens,M,C
+Probosciger,ZA,PL,live,Z,U
+Ariocarpus,BE,US,seeds,T,D
+Ariocarpus,CA,US,seeds,T,D
+Ariocarpus,CH,DE,seeds,T,D
+Ariocarpus,CH,US,seeds,T,D
+Ariocarpus,IN,US,seeds,T,D
+Ariocarpus,JP,US,seeds,T,D
+Ariocarpus,NZ,US,seeds,T,D
+Ariocarpus,US,MT,seeds,T,D
+Ariocarpus,US,MX,live,T,I
+Ariocarpus,AU,US,seeds,T,D
+Ariocarpus,BE,US,seeds,T,D
+Ariocarpus,CH,DE,live,T,D
+Ariocarpus,CH,DE,seeds,T,D
+Ariocarpus,CH,US,seeds,T,D
+Ariocarpus,CN,DE,seeds,T,D
+Ariocarpus,HK,US,seeds,T,D
+Ariocarpus,JP,US,seeds,T,D
+Ariocarpus,NZ,US,seeds,T,D
+Ariocarpus,AT,US,seeds,T,D
+Ariocarpus,BE,US,seeds,T,D
+Ariocarpus,CA,US,seeds,T,D
+Ariocarpus,CH,DE,seeds,T,D
+Ariocarpus,CH,US,seeds,T,D
+Ariocarpus,CN,DE,seeds,T,D
+Ariocarpus,CN,IT,live,T,D
+Ariocarpus,HK,US,live,T,I
+Ariocarpus,HK,US,seeds,T,D
+Ariocarpus,IN,US,seeds,T,D
+Ariocarpus,JP,US,seeds,T,D
+Ariocarpus,KR,US,live,T,D
+Ariocarpus,PL,US,seeds,T,D
+Ariocarpus,SG,IT,live,T,D
+Ariocarpus,US,HK,live,T,I
+Ariocarpus,US,MT,seeds,T,D
+Ariocarpus,US,XX,live,T,I
+Ariocarpus,AU,US,seeds,T,D
+Ariocarpus,BE,US,seeds,T,D
+Ariocarpus,CA,US,seeds,T,D
+Ariocarpus,CH,US,seeds,T,D
+Ariocarpus,CN,US,seeds,T,D
+Ariocarpus,DE,TH,live,P,D
+Ariocarpus,IN,US,seeds,T,D
+Ariocarpus,IT,US,seeds,T,D
+Ariocarpus,JP,US,seeds,T,D
+Ariocarpus,NZ,US,seeds,T,D
+Ariocarpus,PL,US,seeds,T,D
+Ariocarpus,US,CZ,live,T,D
+Ariocarpus,US,MX,live,T,I
+Ariocarpus,BE,US,seeds,T,D
+Ariocarpus,CA,US,seeds,T,D
+Ariocarpus,CH,DE,live,T,D
+Ariocarpus,CH,DE,seeds,T,D
+Ariocarpus,CH,US,seeds,T,D
+Ariocarpus,CN,US,seeds,T,D
+Ariocarpus,DE,TH,live,P,D
+Ariocarpus,GB,US,dried plants,S,D
+Ariocarpus,IN,US,seeds,T,D
+Ariocarpus,JP,US,seeds,T,D
+Ariocarpus,KR,US,live,T,D
+Ariocarpus,US,CZ,live,T,D
+Ariocarpus,US,HU,live,T,I
+Ariocarpus,US,MT,seeds,T,D
+Ariocarpus,US,MX,live,T,I
+Ariocarpus,BE,US,seeds,T,D
+Ariocarpus,CH,US,seeds,T,D
+Ariocarpus,JP,US,seeds,T,D
+Ariocarpus,RO,US,seeds,T,D
+Ariocarpus,US,MX,live,T,I
+Ariocarpus,BE,US,seeds,T,D
+Ariocarpus,CA,US,seeds,T,D
+Ariocarpus,CH,US,seeds,T,D
+Ariocarpus,HK,CZ,live,T,D
+Ariocarpus,HK,US,seeds,T,D
+Ariocarpus,JP,US,seeds,T,D
+Ariocarpus,RO,US,seeds,T,D
+Astrophytum,CH,DE,live,T,D
+Astrophytum,CN,DE,seeds,T,D
+Astrophytum,DE,TH,live,P,D
+Astrophytum,DE,TH,seeds,P,D
+Astrophytum,GB,US,dried plants,S,D
+Astrophytum,SG,IT,live,T,D
+Astrophytum,US,MT,seeds,T,D
+Astrophytum,US,TH,live,T,D
+Astrophytum,US,TH,live,T,I
+Aztekium,US,MT,seeds,T,D
+Aztekium,US,TH,live,T,D
+,US,KH,extract,T,I
+Coryphantha,AT,US,seeds,T,D
+Discocactus,CH,DE,live,T,D
+Discocactus,CR,DE,live,T,A
+Discocactus,CR,DE,live,T,A
+Discocactus,CH,DE,live,T,D
+Discocactus,CR,DE,live,T,A
+Discocactus,DE,US,live,T,D
+Discocactus,TH,US,live,T,D
+Discocactus,CR,DE,live,T,A
+Echinocereus,IT,US,seeds,T,D
+Echinocereus,AT,US,seeds,T,D
+Echinocereus,IT,US,seeds,T,D
+Escobaria,CH,DE,live,T,D
+Escobaria,CN,MT,seeds,T,D
+Escobaria,CH,DE,live,T,D
+Mammillaria,AT,US,seeds,T,D
+Mammillaria,AU,US,seeds,T,D
+Mammillaria,BE,US,seeds,T,D
+Mammillaria,CA,US,seeds,T,D
+Mammillaria,CN,US,seeds,T,D
+Mammillaria,IT,US,seeds,T,D
+Mammillaria,PL,US,seeds,T,D
+Mammillaria,RO,US,seeds,T,D
+Melocactus,JP,ZA,live,P,D
+Melocactus,RO,US,seeds,T,D
+Melocactus,US,MT,seeds,T,D
+Obregonia,CA,US,seeds,T,D
+Obregonia,CH,DE,live,T,D
+Obregonia,US,TH,live,T,D
+Pediocactus,CH,DE,live,T,D
+Pelecyphora,AT,US,seeds,T,D
+Pelecyphora,CA,US,seeds,T,D
+Pelecyphora,IL,US,seeds,T,D
+Pelecyphora,SG,IT,live,T,D
+Pelecyphora,ZA,IT,live,T,D
+Pelecyphora,AT,US,seeds,T,D
+Pelecyphora,CA,US,seeds,T,D
+Pelecyphora,CH,DE,live,T,D
+Pelecyphora,CN,MT,seeds,T,D
+Pelecyphora,IL,US,seeds,T,D
+Pelecyphora,NZ,US,seeds,T,D
+Pelecyphora,US,MT,seeds,T,D
+Sclerocactus,CH,DE,live,T,D
+Sclerocactus,CH,DE,live,T,D
+Sclerocactus,AT,US,seeds,T,D
+Sclerocactus,CA,US,seeds,T,D
+Sclerocactus,CH,DE,live,T,D
+Sclerocactus,CH,US,seeds,T,D
+Sclerocactus,CN,US,seeds,T,D
+Sclerocactus,FR,US,seeds,T,D
+Sclerocactus,RO,US,seeds,T,D
+Sclerocactus,AT,US,seeds,T,D
+Strombocactus,AU,US,seeds,T,D
+Strombocactus,CA,US,seeds,T,D
+Strombocactus,CH,DE,live,T,D
+Strombocactus,HK,US,seeds,T,D
+Strombocactus,IL,US,seeds,T,D
+Strombocactus,NZ,US,seeds,T,D
+Strombocactus,PL,US,seeds,T,D
+Strombocactus,RO,US,seeds,T,D
+Strombocactus,US,MT,seeds,T,D
+Strombocactus,US,MX,live,T,I
+Turbinicarpus,NP,US,live,P,I
+Turbinicarpus,US,MT,seeds,T,D
+Turbinicarpus,AU,US,seeds,T,D
+Turbinicarpus,CN,US,seeds,T,D
+Turbinicarpus,ES,US,seeds,T,D
+Turbinicarpus,FR,US,seeds,T,D
+Turbinicarpus,JP,DE,live,T,D
+Turbinicarpus,RO,US,seeds,T,D
+Turbinicarpus,US,MT,seeds,T,D
+Turbinicarpus,AU,US,seeds,T,D
+Turbinicarpus,CA,US,seeds,T,D
+Turbinicarpus,US,MT,seeds,T,D
+Turbinicarpus,CH,DE,live,T,D
+Turbinicarpus,ES,US,seeds,T,D
+Turbinicarpus,CH,DE,seeds,T,D
+Turbinicarpus,FR,US,seeds,T,D
+Turbinicarpus,CA,US,seeds,T,D
+Turbinicarpus,FR,US,seeds,T,D
+Turbinicarpus,IL,US,seeds,T,D
+Turbinicarpus,NZ,US,seeds,T,D
+Turbinicarpus,PL,US,seeds,T,D
+Turbinicarpus,US,MT,seeds,T,D
+Turbinicarpus,CH,DE,seeds,T,D
+Turbinicarpus,NZ,US,seeds,T,D
+Turbinicarpus,PL,US,seeds,T,D
+Turbinicarpus,TH,US,live,T,D
+Turbinicarpus,AU,US,seeds,T,D
+Turbinicarpus,CN,DE,seeds,T,D
+Turbinicarpus,IL,US,seeds,T,D
+Turbinicarpus,PL,US,seeds,T,D
+Turbinicarpus,US,MT,seeds,T,D
+Turbinicarpus,US,TH,live,T,D
+Turbinicarpus,CA,US,seeds,T,D
+Turbinicarpus,CH,DE,seeds,T,D
+Turbinicarpus,CN,MT,seeds,T,D
+Turbinicarpus,US,MT,seeds,T,D
+Turbinicarpus,AT,US,seeds,T,D
+Turbinicarpus,AU,US,seeds,T,D
+Turbinicarpus,CA,US,seeds,T,D
+Turbinicarpus,CH,DE,seeds,T,D
+Turbinicarpus,IL,US,seeds,T,D
+Turbinicarpus,NZ,US,seeds,T,D
+Turbinicarpus,PL,US,seeds,T,D
+Turbinicarpus,US,MT,seeds,T,D
+Turbinicarpus,CN,MT,seeds,T,D
+Turbinicarpus,US,MT,seeds,T,D
+Turbinicarpus,CH,DE,live,T,D
+Turbinicarpus,CH,DE,seeds,T,D
+Turbinicarpus,IL,US,seeds,T,D
+Turbinicarpus,US,MT,seeds,T,D
+Turbinicarpus,CA,US,seeds,T,D
+Turbinicarpus,FR,US,seeds,T,D
+Turbinicarpus,IL,US,seeds,T,D
+Turbinicarpus,CH,DE,live,T,D
+Turbinicarpus,ES,US,seeds,T,D
+Turbinicarpus,FR,US,seeds,T,D
+Turbinicarpus,US,MT,seeds,T,D
+Uebelmannia,JP,DE,live,T,D
+Uebelmannia,DE,US,live,T,D
+Uebelmannia,TH,US,live,T,D
+Uebelmannia,US,TH,live,T,D
+Vicugna,BY,RU,live,Z,C
+Vicugna,CA,IT,garments,T,W
+Vicugna,CH,IT,garments,T,W
+Vicugna,CN,IT,garments,T,W
+Vicugna,DE,CH,live,B,C
+Vicugna,FR,CH,garments,T,W
+Vicugna,FR,CH,garments,T,W
+Vicugna,FR,CH,garments,T,W
+Vicugna,MX,FR,live,T,C
+Vicugna,RU,CZ,live,Z,C
+Vicugna,TR,IT,cloth,T,W
+Vicugna,US,IT,cloth,T,W
+Canis,BE,CA,trophies,H,W
+Canis,CA,AT,teeth,Q,O
+Canis,DK,GL,specimens,S,W
+Speothos,RU,CZ,live,Z,C
+Speothos,RU,FR,live,Z,C
+Vultur,CH,DE,live,T,C
+Vultur,US,AR,specimens,S,W
+Vultur,US,AU,live,Z,F
+Vultur,US,PE,feathers,P,I
+Vultur,US,PL,feathers,P,I
+Callimico,ES,CH,live,Z,C
+Callimico,GB,CH,live,Z,C
+Leontopithecus,CN,CZ,live,T,C
+Leontopithecus,CN,CZ,live,Z,C
+Leontopithecus,CN,CZ,live,T,C
+Leontopithecus,CN,CZ,live,Z,C
+Leontopithecus,KR,CZ,live,Z,C
+Leontopithecus,MY,CZ,live,Z,C
+Leontopithecus,MY,DE,live,T,C
+Leontopithecus,JE,BR,live,Z,C
+Leontopithecus,JE,BR,live,Z,F
+Leontopithecus,CA,GB,live,Z,C
+Leontopithecus,CA,US,live,Z,C
+Leontopithecus,CZ,CH,live,Z,C
+Leontopithecus,FR,JE,live,Z,C
+Leontopithecus,SG,DE,live,Z,C
+Leontopithecus,TW,FR,bodies,T,O
+Saguinus,AU,NZ,live,Z,C
+Saguinus,CH,NL,live,Z,C
+Saguinus,CN,CZ,live,T,C
+Saguinus,GB,CH,live,Z,C
+Saguinus,HK,SG,live,Z,C
+Saguinus,IL,AT,live,Z,C
+Saguinus,IL,GB,specimens,M,O
+Saguinus,IL,NL,live,Z,C
+Saguinus,MD,AT,live,B,C
+Saguinus,NZ,AU,live,Z,C
+Saguinus,NZ,SK,live,Z,C
+Saguinus,RS,HU,live,Z,C
+Saguinus,RU,GB,specimens,M,O
+Saguinus,RU,LT,live,Z,C
+Saguinus,TR,DE,live,T,C
+Cercopithecus,BE,CA,bodies,P,F
+Cercopithecus,RU,AT,live,Z,C
+Macaca,US,DE,live,Z,C
+Mandrillus,CN,CZ,live,Z,C
+Mandrillus,KP,CN,bodies,E,U
+Mandrillus,MY,CZ,live,T,C
+Mandrillus,US,CA,live,Z,C
+Mandrillus,US,FR,live,Z,C
+Mandrillus,UZ,RU,live,Z,C
+Piliocolobus,DE,TZ,specimens,S,W
+Pygathrix,DE,VN,specimens,S,W
+Pygathrix,CZ,TH,live,Z,C
+Pygathrix,DE,VN,specimens,S,C
+Pygathrix,DE,VN,specimens,S,W
+Axis,AR,ZA,trophies,H,W
+Dama,KZ,UZ,live,Z,C
+Dama,DE,CH,live,T,C
+Hippocamelus,US,XX,bodies,P,I
+Muntiacus,KP,CN,bodies,E,U
+Pudu,JP,CL,live,Z,C
+Pudu,US,MX,live,Z,C
+Rucervus,IT,US,trophies,H,F
+Rucervus,MX,US,trophies,H,F
+Rucervus,MX,US,trophies,H,C
+Cheirogaleus,US,MG,specimens,S,W
+Cheirogaleus,FR,US,specimens,S,W
+Microcebus,DE,MG,specimens,S,W
+Microcebus,DE,MG,specimens,S,W
+Microcebus,US,MG,specimens,S,W
+Microcebus,DE,MG,specimens,S,W
+Microcebus,DE,MG,specimens,S,W
+Microcebus,DE,MG,specimens,S,W
+Microcebus,US,MG,specimens,S,W
+Microcebus,DE,MG,specimens,S,W
+Microcebus,DE,MG,specimens,S,W
+Microcebus,DE,MG,specimens,S,W
+Microcebus,US,DE,specimens,S,C
+Microcebus,US,DE,specimens,M,C
+Microcebus,US,DE,specimens,S,C
+Microcebus,DE,MG,specimens,S,W
+Microcebus,DE,MG,specimens,S,W
+Microcebus,DE,MG,specimens,S,W
+Microcebus,US,MG,specimens,M,I
+Microcebus,US,MG,specimens,S,W
+Microcebus,DE,MG,specimens,S,W
+Microcebus,US,PT,specimens,S,W
+Microcebus,US,PT,specimens,S,I
+Mirza,DE,MG,specimens,S,W
+Mirza,DE,MG,specimens,S,W
+Pseudemydura,AU,US,specimens,S,W
+Pseudemydura,US,AU,specimens,S,W
+Caretta,CH,FR,carvings,T,O
+Caretta,DE,MG,specimens,S,W
+Caretta,ES,GG,live,N,W
+Caretta,ES,JE,live,N,W
+Caretta,ES,JE,live,N,W
+Caretta,FR,MC,specimens,S,W
+Caretta,GR,LB,live,M,W
+Caretta,JP,DE,carvings,Q,O
+Caretta,JP,ZZ,unspecified,S,X
+Caretta,KR,JP,live,Z,F
+Caretta,MC,CH,carvings,T,O
+Caretta,TW,FR,carvings,T,O
+Caretta,US,BM,live,S,W
+Caretta,US,BM,specimens,S,W
+Caretta,US,BR,specimens,S,W
+Caretta,US,BS,specimens,S,W
+Caretta,US,CA,specimens,S,W
+Caretta,US,KY,specimens,S,W
+Caretta,US,NI,specimens,S,W
+Caretta,US,PA,specimens,S,W
+Chelonia,BB,FR,specimens,S,W
+Chelonia,CA,FR,carvings,Q,O
+Chelonia,DE,MG,specimens,S,W
+Chelonia,DE,UY,specimens,S,W
+Chelonia,FR,CA,carvings,Q,O
+Chelonia,FR,US,carvings,P,O
+Chelonia,FR,US,shells,T,O
+Chelonia,GB,SG,carvings,Q,O
+Chelonia,GB,SG,trophies,Q,O
+Chelonia,HK,FR,carvings,T,O
+Chelonia,KR,CN,specimens,E,C
+Chelonia,KR,SG,live,Z,I
+Chelonia,PT,ST,specimens,S,W
+Chelonia,RE,MG,specimens,S,W
+Chelonia,SG,FR,carvings,P,O
+Chelonia,US,BM,specimens,S,W
+Chelonia,US,BS,specimens,S,W
+Chelonia,US,CA,live,N,W
+Chelonia,US,CA,specimens,S,W
+Chelonia,US,CR,eggshell,S,W
+Chelonia,US,CR,extract,S,W
+Chelonia,US,FJ,carapaces,P,I
+Chelonia,US,FJ,specimens,S,W
+Chelonia,US,HT,meat,P,I
+Chelonia,US,HT,carapaces,P,I
+Chelonia,US,HT,shells,P,I
+Chelonia,US,KY,meat,P,I
+Chelonia,US,KY,specimens,S,F
+Chelonia,US,KY,specimens,S,I
+Chelonia,US,KY,specimens,S,W
+Chelonia,US,MX,bones,P,I
+Chelonia,US,MX,carapaces,P,I
+Chelonia,US,MX,skulls,P,I
+Chelonia,US,NI,specimens,S,W
+Chelonia,US,PA,specimens,S,W
+,AT,KR,carvings,Q,O
+,AU,GB,carvings,T,O
+,CH,AE,carvings,T,O
+,CH,DE,bodies,Q,O
+,CH,FR,carvings,T,O
+,CH,GB,carvings,T,O
+,CN,FR,carvings,T,O
+,CN,FR,jewellery,T,O
+,CN,GB,carvings,T,O
+,CN,US,carvings,T,I
+,DE,CH,bodies,Q,O
+,DE,CH,carvings,T,O
+,FR,CH,carvings,Q,O
+,FR,CH,carvings,T,O
+,FR,CH,jewellery,T,O
+,FR,FR,carvings,Q,O
+,FR,FR,carvings,Q,O
+,FR,MC,carvings,P,W
+,FR,MC,carvings,T,O
+,GB,CH,carvings,T,O
+,GB,HK,carvings,T,O
+,GB,JP,carvings,Q,O
+,HK,FR,carvings,T,O
+,HK,GB,carvings,T,O
+,IL,NL,carvings,Q,O
+,JE,GB,carvings,T,O
+,JP,CH,carvings,T,O
+,JP,GB,carvings,Q,O
+,JP,GB,carvings,Q,O
+,JP,GB,carvings,T,O
+,JP,GB,carvings,Q,O
+,MC,FR,carvings,T,O
+,MC,FR,jewellery,T,O
+,NZ,FR,carvings,P,O
+,NZ,TO,carapaces,P,W
+,PE,BE,carvings,T,O
+,PF,FR,carvings,Q,O
+,US,AR,shells,T,I
+,US,BZ,meat,P,I
+,US,CN,carvings,P,I
+,US,CO,meat,P,I
+,US,FM,jewellery,P,I
+,US,FM,carvings,P,I
+,US,FM,jewellery,P,I
+,US,FM,shells,P,I
+,US,FR,carvings,Q,O
+,US,FR,carvings,T,O
+,US,FR,shells,P,I
+,US,FR,shells,P,O
+,US,FR,shells,T,I
+,US,GB,carvings,T,O
+,US,GB,shells,P,I
+,US,GB,shells,T,I
+,US,GB,shells,T,O
+,US,HT,meat,P,I
+,US,HT,shells,P,I
+,US,JM,shells,P,I
+,US,JP,shells,P,I
+,US,KY,meat,P,I
+,US,LC,jewellery,P,I
+,US,MH,jewellery,P,I
+,US,MX,bones,P,I
+,US,MX,leather products (small),P,I
+,US,MX,leather products (small),T,I
+,US,MX,oil,P,I
+,US,MX,shells,P,I
+,US,NI,jewellery,P,I
+,US,NI,meat,P,I
+,US,NI,meat,P,I
+,US,NI,shells,P,I
+,US,PA,meat,P,I
+,US,PE,shells,T,I
+,US,PW,jewellery,P,I
+,US,PW,carvings,P,I
+,US,PW,jewellery,P,I
+,US,PW,shells,P,I
+,US,SV,eggs,P,I
+,US,SV,eggs,T,I
+,US,TR,scales,T,O
+,US,TR,shells,T,I
+,US,VE,jewellery,P,I
+,US,XX,eggs,P,I
+,XX,DE,carvings,P,O
+Eretmochelys,AU,NZ,bodies,P,O
+Eretmochelys,BB,FR,specimens,S,W
+Eretmochelys,CA,FR,carvings,Q,O
+Eretmochelys,CH,FR,carvings,T,O
+Eretmochelys,CH,FR,jewellery,T,O
+Eretmochelys,CH,FR,scales,T,O
+Eretmochelys,CH,HK,carvings,T,O
+Eretmochelys,CH,US,shells,T,O
+Eretmochelys,CN,GB,carvings,T,O
+Eretmochelys,CU,ES,carvings,P,O
+Eretmochelys,CU,ES,carvings,P,O
+Eretmochelys,FR,CA,carvings,Q,O
+Eretmochelys,FR,CH,scales,T,O
+Eretmochelys,FR,CN,carvings,T,O
+Eretmochelys,FR,HK,carvings,T,O
+Eretmochelys,FR,JP,carvings,Q,C
+Eretmochelys,FR,JP,carvings,Q,O
+Eretmochelys,FR,TO,carvings,P,W
+Eretmochelys,FR,US,carvings,T,O
+Eretmochelys,FR,US,shells,T,O
+Eretmochelys,GB,CH,carvings,T,O
+Eretmochelys,GB,OM,specimens,S,W
+Eretmochelys,GB,US,bone carvings,P,O
+Eretmochelys,GB,US,carvings,P,O
+Eretmochelys,GB,US,carvings,T,O
+Eretmochelys,GB,US,shells,T,O
+Eretmochelys,HK,CH,carvings,T,O
+Eretmochelys,HK,FR,carvings,T,O
+Eretmochelys,HK,GB,carvings,T,O
+Eretmochelys,JP,FR,carvings,Q,O
+Eretmochelys,JP,FR,carvings,T,O
+Eretmochelys,JP,GB,carvings,T,O
+Eretmochelys,JP,IT,carvings,T,O
+Eretmochelys,KR,SG,live,Z,I
+Eretmochelys,MX,ES,carvings,Q,W
+Eretmochelys,MX,FR,carvings,T,O
+Eretmochelys,MY,GB,carvings,T,O
+Eretmochelys,MY,GB,carvings,T,O
+Eretmochelys,NL,US,carvings,Q,O
+Eretmochelys,PA,GB,carvings,T,O
+Eretmochelys,PH,SG,shells,Q,O
+Eretmochelys,PT,ST,specimens,S,W
+Eretmochelys,PT,ST,specimens,,
+Eretmochelys,RU,FR,carvings,T,O
+Eretmochelys,SG,GB,carvings,T,O
+Eretmochelys,SG,GB,shells,E,O
+Eretmochelys,SG,PH,carvings,Q,O
+Eretmochelys,SG,PH,shells,Q,O
+Eretmochelys,SN,US,carapaces,L,I
+Eretmochelys,SN,US,jewellery,L,I
+Eretmochelys,TW,FR,carvings,T,O
+Eretmochelys,US,BM,specimens,S,W
+Eretmochelys,US,BS,specimens,S,W
+Eretmochelys,US,CR,specimens,S,W
+Eretmochelys,US,CU,bodies,P,I
+Eretmochelys,US,DO,genitalia,P,I
+Eretmochelys,US,ET,shells,P,I
+Eretmochelys,US,FJ,specimens,S,W
+Eretmochelys,US,FR,carvings,P,I
+Eretmochelys,US,FR,carvings,P,O
+Eretmochelys,US,FR,carvings,T,O
+Eretmochelys,US,FR,shells,Q,O
+Eretmochelys,US,FR,shells,T,O
+Eretmochelys,US,GB,carvings,T,O
+Eretmochelys,US,GB,scales,T,O
+Eretmochelys,US,GB,shells,P,O
+Eretmochelys,US,GB,shells,T,I
+Eretmochelys,US,GB,shells,T,O
+Eretmochelys,US,MX,carapaces,P,I
+Eretmochelys,US,NI,eggshell,S,W
+Eretmochelys,US,NI,specimens,S,W
+Eretmochelys,US,NL,carvings,Q,O
+Eretmochelys,US,SV,specimens,S,W
+Eretmochelys,US,TW,carvings,Q,O
+Eretmochelys,US,VG,carapaces,P,I
+Eretmochelys,HK,US,shells,T,I
+Eretmochelys,US,GD,carapaces,P,I
+Eretmochelys,US,PA,specimens,S,W
+Lepidochelys,US,CA,specimens,S,W
+Lepidochelys,BE,MV,live,Z,W
+Lepidochelys,CH,FR,carvings,P,O
+Lepidochelys,DE,UY,specimens,S,W
+Lepidochelys,GB,OM,specimens,S,W
+Lepidochelys,KR,SG,live,Z,I
+Lepidochelys,PT,ST,specimens,S,W
+Lepidochelys,PT,ST,specimens,,
+Lepidochelys,US,CR,extract,S,W
+Lepidochelys,US,CR,shells,S,W
+Lepidochelys,US,CR,skin pieces,S,W
+Lepidochelys,US,CR,specimens,T,I
+Natator,US,AU,specimens,S,W
+Ciconia,KP,CN,bodies,E,U
+Jabiru,MX,FR,carvings,T,O
+Caloenas,GB,JE,bodies,S,C
+Caloenas,GB,JE,bodies,S,C
+Caloenas,GB,JE,bodies,S,F
+Caloenas,RU,CZ,live,T,C
+Caloenas,SA,KW,live,P,C
+Saussurea,AE,CN,medicine,T,D
+Saussurea,AE,CN,roots,T,A
+Saussurea,AR,FR,extract,T,D
+Saussurea,AT,CH,powder,T,D
+Saussurea,AT,CH,roots,T,D
+Saussurea,AU,CN,medicine,T,D
+Saussurea,AU,CN,medicine,T,D
+Saussurea,BD,CN,roots,T,D
+Saussurea,BR,FR,extract,T,D
+Saussurea,CA,CN,medicine,T,D
+Saussurea,CA,CN,medicine,T,D
+Saussurea,CA,CN,medicine,T,D
+Saussurea,CA,HK,medicine,T,D
+Saussurea,CA,US,extract,T,D
+Saussurea,CH,DE,roots,T,D
+Saussurea,CH,DE,roots,T,D
+Saussurea,CH,FR,extract,T,D
+Saussurea,CO,FR,extract,T,D
+Saussurea,CZ,CN,roots,T,D
+Saussurea,DE,CH,powder,P,D
+Saussurea,DE,CH,powder,T,D
+Saussurea,DE,CH,powder,T,D
+Saussurea,DE,CH,roots,T,D
+Saussurea,DE,CH,roots,T,D
+Saussurea,DE,CN,medicine,T,D
+Saussurea,DE,CN,roots,T,D
+Saussurea,DK,US,extract,T,D
+Saussurea,DK,US,extract,T,D
+Saussurea,DK,US,medicine,T,D
+Saussurea,DK,US,roots,T,D
+Saussurea,EG,CN,roots,B,D
+Saussurea,FR,IN,roots,T,A
+Saussurea,FR,IN,roots,T,D
+Saussurea,GB,TW,powder,T,A
+Saussurea,HK,MY,medicine,M,D
+Saussurea,HK,MY,medicine,T,D
+Saussurea,HK,MY,powder,T,D
+Saussurea,HK,MY,roots,T,D
+Saussurea,HK,TH,medicine,T,D
+Saussurea,ID,FR,extract,T,D
+Saussurea,ID,HK,medicine,T,D
+Saussurea,IL,US,extract,T,D
+Saussurea,JP,CN,medicine,T,D
+Saussurea,JP,CN,medicine,T,D
+Saussurea,JP,CN,roots,T,D
+Saussurea,JP,TW,medicine,T,D
+Saussurea,JP,TW,medicine,T,D
+Saussurea,JP,TW,powder,T,D
+Saussurea,JP,TW,medicine,T,D
+Saussurea,KR,CN,medicine,T,A
+Saussurea,KR,CN,medicine,T,D
+Saussurea,KR,CN,roots,B,D
+Saussurea,KR,JP,derivatives,T,D
+Saussurea,KR,JP,medicine,T,D
+Saussurea,KR,JP,medicine,T,D
+Saussurea,MA,CN,roots,T,D
+Saussurea,MX,FR,extract,T,D
+Saussurea,MY,CN,medicine,T,D
+Saussurea,MY,CN,medicine,T,D
+Saussurea,MY,HK,medicine,T,D
+Saussurea,NL,CN,medicine,T,D
+Saussurea,NL,CN,roots,T,D
+Saussurea,NL,US,extract,T,D
+Saussurea,RU,CN,roots,B,D
+Saussurea,RU,CN,roots,T,D
+Saussurea,SA,CN,roots,T,D
+Saussurea,SG,CN,medicine,T,D
+Saussurea,SG,CN,medicine,T,D
+Saussurea,SG,HK,medicine,T,D
+Saussurea,SN,US,medicine,L,I
+Saussurea,SZ,IN,roots,T,D
+Saussurea,TH,CN,medicine,T,D
+Saussurea,US,CN,medicine,P,I
+Saussurea,US,CN,medicine,P,I
+Saussurea,US,CN,medicine,T,I
+Saussurea,US,CN,medicine,T,I
+Saussurea,US,CN,medicine,T,D
+Saussurea,US,CN,medicine,T,I
+Saussurea,US,CN,medicine,T,I
+Saussurea,US,CN,roots,T,D
+Saussurea,US,CN,roots,T,I
+Saussurea,US,FR,extract,T,D
+Saussurea,US,HK,medicine,T,D
+Saussurea,US,HK,roots,T,D
+Saussurea,US,IN,medicine,P,I
+Saussurea,US,IN,medicine,T,I
+Saussurea,US,MY,medicine,T,I
+Saussurea,US,TH,medicine,P,I
+Saussurea,US,VN,medicine,P,I
+Saussurea,US,VN,medicine,T,I
+Saussurea,VN,CN,roots,T,D
+,CN,GB,leather products (large),T,O
+,HK,GB,jewellery,T,O
+Crocodylus,US,KH,bodies,P,I
+Crocodylus,AE,IT,skins,T,D
+Crocodylus,AM,MC,leather products (small),P,D
+Crocodylus,AZ,IT,garments,T,D
+Crocodylus,BE,MC,leather products (small),P,D
+Crocodylus,BL,IT,leather products (small),T,D
+Crocodylus,CH,DE,skins,T,D
+Crocodylus,CH,IT,leather products (small),T,D
+Crocodylus,CH,MC,leather products (small),P,D
+Crocodylus,CH,SG,skins,T,D
+Crocodylus,CN,FR,skins,T,D
+Crocodylus,CN,IT,leather products (large),T,D
+Crocodylus,CN,IT,leather products (small),T,D
+Crocodylus,CN,MC,leather products (small),P,D
+Crocodylus,FR,CO,skins,T,D
+Crocodylus,FR,MC,leather products (small),P,D
+Crocodylus,GB,MC,leather products (small),P,D
+Crocodylus,HK,CO,skins,T,D
+Crocodylus,HK,FR,skins,T,D
+Crocodylus,HK,IT,jewellery,T,D
+Crocodylus,HK,IT,leather products (large),T,D
+Crocodylus,HK,IT,leather products (small),T,D
+Crocodylus,IN,MC,leather products (small),P,D
+Crocodylus,IT,CO,skins,T,D
+Crocodylus,JP,CH,leather products (small),T,D
+Crocodylus,JP,DE,skins,T,D
+Crocodylus,JP,IT,leather products (large),T,D
+Crocodylus,JP,IT,leather products (small),T,D
+Crocodylus,JP,SG,skins,T,D
+Crocodylus,KR,DE,skins,T,D
+Crocodylus,KR,ES,skins,T,D
+Crocodylus,KR,IT,leather products (small),T,D
+Crocodylus,MC,IT,leather products (small),T,D
+Crocodylus,QA,MC,leather products (small),P,D
+Crocodylus,RO,MC,leather products (small),P,D
+Crocodylus,RU,IT,leather products (small),T,D
+Crocodylus,RU,MC,leather products (small),P,D
+Crocodylus,SA,IT,leather products (small),T,D
+Crocodylus,SG,CO,skins,T,D
+Crocodylus,SG,IT,leather products (small),T,D
+Crocodylus,TR,IT,leather products (small),T,D
+Crocodylus,UA,IT,leather products (small),P,D
+Crocodylus,UA,IT,leather products (small),T,D
+Crocodylus,UA,MC,leather products (small),P,D
+Crocodylus,US,MC,leather products (small),P,D
+Crocodylus,UZ,IT,leather products (small),T,D
+Crocodylus,XX,IT,leather products (small),T,D
+Crocodylus,XX,MC,leather products (small),P,D
+Crocodylus,US,AU,live,Z,C
+Crocodylus,AE,UG,leather products (small),E,W
+Crocodylus,AE,UG,leather products (small),E,W
+Crocodylus,AT,NA,skins,H,W
+Crocodylus,CH,DE,bodies,Q,O
+Crocodylus,CH,FR,skulls,T,C
+Crocodylus,CN,ES,skins,T,R
+Crocodylus,CZ,ZA,leather products (small),T,D
+Crocodylus,DE,CH,specimens,S,C
+Crocodylus,DE,NA,skulls,H,W
+Crocodylus,DE,NA,trophies,H,W
+Crocodylus,FR,JP,carvings,Q,O
+Crocodylus,FR,JP,leather products (large),Q,O
+Crocodylus,FR,JP,leather products (small),Q,O
+Crocodylus,JP,FR,carvings,Q,O
+Crocodylus,JP,FR,leather products (large),Q,O
+Crocodylus,JP,FR,leather products (small),Q,O
+Crocodylus,KR,US,bodies,Q,O
+Crocodylus,MY,SG,leather products (small),T,D
+Crocodylus,NO,CH,leather products (small),T,R
+Crocodylus,PT,SN,leather products (small),T,D
+Crocodylus,RU,NA,rug,H,W
+Crocodylus,SA,TR,garments,T,W
+Crocodylus,SG,FR,leather products (small),T,O
+Crocodylus,SN,US,leather products (small),L,I
+Crocodylus,TR,CH,leather products (small),T,C
+Crocodylus,TR,CH,leather products (small),T,R
+Crocodylus,TR,CH,leather products (small),T,W
+Crocodylus,TR,ES,skins,T,C
+Crocodylus,TR,ES,skins,T,C
+Crocodylus,TR,ES,skins,T,W
+Crocodylus,TR,IT,leather products (small),T,C
+Crocodylus,TR,NL,leather products (small),T,W
+Crocodylus,TW,FR,leather products (small),T,C
+Crocodylus,UG,AE,leather products (small),E,W
+Crocodylus,UG,AE,leather products (small),E,W
+Crocodylus,US,CA,leather products (small),T,I
+Crocodylus,US,CH,leather products (small),T,I
+Crocodylus,US,ES,leather products (small),T,R
+Crocodylus,US,FR,leather products (small),T,R
+Crocodylus,US,GB,leather products (large),P,I
+Crocodylus,US,GB,leather products (small),T,I
+Crocodylus,US,KR,leather products (small),P,I
+Crocodylus,US,LT,leather products (small),P,I
+Crocodylus,US,MX,garments,P,I
+Crocodylus,US,MX,leather products (small),P,I
+Crocodylus,US,NA,skins,H,W
+Crocodylus,US,NA,trophies,H,W
+Crocodylus,US,SD,leather products (small),P,I
+Crocodylus,US,SG,leather products (small),P,I
+Crocodylus,US,TH,leather products (small),T,I
+Crocodylus,US,TR,leather products (small),T,C
+Crocodylus,US,ZM,leather products (small),P,I
+Crocodylus,ZA,NA,trophies,H,W
+Crocodylus,AE,FR,garments,T,D
+Crocodylus,AE,FR,leather products (small),T,D
+Crocodylus,AE,FR,garments,T,D
+Crocodylus,AE,FR,leather products (large),T,D
+Crocodylus,AE,FR,leather products (small),T,D
+Crocodylus,AE,IT,leather products (small),T,D
+Crocodylus,AE,IT,leather products (small),T,D
+Crocodylus,AE,IT,leather products (small),P,C
+Crocodylus,AU,FR,leather products (small),T,D
+Crocodylus,AU,IT,skins,T,D
+Crocodylus,AU,SG,teeth,T,D
+Crocodylus,AZ,IT,leather products (large),T,D
+Crocodylus,AZ,IT,leather products (small),T,D
+Crocodylus,AZ,IT,leather products (small),T,D
+Crocodylus,BD,MY,live,T,C
+Crocodylus,BH,FR,leather products (small),T,D
+Crocodylus,BH,FR,leather products (small),T,D
+Crocodylus,BL,IT,leather products (small),T,D
+Crocodylus,BN,FR,leather products (small),T,D
+Crocodylus,BR,FR,leather products (small),T,D
+Crocodylus,CG,IT,leather products (small),P,D
+Crocodylus,CH,DE,leather products (small),T,D
+Crocodylus,CH,FR,skins,T,D
+Crocodylus,CH,FR,leather products (small),T,D
+Crocodylus,CH,FR,carvings,T,D
+Crocodylus,CH,FR,garments,T,D
+Crocodylus,CH,FR,leather products (large),T,D
+Crocodylus,CH,FR,leather products (small),T,D
+Crocodylus,CH,FR,skins,T,D
+Crocodylus,CH,GB,leather products (small),T,R
+Crocodylus,CH,IT,leather products (small),T,D
+Crocodylus,CN,FR,skins,T,D
+Crocodylus,CN,FR,leather products (large),T,D
+Crocodylus,CN,FR,leather products (small),T,D
+Crocodylus,CN,FR,carvings,T,D
+Crocodylus,CN,FR,garments,T,D
+Crocodylus,CN,FR,leather products (large),T,D
+Crocodylus,CN,FR,leather products (small),T,D
+Crocodylus,CN,FR,skins,T,D
+Crocodylus,CN,IT,leather products (small),T,R
+Crocodylus,CN,IT,leather products (small),T,D
+Crocodylus,CN,IT,jewellery,T,D
+Crocodylus,CN,IT,leather products (large),T,D
+Crocodylus,CN,IT,leather products (small),T,D
+Crocodylus,CN,IT,leather products (small),T,D
+Crocodylus,CN,IT,leather products (small),T,C
+Crocodylus,CN,MY,bodies,P,D
+Crocodylus,CN,MY,bodies,T,D
+Crocodylus,CN,MY,live,T,D
+Crocodylus,CN,SG,skins,T,D
+Crocodylus,CN,SG,skins,E,D
+Crocodylus,CN,SG,skins,T,D
+Crocodylus,CN,SG,skins,T,D
+Crocodylus,CN,SG,skins,T,D
+Crocodylus,CN,TH,skins,T,D
+Crocodylus,DE,MY,skins,T,D
+Crocodylus,DE,MY,tails,P,D
+Crocodylus,FR,AE,leather products (small),T,D
+Crocodylus,FR,CA,leather products (small),Q,O
+Crocodylus,FR,CH,leather products (small),T,C
+Crocodylus,FR,CH,garments,T,D
+Crocodylus,FR,CH,leather products (small),T,D
+Crocodylus,FR,CN,leather products (small),T,D
+Crocodylus,FR,CN,leather products (large),T,D
+Crocodylus,FR,CN,leather products (small),T,D
+Crocodylus,FR,HK,skins,T,D
+Crocodylus,FR,KR,garments,T,D
+Crocodylus,FR,KR,leather products (small),T,D
+Crocodylus,FR,MC,leather products (small),T,O
+Crocodylus,FR,MO,leather products (small),T,D
+Crocodylus,FR,MY,skins,T,D
+Crocodylus,FR,SG,skins,T,D
+Crocodylus,FR,SG,bodies,T,D
+Crocodylus,FR,SG,skin pieces,T,D
+Crocodylus,FR,SG,leather products (small),Q,O
+Crocodylus,FR,SG,skins,T,D
+Crocodylus,FR,TH,skins,T,D
+Crocodylus,FR,TR,leather products (small),T,D
+Crocodylus,GB,MY,skulls,P,D
+Crocodylus,GB,SG,carvings,T,D
+Crocodylus,HK,CH,leather products (small),T,D
+Crocodylus,HK,FR,leather products (small),T,D
+Crocodylus,HK,FR,skins,T,D
+Crocodylus,HK,FR,leather products (large),T,D
+Crocodylus,HK,FR,leather products (small),T,D
+Crocodylus,HK,FR,leather products (small),T,D
+Crocodylus,HK,FR,skins,T,D
+Crocodylus,HK,FR,leather products (small),T,O
+Crocodylus,HK,IT,leather products (small),T,D
+Crocodylus,HK,IT,leather products (small),T,D
+Crocodylus,HK,IT,jewellery,T,D
+Crocodylus,HK,IT,leather products (small),T,D
+Crocodylus,HK,IT,leather products (small),T,C
+Crocodylus,HK,MY,bodies,T,D
+Crocodylus,HK,MY,bones,T,D
+Crocodylus,HK,MY,meat,P,D
+Crocodylus,HK,MY,meat,T,D
+Crocodylus,HK,MY,skins,T,D
+Crocodylus,HK,MY,skins,T,D
+Crocodylus,HK,SG,skins,T,D
+Crocodylus,HK,SG,skins,T,D
+Crocodylus,HK,SG,skins,T,D
+Crocodylus,HK,SG,oil,T,D
+Crocodylus,HK,SG,skin pieces,T,D
+Crocodylus,HK,TH,leather products (small),T,D
+Crocodylus,HK,TH,skins,Q,D
+Crocodylus,HK,TH,skins,T,D
+Crocodylus,HK,TH,skin pieces,T,D
+Crocodylus,HK,TH,trophies,T,D
+Crocodylus,ID,FR,leather products (small),T,D
+Crocodylus,ID,FR,leather products (small),T,D
+Crocodylus,ID,IT,leather products (small),P,C
+Crocodylus,IT,CH,leather products (small),T,D
+Crocodylus,IT,CH,leather products (small),T,D
+Crocodylus,IT,CN,leather products (small),T,D
+Crocodylus,IT,CN,leather products (small),T,D
+Crocodylus,IT,MY,skins,T,D
+Crocodylus,IT,MY,skulls,P,D
+Crocodylus,IT,SG,skins,T,D
+Crocodylus,IT,SG,skins,T,D
+Crocodylus,IT,TH,skins,T,D
+Crocodylus,JP,BD,skins,T,D
+Crocodylus,JP,CH,leather products (small),T,D
+Crocodylus,JP,FR,leather products (small),T,D
+Crocodylus,JP,FR,garments,T,D
+Crocodylus,JP,FR,leather products (small),T,C
+Crocodylus,JP,FR,leather products (small),T,D
+Crocodylus,JP,GB,leather products (small),T,D
+Crocodylus,JP,IT,leather products (small),T,D
+Crocodylus,JP,SG,skins,T,D
+Crocodylus,KP,CN,bodies,E,U
+Crocodylus,KR,ES,skins,T,D
+Crocodylus,KR,ES,skins,T,D
+Crocodylus,KR,ES,skins,T,D
+Crocodylus,KR,FR,leather products (small),T,D
+Crocodylus,KR,FR,skins,T,D
+Crocodylus,KR,FR,leather products (small),T,D
+Crocodylus,KR,FR,skins,T,D
+Crocodylus,KR,FR,leather products (small),T,D
+Crocodylus,KR,FR,leather products (small),T,R
+Crocodylus,KR,FR,skins,T,D
+Crocodylus,KR,HK,leather products (small),T,D
+Crocodylus,KR,IT,leather products (small),T,R
+Crocodylus,KR,IT,leather products (small),T,D
+Crocodylus,KR,IT,leather products (small),T,D
+Crocodylus,KR,PH,oil,T,D
+Crocodylus,KR,SG,skins,T,D
+Crocodylus,KW,FR,leather products (small),T,D
+Crocodylus,KW,IT,leather products (small),T,D
+Crocodylus,KZ,FR,leather products (small),T,D
+Crocodylus,KZ,FR,garments,T,D
+Crocodylus,LB,FR,leather products (small),T,D
+Crocodylus,LB,FR,garments,T,D
+Crocodylus,LB,FR,leather products (small),T,D
+Crocodylus,LB,IT,skins,T,D
+Crocodylus,MC,FR,leather products (small),T,O
+Crocodylus,MC,FR,leather products (small),T,U
+Crocodylus,MC,IT,leather products (small),T,D
+Crocodylus,MO,FR,leather products (small),T,D
+Crocodylus,MO,FR,leather products (small),T,D
+Crocodylus,MO,IT,leather products (small),T,D
+Crocodylus,MO,IT,leather products (small),T,D
+Crocodylus,MY,FR,leather products (small),T,D
+Crocodylus,MY,FR,leather products (small),T,D
+Crocodylus,MY,FR,leather products (small),T,D
+Crocodylus,MY,SG,skins,T,D
+Crocodylus,MY,SG,skin pieces,T,D
+Crocodylus,MY,SG,leather products (small),T,D
+Crocodylus,PH,SG,leather products (small),T,D
+Crocodylus,QA,FR,leather products (small),T,D
+Crocodylus,RU,FR,leather products (small),T,D
+Crocodylus,RU,FR,garments,T,D
+Crocodylus,RU,FR,leather products (small),T,D
+Crocodylus,RU,IT,leather products (small),T,D
+Crocodylus,RU,IT,garments,T,D
+Crocodylus,RU,IT,leather products (small),P,D
+Crocodylus,RU,IT,leather products (small),T,D
+Crocodylus,RU,IT,leather products (small),T,D
+Crocodylus,SA,GB,leather products (small),T,R
+Crocodylus,SA,IT,leather products (small),P,D
+Crocodylus,SG,CN,skins,E,D
+Crocodylus,SG,CN,skins,T,D
+Crocodylus,SG,FR,leather products (small),T,D
+Crocodylus,SG,FR,skins,T,D
+Crocodylus,SG,FR,leather products (small),T,D
+Crocodylus,SG,FR,garments,T,D
+Crocodylus,SG,FR,leather products (large),T,D
+Crocodylus,SG,FR,leather products (small),T,D
+Crocodylus,SG,FR,skins,T,D
+Crocodylus,SG,HK,skins,T,D
+Crocodylus,SG,HK,skins,T,D
+Crocodylus,SG,IT,leather products (small),T,D
+Crocodylus,SG,IT,leather products (small),T,D
+Crocodylus,SG,MY,meat,T,D
+Crocodylus,SG,MY,oil,T,D
+Crocodylus,SG,MY,oil,T,D
+Crocodylus,SG,MY,skins,T,D
+Crocodylus,SG,MY,skin pieces,T,D
+Crocodylus,SG,PH,skins,T,D
+Crocodylus,SG,PH,skins,T,D
+Crocodylus,SG,PH,skin pieces,T,D
+Crocodylus,TH,FR,leather products (small),T,D
+Crocodylus,TH,FR,skins,T,D
+Crocodylus,TH,FR,leather products (small),T,D
+Crocodylus,TH,FR,skins,T,D
+Crocodylus,TH,IT,skins,T,D
+Crocodylus,TH,MY,bodies,T,D
+Crocodylus,TH,MY,live,T,D
+Crocodylus,TH,MY,meat,T,D
+Crocodylus,TH,MY,skins,T,D
+Crocodylus,TH,SG,skins,T,D
+Crocodylus,TH,SG,skins,T,D
+Crocodylus,TM,IT,garments,T,D
+Crocodylus,TR,FR,leather products (small),T,C
+Crocodylus,TR,FR,skins,T,D
+Crocodylus,TR,FR,skins,T,D
+Crocodylus,TR,FR,leather products (small),T,D
+Crocodylus,TR,FR,leather products (small),T,D
+Crocodylus,TR,FR,skins,T,D
+Crocodylus,TR,FR,skins,T,R
+Crocodylus,TR,IT,leather products (small),T,D
+Crocodylus,TR,MY,skulls,P,D
+Crocodylus,UA,FR,leather products (large),T,D
+Crocodylus,UA,IT,leather products (small),T,D
+Crocodylus,UA,IT,leather products (small),T,D
+Crocodylus,US,GB,leather products (small),T,I
+Crocodylus,US,GB,leather products (small),T,O
+Crocodylus,US,TH,leather products (small),T,I
+Crocodylus,VN,FR,leather products (small),T,D
+Crocodylus,VN,FR,leather products (small),T,D
+Crocodylus,VN,MY,skins,T,D
+Crocodylus,XX,IT,skins,T,D
+Crocodylus,XX,IT,leather products (small),T,D
+Crocodylus,XX,MC,leather products (small),P,D
+Crocodylus,XX,MC,garments,P,D
+Crocodylus,XX,MC,leather products (small),P,D
+Crocodylus,XX,MC,leather products (small),P,O
+Crocodylus,XX,MC,leather products (small),P,U
+Crocodylus,ZA,IT,leather products (small),T,D
+Crocodylus,KP,CU,live,Z,C
+Crocodylus,NO,DK,live,Z,F
+Crocodylus,SG,IT,leather products (small),P,C
+Crocodylus,AE,IT,leather products (small),P,D
+Crocodylus,AE,IT,leather products (small),T,D
+Crocodylus,AM,IT,leather products (small),T,D
+Crocodylus,AZ,IT,leather products (small),T,D
+Crocodylus,BE,TH,skulls,P,D
+Crocodylus,BH,IT,leather products (small),T,D
+Crocodylus,BL,IT,leather products (small),T,D
+Crocodylus,CA,RO,leather products (small),T,D
+Crocodylus,CG,FR,leather products (small),T,D
+Crocodylus,CH,IT,leather products (small),T,D
+Crocodylus,CH,IT,garments,T,D
+Crocodylus,CH,IT,leather products (small),P,D
+Crocodylus,CH,IT,leather products (small),T,D
+Crocodylus,CH,IT,leather products (large),T,D
+Crocodylus,CH,IT,leather products (small),T,D
+Crocodylus,CH,JP,skins,T,D
+Crocodylus,CH,SG,skins,T,D
+Crocodylus,CN,FR,leather products (small),T,D
+Crocodylus,CN,FR,skins,T,D
+Crocodylus,CN,IT,garments,P,D
+Crocodylus,CN,IT,leather products (small),T,D
+Crocodylus,CN,IT,leather products (small),P,D
+Crocodylus,CN,IT,leather products (small),T,D
+Crocodylus,CN,JP,skins,T,D
+Crocodylus,CN,KH,live,T,D
+Crocodylus,CN,SG,skins,T,D
+Crocodylus,CN,SG,skins,E,D
+Crocodylus,CN,SG,skins,T,D
+Crocodylus,CN,SG,oil,T,D
+Crocodylus,CN,TH,skins,T,D
+Crocodylus,CN,TH,leather products (small),T,D
+Crocodylus,CN,TH,jewellery,T,D
+Crocodylus,CN,TH,leather products (small),T,D
+Crocodylus,CN,TH,meat,T,D
+Crocodylus,CN,VN,live,B,D
+Crocodylus,CN,VN,live,T,D
+Crocodylus,CN,VN,meat,T,C
+Crocodylus,CN,VN,skins,T,D
+Crocodylus,CY,TR,skins,T,D
+Crocodylus,DE,SG,skins,T,D
+Crocodylus,DE,TH,derivatives,P,D
+Crocodylus,DE,TH,leather products (small),P,D
+Crocodylus,DE,TH,leather products (small),T,D
+Crocodylus,DE,TH,skins,P,D
+Crocodylus,DE,TH,skins,T,D
+Crocodylus,DE,VN,leather products (small),T,D
+Crocodylus,DK,VN,live,Z,D
+Crocodylus,ES,TH,leather products (small),T,D
+Crocodylus,FR,HK,skins,T,D
+Crocodylus,FR,HK,leather products (small),T,D
+Crocodylus,FR,JP,leather products (small),T,D
+Crocodylus,FR,TH,skins,T,D
+Crocodylus,FR,TR,skins,T,D
+Crocodylus,FR,VN,live,T,D
+Crocodylus,GB,TH,skulls,P,D
+Crocodylus,HK,FR,leather products (small),T,D
+Crocodylus,HK,FR,skins,T,D
+Crocodylus,HK,IT,jewellery,T,D
+Crocodylus,HK,IT,leather products (small),T,D
+Crocodylus,HK,IT,leather products (small),T,D
+Crocodylus,HK,SG,leather products (small),T,D
+Crocodylus,HK,SG,oil,T,D
+Crocodylus,HK,SG,oil,T,D
+Crocodylus,HK,SG,skins,T,D
+Crocodylus,HK,SG,oil,T,D
+Crocodylus,HK,SG,skins,T,D
+Crocodylus,HK,TH,meat,T,D
+Crocodylus,HK,TH,leather products (small),T,D
+Crocodylus,HK,TH,meat,T,D
+Crocodylus,HK,TH,skins,Q,D
+Crocodylus,HK,TR,skins,T,D
+Crocodylus,HK,VN,meat,T,D
+Crocodylus,HU,TH,skins,T,D
+Crocodylus,IL,FR,leather products (small),T,D
+Crocodylus,IN,CN,leather products (small),T,D
+Crocodylus,IN,HK,leather products (small),T,D
+Crocodylus,IT,AE,garments,T,D
+Crocodylus,IT,CH,leather products (small),T,D
+Crocodylus,IT,CH,skins,T,D
+Crocodylus,IT,CN,garments,T,D
+Crocodylus,IT,CN,leather products (small),T,D
+Crocodylus,IT,KR,leather products (small),T,D
+Crocodylus,IT,SG,skins,T,D
+Crocodylus,IT,SG,skins,T,D
+Crocodylus,IT,TH,bodies,T,D
+Crocodylus,IT,TH,skins,T,D
+Crocodylus,IT,TR,leather products (small),T,D
+Crocodylus,IT,VN,skins,T,D
+Crocodylus,JP,FR,leather products (small),T,D
+Crocodylus,JP,IT,leather products (small),T,D
+Crocodylus,JP,IT,leather products (small),T,D
+Crocodylus,JP,KH,skins,T,D
+Crocodylus,JP,SG,skins,T,D
+Crocodylus,JP,TH,leather products (small),P,D
+Crocodylus,JP,TH,skins,T,D
+Crocodylus,JP,TH,garments,P,D
+Crocodylus,JP,TH,garments,T,D
+Crocodylus,JP,TH,live,T,D
+Crocodylus,JP,TH,leather products (small),P,D
+Crocodylus,JP,TH,leather products (small),T,D
+Crocodylus,JP,TH,meat,T,D
+Crocodylus,JP,TH,skins,P,D
+Crocodylus,JP,TH,skins,T,D
+Crocodylus,JP,TH,specimens,S,D
+Crocodylus,JP,VN,leather products (small),T,D
+Crocodylus,JP,VN,leather products (small),T,D
+Crocodylus,JP,VN,skins,T,D
+Crocodylus,KR,CN,specimens,E,C
+Crocodylus,KR,ES,skins,T,D
+Crocodylus,KR,FR,skins,T,D
+Crocodylus,KR,FR,skins,T,D
+Crocodylus,KR,FR,skins,T,D
+Crocodylus,KR,IT,leather products (small),T,D
+Crocodylus,KR,IT,skins,T,D
+Crocodylus,KR,IT,leather products (small),T,D
+Crocodylus,KR,JP,skins,T,D
+Crocodylus,KR,JP,skins,T,D
+Crocodylus,KR,SG,skins,T,D
+Crocodylus,KR,SG,skins,T,D
+Crocodylus,MG,FR,skins,T,D
+Crocodylus,MG,FR,skins,T,D
+Crocodylus,MO,FR,leather products (large),T,D
+Crocodylus,MO,FR,leather products (small),T,D
+Crocodylus,MX,IT,skins,T,D
+Crocodylus,MX,IT,skins,T,D
+Crocodylus,NL,TH,skulls,T,D
+Crocodylus,NL,VN,leather products (small),T,D
+Crocodylus,NL,VN,skins,T,D
+Crocodylus,NZ,TH,leather products (small),P,D
+Crocodylus,NZ,TH,skins,P,D
+Crocodylus,QA,IT,leather products (small),T,D
+Crocodylus,RU,FR,garments,T,D
+Crocodylus,RU,FR,leather products (small),T,D
+Crocodylus,RU,IT,garments,T,D
+Crocodylus,RU,IT,leather products (large),T,D
+Crocodylus,RU,IT,leather products (small),P,D
+Crocodylus,RU,IT,leather products (small),T,D
+Crocodylus,RU,IT,leather products (large),T,D
+Crocodylus,RU,IT,leather products (small),P,D
+Crocodylus,RU,IT,leather products (small),T,D
+Crocodylus,SA,IT,leather products (small),T,D
+Crocodylus,SG,CN,skins,E,D
+Crocodylus,SG,CN,skins,T,D
+Crocodylus,SG,FR,leather products (large),T,D
+Crocodylus,SG,FR,skins,T,D
+Crocodylus,SG,HK,cosmetics,T,D
+Crocodylus,SG,HK,skins,T,D
+Crocodylus,SG,HK,skins,T,D
+Crocodylus,SG,MY,skins,T,D
+Crocodylus,SG,RO,leather products (small),T,D
+Crocodylus,SG,TH,meat,T,D
+Crocodylus,SG,TH,skins,P,D
+Crocodylus,SG,TH,skins,T,D
+Crocodylus,SG,VN,oil,T,D
+Crocodylus,SG,VN,skins,T,D
+Crocodylus,SG,XX,oil,T,D
+Crocodylus,TH,AE,leather products (small),Q,D
+Crocodylus,TH,FR,skins,T,D
+Crocodylus,TH,HK,meat,T,D
+Crocodylus,TH,JP,leather products (small),T,D
+Crocodylus,TH,JP,skins,T,D
+Crocodylus,TH,KH,live,T,D
+Crocodylus,TH,KH,skins,T,D
+Crocodylus,TH,SG,leather products (small),T,D
+Crocodylus,TH,SG,skins,T,D
+Crocodylus,TH,SG,skin pieces,T,D
+Crocodylus,TM,FR,leather products (small),T,D
+Crocodylus,TR,FR,garments,T,D
+Crocodylus,TR,FR,garments,T,D
+Crocodylus,TR,FR,leather products (small),T,D
+Crocodylus,TR,FR,skins,T,D
+Crocodylus,TR,FR,skins,T,I
+Crocodylus,TR,FR,skin pieces,T,D
+Crocodylus,TR,FR,skins,T,D
+Crocodylus,TR,IT,leather products (small),T,D
+Crocodylus,TR,SG,leather products (small),T,D
+Crocodylus,TW,IT,leather products (small),T,D
+Crocodylus,TW,IT,leather products (small),T,D
+Crocodylus,TW,SG,leather products (small),T,D
+Crocodylus,TW,SG,skins,T,D
+Crocodylus,UA,IT,leather products (small),T,D
+Crocodylus,US,HK,meat,P,I
+Crocodylus,US,HK,meat,T,I
+Crocodylus,US,IT,leather products (small),T,D
+Crocodylus,US,IT,leather products (small),T,I
+Crocodylus,US,KH,bodies,P,I
+Crocodylus,US,KH,leather products (small),P,I
+Crocodylus,US,KH,leather products (small),T,I
+Crocodylus,US,KH,trophies,P,I
+Crocodylus,US,RO,leather products (small),T,D
+Crocodylus,US,TH,bodies,P,I
+Crocodylus,US,TH,leather products (large),T,I
+Crocodylus,US,TH,medicine,P,I
+Crocodylus,US,TH,skins,P,I
+Crocodylus,US,TH,skulls,P,I
+Crocodylus,US,TR,leather products (small),T,D
+Crocodylus,US,TR,skins,T,D
+Crocodylus,US,VN,leather products (small),P,I
+Crocodylus,US,VN,skulls,P,I
+Crocodylus,UZ,FR,leather products (small),T,D
+Crocodylus,UZ,IT,leather products (small),T,D
+Crocodylus,VN,JP,skins,T,D
+Crocodylus,XX,IT,leather products (small),T,D
+Crocodylus,XX,IT,leather products (small),T,R
+Crocodylus,XX,IT,skins,T,D
+Crocodylus,XX,IT,skins,T,D
+Osteolaemus,ID,SK,live,T,C
+Osteolaemus,US,CD,meat,P,I
+Osteolaemus,US,NG,leather products (small),P,I
+Tomistoma,BD,MY,live,T,F
+Tomistoma,GB,MY,live,T,C
+Tomistoma,US,MY,live,T,F
+Andrias,GB,US,specimens,S,W
+Andrias,US,HK,specimens,S,C
+Orcaella,US,KH,specimens,S,W
+Sousa,CN,SG,live,Z,F
+Sousa,CN,SG,live,Z,W
+Sousa,CN,SG,live,Z,F
+Dermochelys,CN,GB,bodies,Q,O
+Dermochelys,US,CA,specimens,S,W
+Dermochelys,US,KN,specimens,S,W
+Dermochelys,US,NI,specimens,S,W
+Dugong,FR,AU,specimens,S,W
+Dugong,FR,FR,specimens,S,W
+,AE,DK,carvings,T,O
+,AE,FR,ivory carvings,T,O
+,AE,GB,ivory carvings,T,O
+,AR,CU,ivory carvings,P,O
+,AT,CH,ivory pieces,P,O
+,AT,HU,ivory carvings,T,O
+,AT,JP,ivory carvings,Q,O
+,AT,KR,ivory carvings,Q,O
+,AT,LI,ivory carvings,Q,O
+,AT,LI,ivory carvings,T,O
+,AU,GB,ivory carvings,P,O
+,AU,GB,ivory carvings,T,O
+,AU,GB,piano keys,P,O
+,AU,IE,ivory carvings,P,O
+,AU,JP,ivory carvings,T,O
+,BE,CH,ivory carvings,T,O
+,CA,FR,ivory carvings,Q,O
+,CA,GB,ivory carvings,P,O
+,CA,IE,ivory carvings,P,O
+,CH,AT,piano keys,P,O
+,CH,BE,ivory carvings,P,O
+,CH,DE,ivory carvings,P,O
+,CH,DE,ivory carvings,Q,O
+,CH,DE,ivory carvings,T,O
+,CH,DK,carvings,T,O
+,CH,FR,piano keys,P,O
+,CH,FR,ivory carvings,T,O
+,CH,GB,ivory carvings,Q,O
+,CH,GB,ivory carvings,T,O
+,CH,IT,ivory pieces,P,O
+,CH,PL,piano keys,T,O
+,CH,US,ivory carvings,T,I
+,CL,ES,ivory carvings,T,O
+,CL,GB,ivory carvings,T,O
+,CL,HU,ivory carvings,T,O
+,CL,HU,ivory carvings,T,O
+,CN,DE,ivory carvings,T,O
+,CN,DK,carvings,T,O
+,CN,DK,carvings,T,O
+,CN,ES,ivory carvings,P,W
+,CN,FR,ivory carvings,T,O
+,CN,FR,ivory carvings,P,O
+,CN,FR,ivory carvings,T,O
+,CN,GB,ivory carvings,T,O
+,CN,HU,ivory carvings,T,O
+,CN,IE,ivory carvings,T,O
+,CN,IT,ivory carvings,T,O
+,CN,IT,ivory pieces,P,O
+,CN,PH,ivory carvings,P,O
+,CN,PH,ivory pieces,P,O
+,CN,PL,piano keys,T,U
+,CN,PT,tusks,T,O
+,CN,US,ivory carvings,T,I
+,CN,ZA,ivory carvings,P,O
+,CO,ES,ivory carvings,T,W
+,CU,ES,ivory carvings,P,O
+,CU,ES,ivory carvings,P,O
+,CU,ES,ivory carvings,P,O
+,CZ,CH,ivory pieces,T,O
+,CZ,US,ivory pieces,Q,O
+,DE,CA,ivory carvings,T,O
+,DE,CH,ivory carvings,P,O
+,DE,CH,ivory carvings,Q,O
+,DE,CH,ivory carvings,T,O
+,DE,NO,ivory carvings,P,O
+,DE,NO,ivory carvings,T,O
+,DE,US,ivory carvings,Q,O
+,ES,CU,ivory carvings,P,O
+,ES,CU,ivory carvings,P,O
+,FR,CH,ivory carvings,P,O
+,FR,CH,ivory carvings,Q,O
+,FR,CH,ivory carvings,T,O
+,FR,CN,ivory carvings,T,O
+,FR,FR,ivory carvings,P,O
+,FR,HK,ivory carvings,T,O
+,FR,US,leather products (small),Q,O
+,GB,BS,ivory carvings,T,W
+,GB,CA,ivory carvings,P,O
+,GB,CA,ivory carvings,T,O
+,GB,CH,ivory carvings,Q,O
+,GB,CH,ivory carvings,T,O
+,GB,CN,ivory carvings,Q,O
+,GB,JP,ivory carvings,T,O
+,GB,NZ,ivory carvings,P,O
+,GB,SG,ivory carvings,P,O
+,GB,ZA,ivory carvings,P,O
+,GG,GB,ivory carvings,T,O
+,HK,AT,ivory carvings,T,O
+,HK,AT,piano keys,Q,O
+,HK,BE,ivory carvings,T,O
+,HK,BE,ivory carvings,T,O
+,HK,CH,ivory carvings,T,O
+,HK,CH,tusks,T,O
+,HK,DK,carvings,T,O
+,HK,ES,ivory carvings,T,O
+,HK,ES,ivory carvings,T,O
+,HK,ES,tusks,T,O
+,HK,FR,ivory carvings,T,O
+,HK,FR,ivory carvings,T,O
+,HK,GB,ivory carvings,T,O
+,HK,IE,ivory carvings,T,O
+,HK,PT,ivory carvings,T,O
+,HK,PT,tusks,T,O
+,HK,SE,ivory carvings,P,O
+,HK,SE,ivory carvings,T,O
+,HU,CH,ivory carvings,T,O
+,IE,CH,ivory carvings,T,O
+,IE,NZ,ivory carvings,E,O
+,IL,CU,ivory carvings,T,O
+,IS,GB,piano keys,T,O
+,IT,CA,ivory carvings,P,O
+,IT,MC,ivory carvings,T,O
+,IT,SG,ivory carvings,P,O
+,IT,US,leather products (small),Q,O
+,JP,FR,ivory carvings,T,O
+,JP,FR,piano keys,T,O
+,JP,GB,ivory carvings,T,O
+,JP,GR,ivory carvings,Q,O
+,JP,IT,ivory carvings,T,O
+,JP,NL,ivory carvings,P,O
+,JP,PL,piano keys,T,O
+,JP,US,ivory carvings,Q,O
+,KY,GB,ivory carvings,T,O
+,LB,US,ivory carvings,P,O
+,LI,AT,ivory carvings,E,O
+,LI,AT,ivory carvings,Q,O
+,MC,FR,jewellery - ivory ,T,O
+,MO,PT,ivory carvings,T,O
+,MX,CU,ivory carvings,T,O
+,MX,CU,ivory carvings,P,O
+,MX,ES,ivory carvings,Q,W
+,MX,ES,ivory carvings,T,W
+,MX,GB,ivory carvings,T,O
+,MX,GB,piano keys,T,O
+,MX,PT,ivory carvings,T,O
+,MX,US,leather products (small),P,I
+,NL,RU,ivory carvings,E,O
+,NL,US,ivory carvings,P,O
+,NL,US,ivory carvings,Q,O
+,NL,US,leather products (small),Q,O
+,NO,DE,ivory carvings,P,O
+,NO,DE,ivory carvings,T,O
+,NO,DK,carvings,T,O
+,NO,DK,ivory carvings,T,O
+,NO,DK,carvings,T,O
+,NO,DK,carvings,P,O
+,NO,DK,carvings,T,O
+,NO,NL,ivory carvings,T,O
+,NO,PL,piano keys,T,O
+,NO,SE,ivory carvings,T,O
+,NZ,FR,ivory carvings,P,O
+,NZ,FR,ivory carvings,P,O
+,NZ,GB,ivory carvings,P,O
+,NZ,GB,ivory carvings,T,O
+,NZ,HU,ivory carvings,T,O
+,NZ,IE,piano keys,P,O
+,NZ,ZA,piano keys,P,O
+,PE,BE,carvings,T,O
+,PH,SG,ivory carvings,E,O
+,PH,SG,ivory carvings,P,O
+,PL,CH,ivory carvings,P,O
+,PL,CH,ivory carvings,T,O
+,PL,NO,ivory carvings,T,O
+,PL,NO,ivory carvings,T,O
+,PT,SG,ivory carvings,E,O
+,RU,GB,ivory carvings,T,O
+,RU,JP,ivory carvings,P,O
+,SE,NO,ivory carvings,P,O
+,SE,NO,ivory carvings,P,O
+,SG,FR,ivory carvings,T,O
+,SG,GB,ivory carvings,E,O
+,SG,GB,ivory carvings,P,O
+,SG,HK,ivory carvings,P,O
+,SG,PH,ivory carvings,E,O
+,SG,PH,ivory carvings,Q,O
+,SG,PT,ivory carvings,E,O
+,SG,PT,ivory carvings,T,O
+,TW,GB,ivory carvings,T,O
+,TW,JP,ivory carvings,Q,O
+,US,AR,ivory carvings,T,I
+,US,AU,piano keys,P,I
+,US,BE,ivory carvings,P,I
+,US,BH,ivory carvings,P,I
+,US,CA,bone carvings,P,I
+,US,CA,ivory carvings,P,I
+,US,CA,ivory carvings,P,O
+,US,CA,ivory carvings,P,U
+,US,CA,piano keys,P,O
+,US,CA,leather products (small),Q,O
+,US,CN,jewellery - ivory ,P,I
+,US,CN,ivory carvings,P,I
+,US,CN,leather products (small),P,I
+,US,CZ,ivory pieces,Q,O
+,US,ET,jewellery - ivory ,P,I
+,US,ET,ivory carvings,P,I
+,US,FR,ivory carvings,P,I
+,US,FR,ivory carvings,Q,O
+,US,FR,ivory carvings,T,O
+,US,FR,leather products (small),Q,O
+,US,GB,bone carvings,P,I
+,US,GB,jewellery - ivory ,P,I
+,US,GB,jewellery - ivory ,T,I
+,US,GB,ivory carvings,P,I
+,US,GB,ivory carvings,P,O
+,US,GB,ivory carvings,Q,O
+,US,GB,ivory carvings,T,I
+,US,GB,ivory carvings,T,O
+,US,GB,piano keys,P,O
+,US,GB,piano keys,T,O
+,US,GB,leather products (small),P,I
+,US,ID,jewellery - ivory ,T,I
+,US,IT,leather products (small),Q,O
+,US,JP,ivory carvings,P,I
+,US,JP,leather products (small),P,I
+,US,JP,leather products (small),T,I
+,US,KE,ivory carvings,P,I
+,US,LA,meat,P,I
+,US,LA,skins,P,I
+,US,MX,leather products (large),T,I
+,US,MX,leather products (small),P,I
+,US,NL,ivory carvings,P,O
+,US,NL,ivory carvings,P,I
+,US,NL,ivory carvings,P,O
+,US,NL,ivory carvings,Q,O
+,US,NL,piano keys,P,O
+,US,NL,leather products (small),Q,O
+,US,PL,ivory carvings,P,O
+,US,PL,ivory carvings,P,O
+,US,RS,ivory pieces,P,O
+,US,RS,piano keys,P,I
+,US,SL,jewellery - ivory ,P,I
+,US,TH,hair,P,I
+,US,TH,jewellery - ivory ,P,I
+,US,TH,jewellery - ivory ,T,I
+,US,TH,ivory carvings,P,I
+,US,TH,meat,P,I
+,US,TH,meat,T,I
+,US,TH,skin pieces,P,I
+,US,TR,ivory pieces,Q,O
+,US,TW,skin pieces,P,I
+,US,VN,jewellery - ivory ,P,I
+,US,VN,ivory carvings,P,I
+,US,VN,jewellery,P,I
+,US,XX,jewellery - ivory ,P,I
+,US,XX,ivory carvings,P,I
+,US,XX,unspecified,P,I
+,US,ZA,piano keys,P,I
+,XX,DE,ivory carvings,P,O
+,XX,DE,ivory carvings,Q,O
+,XX,GB,ivory carvings,P,O
+,XX,GB,ivory carvings,T,O
+,XX,IE,ivory carvings,P,O
+,XX,PL,piano keys,T,O
+Elephas,AT,US,ivory carvings,Q,O
+Elephas,AT,US,ivory pieces,Q,O
+Elephas,AU,GB,ivory carvings,Q,O
+Elephas,AU,GB,ivory carvings,T,O
+Elephas,AU,KH,ivory pieces,P,O
+Elephas,AU,NL,ivory carvings,E,O
+Elephas,AU,NZ,ivory carvings,P,O
+Elephas,AZ,GE,live,Q,O
+Elephas,BE,SG,ivory carvings,Q,O
+Elephas,CA,FR,ivory carvings,Q,O
+Elephas,CA,FR,ivory carvings,Q,W
+Elephas,CA,GB,ivory carvings,T,O
+Elephas,CA,US,ivory carvings,Q,O
+Elephas,CH,AT,ivory carvings,P,O
+Elephas,CH,AT,ivory carvings,T,O
+Elephas,CH,DE,ivory carvings,Q,O
+Elephas,CH,FR,ivory carvings,P,O
+Elephas,CH,GB,ivory carvings,T,O
+Elephas,CL,CN,ivory carvings,Q,O
+Elephas,CL,CN,ivory carvings,Q,W
+Elephas,CL,PE,ivory carvings,P,O
+Elephas,CN,CL,ivory pieces,Q,O
+Elephas,CN,FR,ivory carvings,T,O
+Elephas,CN,GB,ivory carvings,T,O
+Elephas,CN,GB,ivory carvings,P,O
+Elephas,CN,GB,ivory carvings,T,O
+Elephas,CN,KR,ivory pieces,Q,O
+Elephas,CN,LA,live,Z,C
+Elephas,DE,CH,ivory carvings,Q,O
+Elephas,DE,NZ,ivory carvings,P,O
+Elephas,FR,CA,ivory carvings,Q,O
+Elephas,FR,CH,ivory carvings,T,O
+Elephas,FR,KR,ivory carvings,Q,O
+Elephas,FR,SG,ivory carvings,Q,O
+Elephas,GB,CA,ivory carvings,P,O
+Elephas,GB,CH,ivory carvings,T,O
+Elephas,GB,GG,ivory carvings,T,O
+Elephas,GB,MM,specimens,S,W
+Elephas,GB,SG,ivory carvings,Q,O
+Elephas,GB,SG,skeletons,Q,O
+Elephas,GB,US,ivory carvings,T,O
+Elephas,GE,DE,ivory carvings,P,O
+Elephas,GE,UA,live,Q,O
+Elephas,GR,US,ivory carvings,Q,O
+Elephas,HK,AT,ivory carvings,T,O
+Elephas,HK,BE,tusks,T,O
+Elephas,HK,FR,ivory carvings,T,O
+Elephas,HK,FR,jewellery - ivory ,T,O
+Elephas,HK,FR,ivory carvings,T,O
+Elephas,HK,GB,ivory carvings,T,O
+Elephas,HK,GB,ivory carvings,T,O
+Elephas,HK,IT,ivory carvings,T,O
+Elephas,IE,US,ivory carvings,P,O
+Elephas,IL,BE,specimens,B,C
+Elephas,IT,US,garments,Q,O
+Elephas,IT,US,ivory carvings,Q,O
+Elephas,JP,CN,ivory carvings,Q,O
+Elephas,JP,DE,ivory carvings,Q,O
+Elephas,JP,GB,ivory carvings,T,O
+Elephas,JP,US,ivory carvings,Q,O
+Elephas,KP,CN,bodies,E,U
+Elephas,KR,CN,ivory carvings,T,O
+Elephas,KR,FR,ivory carvings,Q,O
+Elephas,KR,GB,ivory carvings,T,O
+Elephas,KR,JP,ivory carvings,Q,O
+Elephas,KY,GB,ivory carvings,T,O
+Elephas,MY,GB,ivory carvings,T,O
+Elephas,MY,GB,ivory carvings,T,O
+Elephas,NL,CH,ivory carvings,Q,O
+Elephas,NO,DE,live,Q,O
+Elephas,NO,DK,ivory carvings,T,O
+Elephas,NZ,GB,ivory carvings,T,O
+Elephas,NZ,GB,ivory carvings,T,O
+Elephas,PK,LK,live,Z,C
+Elephas,PT,ZA,ivory carvings,T,O
+Elephas,RU,GB,leather products (small),T,O
+Elephas,RU,UZ,live,Q,U
+Elephas,SG,AU,ivory carvings,P,O
+Elephas,SG,BE,ivory carvings,Q,O
+Elephas,SG,FR,ivory carvings,P,O
+Elephas,SG,FR,ivory carvings,P,O
+Elephas,SG,GB,ivory carvings,E,O
+Elephas,SG,GB,ivory carvings,T,O
+Elephas,TR,GB,ivory carvings,T,O
+Elephas,TW,GB,ivory carvings,T,O
+Elephas,TW,US,ivory carvings,Q,O
+Elephas,UA,BY,live,Q,C
+Elephas,US,AR,ivory carvings,T,I
+Elephas,US,AT,ivory carvings,T,O
+Elephas,US,BM,ivory carvings,P,O
+Elephas,US,CN,ivory carvings,P,I
+Elephas,US,DK,ivory carvings,Q,O
+Elephas,US,GB,ivory carvings,Q,O
+Elephas,US,GB,ivory carvings,P,O
+Elephas,US,GB,ivory carvings,T,I
+Elephas,US,GB,ivory carvings,T,O
+Elephas,US,GR,ivory carvings,Q,O
+Elephas,US,IT,ivory carvings,Q,O
+Elephas,US,KW,tusks,P,O
+Elephas,US,KW,tusks,P,W
+Elephas,US,LA,skin pieces,P,I
+Elephas,US,LA,skin pieces,P,I
+Elephas,US,NL,leather products (small),Q,O
+Elephas,US,TH,jewellery - ivory ,P,I
+Elephas,US,TH,skin pieces,P,I
+Elephas,US,TH,teeth,P,I
+Elephas,US,TW,ivory carvings,Q,O
+Elephas,US,UA,piano keys,P,O
+Elephas,US,VN,jewellery,T,I
+Elephas,US,VN,jewellery - ivory ,P,I
+Elephas,US,VN,jewellery - ivory ,T,I
+Elephas,US,VN,leather products (small),P,I
+Elephas,UZ,RU,live,Q,O
+Elephas,XX,DE,bodies,Q,O
+Elephas,XX,DE,live,Q,O
+Elephas,XX,DE,live,Q,C
+Elephas,XX,IT,garments,Q,O
+Elephas,XX,IT,ivory carvings,Q,O
+Loxodonta,AE,GB,ivory carvings,T,O
+Loxodonta,AE,GB,piano keys,P,O
+Loxodonta,AE,UG,ivory carvings,E,W
+Loxodonta,AR,MZ,trophies,H,W
+Loxodonta,AR,ZA,trophies,H,W
+Loxodonta,AR,ZA,tusks,H,W
+Loxodonta,AT,US,ivory carvings,Q,O
+Loxodonta,AT,ZM,trophies,H,W
+Loxodonta,AT,ZM,tusks,H,W
+Loxodonta,AU,ES,ivory carvings,T,O
+Loxodonta,AU,FR,ivory carvings,Q,O
+Loxodonta,AU,GB,ivory carvings,T,O
+Loxodonta,AU,GB,piano keys,P,O
+Loxodonta,AU,NZ,feet,P,O
+Loxodonta,AU,NZ,ivory carvings,P,O
+Loxodonta,AU,US,ivory carvings,Q,O
+Loxodonta,AU,US,piano keys,T,O
+Loxodonta,AU,UY,ivory carvings,T,W
+Loxodonta,BA,US,ivory carvings,P,O
+Loxodonta,BE,AD,ivory carvings,P,O
+Loxodonta,BE,CH,ivory carvings,T,O
+Loxodonta,BE,US,ivory carvings,Q,O
+Loxodonta,BE,ZA,tusks,P,W
+Loxodonta,BM,US,ivory carvings,P,O
+Loxodonta,BW,DK,tusks,P,O
+Loxodonta,CA,FR,ivory carvings,T,O
+Loxodonta,CA,FR,ivory carvings,Q,O
+Loxodonta,CA,FR,piano keys,P,O
+Loxodonta,CA,GB,ivory carvings,T,O
+Loxodonta,CA,GB,piano keys,P,O
+Loxodonta,CA,US,ivory carvings,Q,O
+Loxodonta,CA,US,piano keys,P,O
+Loxodonta,CH,AT,ivory carvings,T,O
+Loxodonta,CH,AT,piano keys,T,O
+Loxodonta,CH,AT,specimens,S,I
+Loxodonta,CH,BE,tusks,P,O
+Loxodonta,CH,BE,ivory carvings,T,O
+Loxodonta,CH,DE,ivory carvings,P,W
+Loxodonta,CH,DE,ivory carvings,T,O
+Loxodonta,CH,DE,ivory carvings,P,O
+Loxodonta,CH,DE,ivory carvings,P,O
+Loxodonta,CH,DE,ivory carvings,Q,O
+Loxodonta,CH,DE,ivory carvings,T,O
+Loxodonta,CH,DE,ivory pieces,T,O
+Loxodonta,CH,DK,ivory carvings,T,O
+Loxodonta,CH,FR,ivory carvings,T,O
+Loxodonta,CH,FR,tusks,H,W
+Loxodonta,CH,FR,ivory carvings,T,O
+Loxodonta,CH,FR,ivory carvings,Q,O
+Loxodonta,CH,FR,ivory carvings,T,O
+Loxodonta,CH,FR,piano keys,P,O
+Loxodonta,CH,FR,piano keys,T,O
+Loxodonta,CH,FR,tusks,Q,O
+Loxodonta,CH,GB,ivory carvings,T,O
+Loxodonta,CH,GB,ivory carvings,T,O
+Loxodonta,CH,IT,ivory carvings,T,O
+Loxodonta,CH,IT,ivory pieces,P,O
+Loxodonta,CH,IT,ivory pieces,P,W
+Loxodonta,CH,SG,ivory carvings,Q,O
+Loxodonta,CH,US,ivory carvings,P,O
+Loxodonta,CH,US,ivory carvings,T,O
+Loxodonta,CL,AR,ivory carvings,,O
+Loxodonta,CN,DE,ivory carvings,P,O
+Loxodonta,CN,DE,ivory carvings,T,O
+Loxodonta,CN,FR,ivory carvings,P,O
+Loxodonta,CN,FR,ivory carvings,P,O
+Loxodonta,CN,FR,ivory carvings,T,O
+Loxodonta,CN,FR,piano keys,T,O
+Loxodonta,CN,GB,ivory carvings,P,O
+Loxodonta,CN,GB,ivory carvings,Q,O
+Loxodonta,CN,GB,ivory carvings,T,O
+Loxodonta,CN,GB,piano keys,T,O
+Loxodonta,CN,PT,tusks,T,O
+Loxodonta,CN,PT,tusks,T,W
+Loxodonta,CN,SI,tusks,T,O
+Loxodonta,CN,US,ivory carvings,Q,O
+Loxodonta,CN,US,piano keys,T,O
+Loxodonta,CN,US,leather products (small),Q,O
+Loxodonta,CN,UY,ivory carvings,P,O
+Loxodonta,CN,ZA,tusks,H,W
+Loxodonta,DE,CD,specimens,S,W
+Loxodonta,DE,CH,ivory carvings,P,O
+Loxodonta,DE,CH,ivory carvings,Q,O
+Loxodonta,DE,CH,ivory carvings,T,O
+Loxodonta,DE,CH,ivory carvings,T,W
+Loxodonta,DE,CI,bones,S,W
+Loxodonta,DE,CI,specimens,S,W
+Loxodonta,DE,US,ivory carvings,Q,O
+Loxodonta,DE,US,ivory carvings,P,O
+Loxodonta,DE,VE,piano keys,P,O
+Loxodonta,DK,KE,feet,P,W
+Loxodonta,DK,NA,trophies,H,W
+Loxodonta,DK,NO,ivory carvings,P,O
+Loxodonta,DK,ZM,trophies,H,W
+Loxodonta,DK,ZW,leather products (small),P,W
+Loxodonta,EG,AE,tusks,E,W
+Loxodonta,ES,US,ivory carvings,P,O
+Loxodonta,ES,VE,ivory carvings,T,O
+Loxodonta,ET,AE,ivory pieces,E,W
+Loxodonta,ET,AE,tusks,E,W
+Loxodonta,FI,NZ,ivory carvings,P,O
+Loxodonta,FI,US,ivory carvings,Q,O
+Loxodonta,FR,CA,ivory carvings,Q,O
+Loxodonta,FR,CH,ivory carvings,P,O
+Loxodonta,FR,CH,ivory carvings,Q,O
+Loxodonta,FR,CH,ivory carvings,T,O
+Loxodonta,FR,CH,piano keys,P,W
+Loxodonta,FR,JP,ivory carvings,Q,O
+Loxodonta,FR,KR,ivory carvings,Q,O
+Loxodonta,FR,MX,ivory carvings,Q,O
+Loxodonta,FR,RU,ivory carvings,Q,O
+Loxodonta,FR,SG,ivory carvings,Q,O
+Loxodonta,FR,US,piano keys,P,O
+Loxodonta,FR,US,ivory carvings,P,O
+Loxodonta,FR,US,ivory carvings,Q,O
+Loxodonta,FR,US,piano keys,P,O
+Loxodonta,FR,US,leather products (small),Q,O
+Loxodonta,FR,ZA,ivory carvings,P,O
+Loxodonta,GB,AU,ivory carvings,Q,O
+Loxodonta,GB,AU,ivory carvings,T,O
+Loxodonta,GB,AU,piano keys,P,O
+Loxodonta,GB,CH,ivory carvings,Q,O
+Loxodonta,GB,CH,ivory carvings,T,O
+Loxodonta,GB,CN,ivory carvings,T,O
+Loxodonta,GB,GG,ivory carvings,T,O
+Loxodonta,GB,HK,ivory carvings,T,O
+Loxodonta,GB,JE,ivory carvings,T,O
+Loxodonta,GB,JP,ivory carvings,P,O
+Loxodonta,GB,JP,ivory carvings,Q,O
+Loxodonta,GB,KE,ivory carvings,P,W
+Loxodonta,GB,KE,piano keys,P,W
+Loxodonta,GB,NZ,ivory carvings,P,O
+Loxodonta,GB,NZ,piano keys,P,O
+Loxodonta,GB,SG,ivory carvings,Q,O
+Loxodonta,GB,TR,ivory carvings,T,O
+Loxodonta,GB,TR,ivory pieces,T,W
+Loxodonta,GB,US,ivory carvings,P,O
+Loxodonta,GB,US,ivory carvings,Q,O
+Loxodonta,GB,US,ivory carvings,T,O
+Loxodonta,GB,US,leather products (small),P,O
+Loxodonta,GB,US,leather products (small),Q,O
+Loxodonta,GB,UY,ivory carvings,T,O
+Loxodonta,GB,UY,ivory carvings,T,W
+Loxodonta,GB,VE,ivory carvings,T,O
+Loxodonta,GB,ZA,trophies,H,W
+Loxodonta,GB,ZA,tusks,P,W
+Loxodonta,GL,DK,ivory carvings,P,O
+Loxodonta,HK,AT,ivory carvings,T,O
+Loxodonta,HK,AT,piano keys,P,O
+Loxodonta,HK,BE,tusks,T,O
+Loxodonta,HK,BE,tusks,T,O
+Loxodonta,HK,BE,ivory carvings,T,O
+Loxodonta,HK,BE,ivory carvings,T,O
+Loxodonta,HK,BE,tusks,T,O
+Loxodonta,HK,BE,tusks,T,O
+Loxodonta,HK,BE,tusks,T,O
+Loxodonta,HK,BE,ivory carvings,T,O
+Loxodonta,HK,BE,tusks,T,O
+Loxodonta,HK,BE,ivory carvings,T,O
+Loxodonta,HK,BE,ivory carvings,T,O
+Loxodonta,HK,BE,tusks,T,O
+Loxodonta,HK,BE,tusks,T,O
+Loxodonta,HK,BE,ivory carvings,T,O
+Loxodonta,HK,BE,tusks,T,O
+Loxodonta,HK,BE,tusks,T,O
+Loxodonta,HK,BE,tusks,T,O
+Loxodonta,HK,BE,tusks,T,O
+Loxodonta,HK,BE,tusks,T,O
+Loxodonta,HK,BE,tusks,T,O
+Loxodonta,HK,BE,tusks,T,O
+Loxodonta,HK,BE,tusks,T,O
+Loxodonta,HK,BE,tusks,T,O
+Loxodonta,HK,BE,ivory carvings,T,O
+Loxodonta,HK,BE,tusks,T,O
+Loxodonta,HK,BE,tusks,T,O
+Loxodonta,HK,CA,tusks,T,O
+Loxodonta,HK,CH,tusks,T,O
+Loxodonta,HK,DE,ivory carvings,T,O
+Loxodonta,HK,ES,ivory carvings,T,O
+Loxodonta,HK,ES,ivory carvings,T,O
+Loxodonta,HK,ES,tusks,T,O
+Loxodonta,HK,ES,tusks,T,O
+Loxodonta,HK,ES,tusks,T,O
+Loxodonta,HK,ES,tusks,T,O
+Loxodonta,HK,ES,tusks,T,O
+Loxodonta,HK,ES,tusks,T,O
+Loxodonta,HK,ES,tusks,T,O
+Loxodonta,HK,ES,tusks,T,O
+Loxodonta,HK,ES,tusks,T,O
+Loxodonta,HK,ES,tusks,T,O
+Loxodonta,HK,FR,ivory carvings,T,O
+Loxodonta,HK,GB,ivory carvings,T,O
+Loxodonta,HK,LT,tusks,T,O
+Loxodonta,HK,LT,tusks,T,O
+Loxodonta,HK,PT,tusks,T,O
+Loxodonta,HK,PT,tusks,T,O
+Loxodonta,HK,PT,ivory carvings,T,O
+Loxodonta,HK,PT,tusks,T,O
+Loxodonta,HK,PT,ivory carvings,T,O
+Loxodonta,HK,PT,tusks,T,O
+Loxodonta,HK,SI,tusks,T,O
+Loxodonta,HK,SI,tusks,T,O
+Loxodonta,HK,SI,tusks,T,O
+Loxodonta,HK,US,ivory carvings,Q,O
+Loxodonta,HK,US,ivory carvings,T,I
+Loxodonta,HK,US,ivory carvings,T,O
+Loxodonta,HK,US,piano keys,T,I
+Loxodonta,HK,ZA,tusks,T,O
+Loxodonta,HU,MC,live,Q,W
+Loxodonta,HU,MC,live,Q,U
+Loxodonta,HU,MC,live,Q,W
+Loxodonta,IN,GB,ivory carvings,T,O
+Loxodonta,IN,RU,ivory carvings,E,O
+Loxodonta,IT,MZ,trophies,H,W
+Loxodonta,IT,US,ivory carvings,Q,O
+Loxodonta,IT,US,ivory carvings,T,O
+Loxodonta,IT,ZM,trophies,H,W
+Loxodonta,IT,ZM,tusks,H,W
+Loxodonta,JO,AE,ivory pieces,E,W
+Loxodonta,JO,AE,tusks,E,W
+Loxodonta,JP,BE,ivory carvings,T,O
+Loxodonta,JP,BE,ivory carvings,T,O
+Loxodonta,JP,DE,ivory carvings,P,O
+Loxodonta,JP,DE,ivory carvings,T,O
+Loxodonta,JP,DE,ivory pieces,T,O
+Loxodonta,JP,DE,ivory carvings,T,O
+Loxodonta,JP,DE,ivory carvings,P,O
+Loxodonta,JP,DE,ivory carvings,P,W
+Loxodonta,JP,DE,ivory carvings,T,O
+Loxodonta,JP,DE,ivory carvings,T,O
+Loxodonta,JP,FR,ivory carvings,Q,O
+Loxodonta,JP,FR,ivory carvings,T,O
+Loxodonta,JP,GB,ivory carvings,Q,O
+Loxodonta,JP,GB,ivory carvings,P,O
+Loxodonta,JP,GB,ivory carvings,Q,O
+Loxodonta,JP,GB,ivory carvings,T,O
+Loxodonta,JP,GB,piano keys,P,O
+Loxodonta,JP,GB,piano keys,T,O
+Loxodonta,JP,GB,ivory carvings,Q,O
+Loxodonta,JP,IT,leather products (small),T,W
+Loxodonta,JP,PL,ivory carvings,T,O
+Loxodonta,JP,PL,piano keys,T,O
+Loxodonta,JP,PL,ivory carvings,T,O
+Loxodonta,JP,PL,piano keys,T,O
+Loxodonta,JP,RO,ivory carvings,P,O
+Loxodonta,JP,US,ivory carvings,P,I
+Loxodonta,JP,US,ivory carvings,Q,O
+Loxodonta,KE,NL,ivory pieces,L,I
+Loxodonta,KE,NL,ivory pieces,L,
+Loxodonta,KH,DE,ivory carvings,P,O
+Loxodonta,KR,DE,ivory carvings,T,O
+Loxodonta,KR,DK,ivory carvings,T,O
+Loxodonta,KR,FR,ivory carvings,Q,O
+Loxodonta,KR,US,piano keys,P,I
+Loxodonta,KR,US,piano keys,P,O
+Loxodonta,KR,US,ivory carvings,Q,O
+Loxodonta,LB,DE,ivory carvings,P,W
+Loxodonta,LB,UY,ivory carvings,T,W
+Loxodonta,MC,CH,ivory carvings,P,O
+Loxodonta,MC,DE,live,Q,W
+Loxodonta,MC,DE,live,Q,O
+Loxodonta,MC,DE,live,Q,W
+Loxodonta,MC,UY,ivory carvings,T,O
+Loxodonta,MC,UY,ivory carvings,T,W
+Loxodonta,MX,ES,ivory carvings,Q,O
+Loxodonta,MX,FR,ivory carvings,T,O
+Loxodonta,MX,GB,piano keys,T,O
+Loxodonta,MX,US,ivory carvings,P,O
+Loxodonta,MY,AT,specimens,S,I
+Loxodonta,MY,AT,specimens,S,I
+Loxodonta,MY,GB,ivory carvings,T,O
+Loxodonta,MY,GB,ivory carvings,T,O
+Loxodonta,NL,AU,ivory carvings,P,O
+Loxodonta,NL,US,ivory carvings,Q,O
+Loxodonta,NL,ZA,ears,H,W
+Loxodonta,NL,ZA,feet,H,W
+Loxodonta,NL,ZA,skin pieces,H,W
+Loxodonta,NL,ZA,tusks,H,W
+Loxodonta,NO,GB,ivory carvings,T,O
+Loxodonta,NO,GB,piano keys,T,O
+Loxodonta,NO,GB,tusks,P,O
+Loxodonta,NO,IT,leather products (small),T,W
+Loxodonta,NO,US,ivory carvings,P,O
+Loxodonta,NZ,DE,ivory carvings,P,O
+Loxodonta,NZ,DE,piano keys,P,O
+Loxodonta,NZ,FR,ivory carvings,P,O
+Loxodonta,NZ,FR,ivory carvings,P,O
+Loxodonta,NZ,FR,ivory carvings,P,U
+Loxodonta,NZ,GB,ivory carvings,P,O
+Loxodonta,NZ,GB,ivory carvings,T,O
+Loxodonta,NZ,GB,piano keys,P,O
+Loxodonta,NZ,GB,ivory carvings,T,O
+Loxodonta,NZ,HK,ivory pieces,L,I
+Loxodonta,NZ,HK,ivory pieces,L,I
+Loxodonta,NZ,US,piano keys,P,O
+Loxodonta,NZ,ZA,tusks,P,O
+Loxodonta,NZ,ZA,feet,H,W
+Loxodonta,NZ,ZA,skin pieces,H,W
+Loxodonta,NZ,ZA,tusks,H,W
+Loxodonta,OM,GB,ivory carvings,T,O
+Loxodonta,PE,DE,ivory carvings,P,W
+Loxodonta,PE,MZ,trophies,H,W
+Loxodonta,PG,NZ,ivory carvings,P,O
+Loxodonta,PH,ES,ivory carvings,T,O
+Loxodonta,PH,FR,ivory carvings,T,O
+Loxodonta,PH,HK,ivory carvings,T,O
+Loxodonta,PH,HK,piano keys,P,O
+Loxodonta,PL,US,ivory carvings,P,O
+Loxodonta,PL,ZM,tusks,,W
+Loxodonta,PT,AD,ivory carvings,P,O
+Loxodonta,PT,US,ivory carvings,E,O
+Loxodonta,PT,US,ivory carvings,Q,O
+Loxodonta,RU,AT,ivory carvings,T,O
+Loxodonta,RU,DE,ivory carvings,T,O
+Loxodonta,RU,FR,ivory carvings,T,O
+Loxodonta,RU,FR,trophies,H,W
+Loxodonta,RU,FR,ivory carvings,Q,O
+Loxodonta,RU,GB,ivory carvings,T,O
+Loxodonta,RU,GR,ivory carvings,Q,O
+Loxodonta,RU,IN,ivory carvings,E,O
+Loxodonta,SE,NO,ivory carvings,P,O
+Loxodonta,SE,US,piano keys,P,O
+Loxodonta,SE,ZA,trophies,H,W
+Loxodonta,SG,CH,ivory carvings,Q,O
+Loxodonta,SG,FR,ivory carvings,T,O
+Loxodonta,SG,GB,ivory carvings,P,O
+Loxodonta,SG,GB,ivory carvings,T,O
+Loxodonta,TH,GB,piano keys,P,O
+Loxodonta,TW,DE,ivory carvings,P,O
+Loxodonta,TW,GB,ivory carvings,T,O
+Loxodonta,TW,US,ivory carvings,Q,O
+Loxodonta,TZ,US,ivory pieces,L,I
+Loxodonta,UA,FR,ivory carvings,T,O
+Loxodonta,UG,AE,ivory carvings,E,W
+Loxodonta,UG,AE,ivory pieces,E,W
+Loxodonta,UG,AE,tusks,E,W
+Loxodonta,US,AR,piano keys,P,O
+Loxodonta,US,AR,piano keys,,O
+Loxodonta,US,AT,ivory carvings,T,I
+Loxodonta,US,AT,leather products (small),P,I
+Loxodonta,US,BE,ivory carvings,P,O
+Loxodonta,US,BE,ivory carvings,P,O
+Loxodonta,US,BE,ivory carvings,Q,O
+Loxodonta,US,BE,ivory pieces,T,I
+Loxodonta,US,BE,piano keys,P,O
+Loxodonta,US,BE,tusks,T,I
+Loxodonta,US,BM,ivory carvings,P,O
+Loxodonta,US,CA,tusks,P,O
+Loxodonta,US,CA,piano keys,P,O
+Loxodonta,US,CA,tusks,L,I
+Loxodonta,US,CD,ivory carvings,P,I
+Loxodonta,US,CH,ivory carvings,P,I
+Loxodonta,US,CH,ivory carvings,P,O
+Loxodonta,US,CH,ivory carvings,Q,O
+Loxodonta,US,CH,leather products (small),P,I
+Loxodonta,US,CM,ivory pieces,S,I
+Loxodonta,US,CM,ivory carvings,P,I
+Loxodonta,US,CN,ivory carvings,P,I
+Loxodonta,US,CN,ivory carvings,Q,O
+Loxodonta,US,CN,leather products (small),Q,O
+Loxodonta,US,CZ,ivory carvings,Q,I
+Loxodonta,US,DE,ivory carvings,P,O
+Loxodonta,US,DE,ivory carvings,P,W
+Loxodonta,US,DE,ivory carvings,Q,O
+Loxodonta,US,DE,ivory carvings,T,O
+Loxodonta,US,DE,piano keys,P,O
+Loxodonta,US,DE,piano keys,P,U
+Loxodonta,US,DK,ivory carvings,Q,O
+Loxodonta,US,DK,ivory carvings,T,I
+Loxodonta,US,ES,ivory carvings,P,O
+Loxodonta,US,ES,ivory carvings,T,O
+Loxodonta,US,FR,ivory carvings,P,O
+Loxodonta,US,FR,ivory carvings,E,O
+Loxodonta,US,FR,ivory carvings,P,O
+Loxodonta,US,FR,ivory carvings,Q,O
+Loxodonta,US,FR,ivory carvings,T,I
+Loxodonta,US,FR,ivory carvings,T,O
+Loxodonta,US,FR,ivory pieces,Q,O
+Loxodonta,US,FR,piano keys,P,O
+Loxodonta,US,FR,leather products (small),Q,O
+Loxodonta,US,FR,leather products (small),T,I
+Loxodonta,US,GB,ivory carvings,P,O
+Loxodonta,US,GB,ivory carvings,Q,O
+Loxodonta,US,GB,ivory carvings,T,I
+Loxodonta,US,GB,ivory pieces,Q,O
+Loxodonta,US,GB,piano keys,P,I
+Loxodonta,US,GB,piano keys,P,O
+Loxodonta,US,GB,leather products (small),P,O
+Loxodonta,US,GB,leather products (small),Q,O
+Loxodonta,US,GB,specimens,S,W
+Loxodonta,US,GB,ivory carvings,P,O
+Loxodonta,US,IE,ivory carvings,P,I
+Loxodonta,US,JP,ivory carvings,Q,C
+Loxodonta,US,JP,ivory carvings,Q,O
+Loxodonta,US,KE,jewellery,H,I
+Loxodonta,US,KE,ivory pieces,S,W
+Loxodonta,US,KE,skin pieces,P,I
+Loxodonta,US,KR,ivory carvings,Q,O
+Loxodonta,US,LU,ivory carvings,Q,O
+Loxodonta,US,MX,ivory carvings,P,O
+Loxodonta,US,MX,leather products (small),P,I
+Loxodonta,US,MZ,ivory pieces,S,I
+Loxodonta,US,NA,trophies,H,W
+Loxodonta,US,NA,tusks,H,W
+Loxodonta,US,NG,jewellery - ivory ,P,I
+Loxodonta,US,NG,jewellery - ivory ,P,I
+Loxodonta,US,NG,jewellery - ivory ,T,I
+Loxodonta,US,NG,ivory carvings,P,I
+Loxodonta,US,NG,ivory carvings,T,I
+Loxodonta,US,NL,piano keys,P,O
+Loxodonta,US,NL,leather products (small),P,O
+Loxodonta,US,NO,ivory carvings,P,O
+Loxodonta,US,NO,leather products (small),P,O
+Loxodonta,US,NZ,piano keys,P,O
+Loxodonta,US,PL,ivory carvings,P,O
+Loxodonta,US,SA,ivory carvings,P,I
+Loxodonta,US,SD,specimens,S,W
+Loxodonta,US,SZ,live,Z,W
+Loxodonta,US,TR,ivory carvings,Q,O
+Loxodonta,US,UG,ivory pieces,S,W
+Loxodonta,US,UG,bone pieces,S,W
+Loxodonta,US,UG,specimens,S,W
+Loxodonta,US,UG,specimens,L,W
+Loxodonta,US,UG,teeth,S,W
+Loxodonta,US,VN,ivory pieces,S,W
+Loxodonta,US,XX,ivory carvings,P,O
+Loxodonta,US,ZA,ears,H,W
+Loxodonta,US,ZA,specimens,S,W
+Loxodonta,US,ZA,jewellery - ivory ,P,I
+Loxodonta,US,ZA,leather products (small),P,I
+Loxodonta,US,ZA,piano keys,P,O
+Loxodonta,US,ZA,trophies,H,W
+Loxodonta,US,ZM,specimens,S,W
+Loxodonta,US,ZW,ears,P,W
+Loxodonta,US,ZW,feet,P,W
+Loxodonta,US,ZW,skin pieces,P,W
+Loxodonta,US,ZW,tails,P,W
+Loxodonta,US,ZW,tusks,P,W
+Loxodonta,UY,AR,piano keys,,O
+Loxodonta,VN,AT,specimens,S,I
+Loxodonta,VN,DE,ivory carvings,T,O
+Loxodonta,VN,GB,ivory carvings,T,O
+Loxodonta,XX,DE,ivory carvings,P,O
+Loxodonta,XX,DE,ivory carvings,Q,O
+Loxodonta,XX,GB,ivory carvings,P,O
+Loxodonta,XX,GB,ivory carvings,T,O
+Loxodonta,XX,ZM,jewellery - ivory ,P,O
+Loxodonta,ZA,GB,ivory carvings,T,O
+Loxodonta,ZA,IT,ivory carvings,T,O
+Loxodonta,ZA,US,ivory carvings,T,O
+Loxodonta,ZW,ZM,trophies,H,W
+Equus,CL,FR,live,Z,C
+Equus,FR,CH,live,Z,C
+Equus,MX,PL,live,Z,C
+Equus,MX,US,live,Z,F
+Equus,AT,MN,hair,S,W
+Equus,AT,MN,specimens,S,W
+Equus,AT,RU,hair,S,O
+Equus,AT,RU,hair,S,O
+Equus,CZ,MN,specimens,S,C
+Equus,MN,CZ,live,N,C
+Equus,MN,CZ,live,N,C
+Equus,MN,CZ,live,N,C
+Equus,RU,HU,live,Z,C
+Eschrichtius,AT,US,bones,Q,O
+Eschrichtius,AT,US,bone pieces,Q,O
+Eschrichtius,GB,US,bone carvings,Q,O
+Eschrichtius,US,RU,skin pieces,S,I
+Eschrichtius,US,RU,skin pieces,S,W
+Eschrichtius,US,RU,specimens,S,I
+Euphorbia,DE,ZA,live,T,A
+Euphorbia,JP,ES,live,T,A
+Euphorbia,CA,ES,live,T,A
+Euphorbia,DE,ZA,live,T,A
+Euphorbia,JP,ZA,live,P,I
+Euphorbia,JP,ZA,live,T,A
+Euphorbia,KR,US,live,T,D
+Euphorbia,CA,US,live,T,D
+Euphorbia,JP,ZA,live,T,A
+Euphorbia,KR,US,live,T,D
+Euphorbia,FR,MG,specimens,S,W
+Euphorbia,KR,US,live,T,D
+Euphorbia,US,TH,live,T,D
+Euphorbia,DE,ZA,live,T,A
+Euphorbia,GB,MG,specimens,S,W
+Euphorbia,CZ,TH,live,T,D
+Euphorbia,US,ID,live,T,I
+Euphorbia,US,TH,live,T,D
+Falco,AE,ES,live,P,C
+Falco,AE,ES,live,T,C
+Falco,BH,ES,live,T,C
+Falco,SA,ES,live,T,C
+Falco,AE,AT,live,P,C
+Falco,AE,AT,live,P,C
+Falco,AE,AT,live,T,C
+Falco,AE,AT,live,P,C
+Falco,AE,AT,live,T,C
+Falco,AE,BE,live,P,C
+Falco,AE,BE,live,T,C
+Falco,AE,BH,live,P,C
+Falco,AE,CA,live,P,C
+Falco,AE,CA,live,P,F
+Falco,AE,CZ,live,P,C
+Falco,AE,CZ,live,T,C
+Falco,AE,CZ,live,P,D
+Falco,AE,CZ,live,P,C
+Falco,AE,CZ,live,P,D
+Falco,AE,CZ,live,T,C
+Falco,AE,CZ,live,T,D
+Falco,AE,DE,live,P,C
+Falco,AE,DE,live,P,D
+Falco,AE,DE,live,T,C
+Falco,AE,DE,live,T,D
+Falco,AE,DK,live,T,D
+Falco,AE,ES,live,P,D
+Falco,AE,ES,live,T,C
+Falco,AE,ES,live,T,D
+Falco,AE,ES,live,T,C
+Falco,AE,ES,live,T,C
+Falco,AE,ES,live,P,C
+Falco,AE,ES,live,T,C
+Falco,AE,FR,live,P,C
+Falco,AE,FR,live,T,C
+Falco,AE,GB,live,P,C
+Falco,AE,GB,live,P,C
+Falco,AE,GB,live,P,D
+Falco,AE,GB,live,T,C
+Falco,AE,GB,live,T,D
+Falco,AE,GB,live,,C
+Falco,AE,IE,live,P,C
+Falco,AE,IE,live,T,C
+Falco,AE,IT,live,P,C
+Falco,AE,KW,live,T,C
+Falco,AE,KW,live,P,C
+Falco,AE,KW,live,P,C
+Falco,AE,KW,live,T,C
+Falco,AE,KZ,live,P,C
+Falco,AE,MA,live,P,C
+Falco,AE,MA,live,P,D
+Falco,AE,MA,live,P,C
+Falco,AE,RS,live,P,C
+Falco,AE,SI,live,P,C
+Falco,AE,SI,live,T,C
+Falco,AE,US,live,P,C
+Falco,AE,US,live,P,D
+Falco,AE,US,live,T,D
+Falco,AT,AE,live,P,C
+Falco,AT,AE,live,P,C
+Falco,AT,AE,live,P,D
+Falco,AT,AE,live,P,C
+Falco,AT,AE,live,P,C
+Falco,AT,AE,live,P,C
+Falco,AT,AE,live,P,C
+Falco,AT,AE,live,P,D
+Falco,BH,AE,live,P,D
+Falco,BH,AE,live,P,C
+Falco,BH,AE,live,P,D
+Falco,BH,AT,live,T,C
+Falco,BH,DE,live,T,C
+Falco,BH,ES,live,T,C
+Falco,BH,ES,live,T,C
+Falco,BH,GB,live,T,C
+Falco,BH,PT,live,T,C
+Falco,BH,US,live,T,D
+Falco,CA,US,live,P,C
+Falco,CH,DE,bodies,T,C
+Falco,ES,AE,live,P,C
+Falco,ES,AE,live,P,C
+Falco,ES,AE,live,T,C
+Falco,ES,AE,live,P,C
+Falco,ES,AE,live,P,D
+Falco,ES,AE,live,P,C
+Falco,ES,AE,live,P,C
+Falco,GB,AE,live,P,C
+Falco,GB,AE,specimens,P,C
+Falco,GB,AE,eggs,S,C
+Falco,GB,KW,live,B,C
+Falco,GB,KW,live,B,F
+Falco,GE,AE,live,P,C
+Falco,GE,AE,live,P,C
+Falco,GE,KW,live,P,C
+Falco,GE,KW,live,P,C
+Falco,GI,ES,live,T,C
+Falco,IQ,KW,live,P,C
+Falco,IR,KW,live,P,C
+Falco,IR,KW,live,P,C
+Falco,IR,KW,live,P,C
+Falco,JO,KW,live,P,C
+Falco,JP,GB,live,T,C
+Falco,JP,GB,live,T,D
+Falco,KW,AE,live,P,C
+Falco,KW,AE,live,P,D
+Falco,KW,AE,live,P,C
+Falco,KW,AE,live,P,D
+Falco,KW,AE,live,P,C
+Falco,KW,AE,live,P,C
+Falco,KW,AE,live,P,C
+Falco,KW,AE,live,P,D
+Falco,KW,AE,live,P,C
+Falco,KW,AE,live,P,D
+Falco,KW,AE,live,P,C
+Falco,KW,AE,live,P,C
+Falco,KW,AE,live,P,F
+Falco,KW,AT,live,P,C
+Falco,KW,BE,live,T,C
+Falco,KW,BE,live,T,C
+Falco,KW,CZ,live,T,C
+Falco,KW,ES,live,T,C
+Falco,KW,GB,live,T,C
+Falco,KW,GB,live,T,D
+Falco,KZ,AE,live,P,C
+Falco,KZ,AE,live,P,C
+Falco,KZ,AE,live,P,C
+Falco,KZ,AE,live,P,C
+Falco,KZ,AE,live,P,C
+Falco,KZ,AE,live,P,C
+Falco,KZ,AE,live,P,D
+Falco,KZ,AE,live,P,C
+Falco,KZ,AR,live,P,C
+Falco,KZ,AR,live,P,C
+Falco,KZ,AR,live,P,C
+Falco,KZ,DE,live,P,U
+Falco,KZ,DE,live,T,C
+Falco,KZ,SA,live,P,C
+Falco,KZ,SA,live,P,C
+Falco,MA,KW,live,P,C
+Falco,MA,KW,live,P,C
+Falco,MA,KW,live,P,C
+Falco,MA,KW,live,P,C
+Falco,MA,KW,live,P,C
+Falco,MX,ES,live,T,C
+Falco,PK,AE,live,P,C
+Falco,PK,AE,live,P,D
+Falco,PK,KW,live,P,C
+Falco,PK,KW,live,P,C
+Falco,QA,AE,live,P,C
+Falco,QA,AE,live,P,C
+Falco,QA,AE,live,P,C
+Falco,QA,AE,live,P,D
+Falco,QA,AE,live,P,C
+Falco,QA,AE,live,P,F
+Falco,QA,GB,live,T,C
+Falco,QA,US,live,T,D
+Falco,RS,AE,live,P,C
+Falco,SA,AE,live,P,C
+Falco,SA,AE,live,P,C
+Falco,SA,AE,live,P,C
+Falco,SA,AE,live,P,D
+Falco,SA,CZ,live,T,C
+Falco,SA,DE,live,P,C
+Falco,SA,DE,live,T,C
+Falco,SA,ES,live,T,C
+Falco,SA,KZ,live,P,C
+Falco,SA,KZ,live,P,C
+Falco,SA,US,live,T,D
+Falco,TN,KW,live,P,C
+Falco,US,CA,live,P,C
+Falco,UZ,AE,live,P,C
+Falco,UZ,AE,live,P,C
+Falco,UZ,AE,live,P,C
+Falco,UZ,AE,live,P,D
+Falco,UZ,AE,live,P,C
+Falco,UZ,AE,live,P,C
+Falco,UZ,AE,live,P,D
+Falco,UZ,AE,live,P,D
+Falco,UZ,AE,live,P,C
+Falco,XX,DE,live,Q,C
+Falco,AE,DE,live,P,C
+Falco,AE,DE,live,T,C
+Falco,AE,ES,live,P,C
+Falco,AE,ES,live,T,C
+Falco,AE,AT,live,P,C
+Falco,AE,CZ,live,P,C
+Falco,AE,CZ,live,T,C
+Falco,AE,CZ,live,P,C
+Falco,AE,ES,live,P,C
+Falco,AE,ES,live,T,C
+Falco,GB,AE,eggs,S,C
+Falco,GB,QA,live,T,C
+Falco,GI,ES,live,T,C
+Falco,JP,GB,live,T,D
+Falco,SA,ES,live,T,C
+Falco,XX,ES,live,P,C
+Falco,AE,AT,live,P,C
+Falco,AE,ES,live,T,C
+Falco,AE,AT,live,P,C
+Falco,AE,AT,live,P,C
+Falco,AE,AT,live,P,C
+Falco,AE,AT,live,P,C
+Falco,AE,AT,live,P,C
+Falco,AE,AT,live,T,C
+Falco,AE,BE,live,P,C
+Falco,AE,BE,live,T,C
+Falco,AE,BG,live,P,C
+Falco,AE,BG,live,T,C
+Falco,AE,BG,live,T,D
+Falco,AE,CA,live,P,C
+Falco,AE,CA,live,P,F
+Falco,AE,CZ,live,P,C
+Falco,AE,CZ,live,T,C
+Falco,AE,CZ,live,P,C
+Falco,AE,CZ,live,T,C
+Falco,AE,DE,live,P,C
+Falco,AE,DE,live,P,C
+Falco,AE,DE,live,P,C
+Falco,AE,DE,live,P,C
+Falco,AE,DE,live,P,C
+Falco,AE,DE,live,P,D
+Falco,AE,DE,live,T,C
+Falco,AE,DE,live,T,D
+Falco,AE,DK,live,T,D
+Falco,AE,DK,live,T,C
+Falco,AE,DK,live,T,D
+Falco,AE,DK,live,P,C
+Falco,AE,DK,live,T,C
+Falco,AE,DK,live,T,D
+Falco,AE,ES,live,P,C
+Falco,AE,ES,live,P,D
+Falco,AE,ES,live,T,D
+Falco,AE,ES,live,T,C
+Falco,AE,ES,live,P,C
+Falco,AE,ES,live,T,C
+Falco,AE,GB,live,T,C
+Falco,AE,GB,live,P,C
+Falco,AE,GB,live,T,C
+Falco,AE,GB,live,P,C
+Falco,AE,GB,live,T,C
+Falco,AE,GB,live,T,C
+Falco,AE,GB,live,P,C
+Falco,AE,GB,live,T,C
+Falco,AE,GB,live,P,C
+Falco,AE,GB,live,T,C
+Falco,AE,IE,live,P,C
+Falco,AE,IE,live,T,C
+Falco,AE,IT,live,P,C
+Falco,AE,JO,live,N,W
+Falco,AE,KZ,live,P,C
+Falco,AE,NL,live,P,C
+Falco,AE,NL,live,T,C
+Falco,AE,OM,live,P,C
+Falco,AE,RS,live,P,D
+Falco,AE,RS,live,P,D
+Falco,AE,RS,live,T,D
+Falco,AE,SI,live,P,C
+Falco,AE,SI,live,P,D
+Falco,AE,SI,live,T,C
+Falco,AE,US,live,P,D
+Falco,AE,US,live,T,D
+Falco,AE,ZA,live,P,C
+Falco,AM,AE,live,P,D
+Falco,AT,AE,live,P,C
+Falco,AT,AE,live,T,C
+Falco,AT,AE,live,P,D
+Falco,AT,CH,live,B,C
+Falco,BH,AT,live,P,C
+Falco,BH,CZ,live,T,C
+Falco,BH,DE,live,T,C
+Falco,BH,ES,live,T,C
+Falco,BH,IT,live,T,C
+Falco,CH,BE,live,T,C
+Falco,CH,DE,bodies,T,C
+Falco,CH,DE,live,P,C
+Falco,CH,IT,live,T,C
+Falco,CZ,AE,live,T,C
+Falco,DE,CH,live,P,C
+Falco,ES,AE,live,T,C
+Falco,ES,AE,live,P,C
+Falco,ES,AE,live,T,C
+Falco,ES,AE,live,P,C
+Falco,ES,AE,live,P,C
+Falco,ES,AE,live,P,C
+Falco,ES,PE,live,T,C
+Falco,ES,QA,live,T,C
+Falco,ES,QA,live,P,C
+Falco,ES,US,live,T,D
+Falco,GB,AE,eggs,S,C
+Falco,GB,JE,live,T,C
+Falco,GB,QA,live,T,C
+Falco,GB,QA,live,T,C
+Falco,GI,ES,live,T,C
+Falco,IT,CH,live,P,C
+Falco,JE,GB,live,T,C
+Falco,JP,CA,live,T,D
+Falco,JP,GB,live,T,C
+Falco,JP,GB,live,T,D
+Falco,KW,AE,live,P,C
+Falco,KW,AE,live,P,C
+Falco,KW,BE,live,T,C
+Falco,KW,DE,live,P,C
+Falco,KW,DE,live,T,C
+Falco,KZ,AE,live,P,C
+Falco,KZ,AE,live,P,C
+Falco,KZ,AE,live,P,C
+Falco,KZ,AE,live,P,C
+Falco,KZ,AE,live,N,W
+Falco,KZ,AR,live,P,C
+Falco,KZ,AR,live,P,C
+Falco,KZ,AR,live,T,C
+Falco,MX,ES,live,T,C
+Falco,QA,AE,live,P,C
+Falco,QA,AE,live,P,C
+Falco,QA,AE,live,P,D
+Falco,QA,AE,live,T,C
+Falco,QA,AE,live,P,C
+Falco,QA,AE,live,P,D
+Falco,QA,AE,live,P,C
+Falco,QA,AE,live,P,D
+Falco,QA,AE,live,P,C
+Falco,QA,AE,live,P,C
+Falco,QA,AE,live,P,F
+Falco,QA,AM,live,P,D
+Falco,QA,AT,live,P,C
+Falco,QA,AT,live,P,C
+Falco,QA,AT,live,P,C
+Falco,QA,AT,live,P,C
+Falco,QA,AT,live,P,C
+Falco,QA,BE,live,T,C
+Falco,QA,BE,live,T,C
+Falco,QA,BH,live,P,C
+Falco,QA,BH,live,P,C
+Falco,QA,BH,live,P,C
+Falco,QA,BH,live,P,C
+Falco,QA,CZ,live,T,C
+Falco,QA,CZ,live,T,D
+Falco,QA,DE,live,T,C
+Falco,QA,DE,live,T,C
+Falco,QA,ES,live,T,C
+Falco,QA,ES,live,P,C
+Falco,QA,ES,live,T,C
+Falco,QA,GB,live,T,C
+Falco,QA,GB,live,T,C
+Falco,QA,GB,live,T,D
+Falco,QA,IT,live,T,C
+Falco,QA,NL,live,T,C
+Falco,QA,NL,live,T,C
+Falco,QA,NL,live,T,C
+Falco,QA,NL,live,T,C
+Falco,QA,PT,live,T,C
+Falco,QA,RU,live,T,C
+Falco,QA,SK,live,T,C
+Falco,QA,SK,live,T,C
+Falco,QA,SK,live,P,C
+Falco,QA,SK,live,T,C
+Falco,QA,US,live,T,D
+Falco,SA,ES,live,T,C
+Falco,SI,AE,live,T,D
+Falco,TN,KW,live,P,W
+Falco,TR,DE,live,T,C
+Falco,TW,BE,live,T,C
+Falco,TW,US,live,T,D
+Falco,US,AE,live,P,C
+Falco,US,AE,live,P,C
+Falco,US,CA,feathers,P,I
+Falco,US,DE,bodies,T,C
+Falco,UZ,AE,live,P,C
+Falco,XV,RS,bodies,Q,O
+Falco,XX,DE,live,P,C
+Falco,XX,DE,live,P,C
+Falco,ZA,DE,live,T,C
+Falco,AE,US,live,T,D
+Falco,CA,US,live,N,W
+Falco,US,CA,live,P,D
+Falco,AE,AT,live,P,C
+Falco,AE,AT,live,T,C
+Falco,AE,ES,live,T,C
+Falco,AE,IT,live,T,C
+Falco,AT,CH,live,P,C
+Falco,QA,AT,live,P,C
+Falco,QA,PT,live,T,C
+Falco,GB,MU,specimens,S,W
+Falco,AE,AT,live,P,C
+Falco,AE,AT,live,P,C
+Falco,AE,AT,live,P,C
+Falco,AE,AT,live,T,C
+Falco,AE,BE,live,P,C
+Falco,AE,BE,live,P,D
+Falco,AE,BE,live,T,C
+Falco,AE,CA,live,P,D
+Falco,AE,CA,live,P,C
+Falco,AE,CA,live,P,D
+Falco,AE,CA,live,P,F
+Falco,AE,CA,live,T,D
+Falco,AE,CZ,live,P,C
+Falco,AE,CZ,live,T,C
+Falco,AE,CZ,live,P,C
+Falco,AE,CZ,live,P,C
+Falco,AE,CZ,live,T,C
+Falco,AE,CZ,unspecified,T,C
+Falco,AE,DE,live,P,D
+Falco,AE,DE,live,P,C
+Falco,AE,DE,live,P,C
+Falco,AE,DE,live,P,C
+Falco,AE,DE,live,P,D
+Falco,AE,DE,live,T,C
+Falco,AE,DE,live,T,D
+Falco,AE,DK,live,T,C
+Falco,AE,DK,live,T,C
+Falco,AE,DK,live,T,D
+Falco,AE,ES,live,P,C
+Falco,AE,ES,live,T,C
+Falco,AE,ES,live,P,C
+Falco,AE,ES,live,T,C
+Falco,AE,FR,live,P,C
+Falco,AE,FR,live,T,C
+Falco,AE,FR,live,P,C
+Falco,AE,FR,live,T,C
+Falco,AE,GB,live,P,C
+Falco,AE,GB,live,P,F
+Falco,AE,GB,live,T,C
+Falco,AE,GB,live,P,D
+Falco,AE,GB,live,P,C
+Falco,AE,GB,live,P,D
+Falco,AE,GB,live,T,C
+Falco,AE,GB,live,T,D
+Falco,AE,IE,live,P,C
+Falco,AE,IE,live,T,C
+Falco,AE,IT,live,P,C
+Falco,AE,KW,live,P,D
+Falco,AE,KZ,live,P,C
+Falco,AE,MA,live,P,C
+Falco,AE,MA,live,P,D
+Falco,AE,MA,live,P,C
+Falco,AE,NL,live,P,C
+Falco,AE,NL,live,T,C
+Falco,AE,SI,live,P,C
+Falco,AE,SI,live,T,C
+Falco,AE,US,live,P,C
+Falco,AE,US,live,P,D
+Falco,AE,US,live,T,D
+Falco,AE,ZA,live,P,F
+Falco,AE,ZA,live,P,C
+Falco,AM,AE,live,P,D
+Falco,AT,AE,live,P,C
+Falco,AT,AE,live,P,C
+Falco,AT,AE,live,P,D
+Falco,AT,AE,live,P,F
+Falco,AT,AE,live,T,C
+Falco,AT,AE,live,T,D
+Falco,AT,AE,live,P,C
+Falco,AT,AE,live,P,C
+Falco,AT,AE,live,P,D
+Falco,AT,AE,live,T,C
+Falco,AT,AE,live,T,D
+Falco,AT,AE,live,P,C
+Falco,AT,AE,live,P,D
+Falco,AT,AE,live,T,C
+Falco,AT,AE,live,T,D
+Falco,AT,AE,live,P,C
+Falco,AT,AE,live,T,C
+Falco,AT,AE,live,P,C
+Falco,AT,AE,live,P,C
+Falco,AT,AE,live,T,C
+Falco,AT,AE,live,P,D
+Falco,AT,AE,live,T,F
+Falco,AT,AE,live,P,C
+Falco,AT,AE,live,T,C
+Falco,AT,CA,live,T,D
+Falco,BE,CH,live,P,C
+Falco,BH,AE,live,P,D
+Falco,BH,AE,live,P,F
+Falco,BH,DE,live,T,C
+Falco,BH,ES,live,T,C
+Falco,BH,GB,live,T,C
+Falco,BH,IT,live,T,C
+Falco,BH,NL,live,T,C
+Falco,BH,US,live,P,F
+Falco,CA,AT,live,T,D
+Falco,CA,AT,live,T,C
+Falco,CA,DE,live,T,C
+Falco,CA,SI,live,T,D
+Falco,CA,US,live,T,D
+Falco,CN,RU,specimens,S,W
+Falco,CZ,AE,live,P,C
+Falco,CZ,AE,live,P,C
+Falco,CZ,AE,live,T,C
+Falco,CZ,AE,live,P,C
+Falco,CZ,AE,live,P,D
+Falco,CZ,AE,live,T,D
+Falco,CZ,AE,live,B,F
+Falco,CZ,AE,live,T,F
+Falco,CZ,CA,live,P,D
+Falco,CZ,US,live,P,D
+Falco,DE,AE,live,P,C
+Falco,DE,AE,live,P,C
+Falco,DE,AE,live,P,D
+Falco,DE,AE,live,T,C
+Falco,DE,AE,live,T,D
+Falco,DE,AE,live,P,C
+Falco,DE,AE,live,P,D
+Falco,DE,AE,live,T,C
+Falco,DE,AE,live,T,D
+Falco,DE,AE,live,P,C
+Falco,DE,AE,live,P,C
+Falco,DE,AE,live,P,D
+Falco,DE,AE,live,T,C
+Falco,DE,AE,live,T,D
+Falco,DE,AE,live,P,C
+Falco,DE,AE,live,T,C
+Falco,DE,AE,live,P,C
+Falco,DE,AE,live,P,D
+Falco,DE,AE,live,T,D
+Falco,DE,AE,live,P,C
+Falco,DE,CH,live,P,C
+Falco,ES,AE,live,P,C
+Falco,ES,AE,live,T,C
+Falco,ES,AE,live,P,C
+Falco,ES,AE,live,P,D
+Falco,ES,AE,live,T,D
+Falco,ES,AE,live,P,C
+Falco,ES,AE,live,P,C
+Falco,ES,AE,live,P,D
+Falco,ES,AE,live,T,C
+Falco,ES,AE,live,T,D
+Falco,ES,AE,live,P,C
+Falco,ES,AE,live,T,C
+Falco,ES,AE,live,P,C
+Falco,ES,AE,live,P,C
+Falco,ES,AE,live,P,C
+Falco,ES,AE,live,P,D
+Falco,ES,AE,live,T,C
+Falco,ES,AE,live,T,D
+Falco,ES,AE,live,P,C
+Falco,ES,AE,live,T,C
+Falco,ES,AE,live,P,C
+Falco,ES,AE,live,P,D
+Falco,ES,AE,live,T,D
+Falco,ES,AE,live,P,C
+Falco,ES,AE,live,P,D
+Falco,ES,AE,live,P,F
+Falco,ES,CA,live,T,D
+Falco,ES,CA,live,T,D
+Falco,ES,US,live,P,D
+Falco,ES,US,live,T,D
+Falco,GB,AE,live,B,C
+Falco,GB,AE,live,T,C
+Falco,GB,AE,specimens,B,C
+Falco,GB,AE,specimens,S,C
+Falco,GB,AE,live,B,C
+Falco,GB,AE,specimens,B,C
+Falco,GB,AE,live,P,D
+Falco,GB,AE,live,P,F
+Falco,GB,AE,live,T,C
+Falco,GB,AE,live,T,D
+Falco,GB,AE,specimens,S,C
+Falco,GB,AE,specimens,S,D
+Falco,GB,AE,specimens,S,F
+Falco,GB,AE,live,P,C
+Falco,GB,AE,live,B,C
+Falco,GB,AE,live,B,D
+Falco,GB,AE,live,P,C
+Falco,GB,AE,live,P,D
+Falco,GB,AE,live,T,C
+Falco,GB,AE,specimens,B,D
+Falco,GB,AE,specimens,S,C
+Falco,GB,AE,specimens,S,D
+Falco,GB,AE,live,P,D
+Falco,GB,AE,live,T,C
+Falco,GB,AE,specimens,P,D
+Falco,GB,AE,specimens,S,C
+Falco,GB,AE,specimens,S,D
+Falco,GB,AE,live,P,C
+Falco,GB,AE,live,T,C
+Falco,GB,AE,specimens,S,C
+Falco,GB,AE,live,P,C
+Falco,GB,AE,live,T,C
+Falco,GB,AE,specimens,P,C
+Falco,GB,AE,live,B,C
+Falco,GB,AE,live,B,D
+Falco,GB,AE,live,P,C
+Falco,GB,AE,live,P,D
+Falco,GB,AE,live,T,C
+Falco,GB,AE,live,T,D
+Falco,GB,AE,specimens,B,C
+Falco,GB,AE,specimens,B,D
+Falco,GB,AE,specimens,P,C
+Falco,GB,AE,specimens,P,D
+Falco,GB,AE,specimens,S,C
+Falco,GB,AE,specimens,S,D
+Falco,GB,AE,live,B,C
+Falco,GB,AE,specimens,B,C
+Falco,GB,AE,live,P,C
+Falco,GB,AE,live,T,C
+Falco,GB,AE,specimens,P,C
+Falco,GB,AE,live,P,D
+Falco,GB,AE,live,T,C
+Falco,GB,AE,live,T,D
+Falco,GB,AE,specimens,P,D
+Falco,GB,AE,specimens,S,D
+Falco,GB,AE,eggs,S,C
+Falco,GB,AE,live,B,C
+Falco,GB,AE,live,P,C
+Falco,GB,AE,specimens,B,C
+Falco,GB,KW,live,B,C
+Falco,GB,KW,live,B,F
+Falco,GB,KW,live,B,D
+Falco,GB,KW,live,B,D
+Falco,GB,QA,live,T,C
+Falco,GB,QA,live,T,C
+Falco,GB,QA,live,T,D
+Falco,GB,US,live,T,D
+Falco,GE,AE,live,P,C
+Falco,GE,AE,live,P,C
+Falco,IE,AE,live,P,C
+Falco,JP,GB,live,T,C
+Falco,JP,GB,live,T,D
+Falco,KW,AE,live,P,F
+Falco,KW,AE,live,P,C
+Falco,KW,AE,live,P,C
+Falco,KW,AE,live,P,D
+Falco,KW,AE,live,P,C
+Falco,KW,AE,live,P,C
+Falco,KW,AE,live,P,D
+Falco,KW,AE,live,P,C
+Falco,KW,AE,live,P,D
+Falco,KW,GB,live,T,C
+Falco,KW,GB,live,T,D
+Falco,KZ,AE,live,P,C
+Falco,KZ,AE,live,P,C
+Falco,KZ,AE,live,P,C
+Falco,KZ,AE,live,P,C
+Falco,KZ,AE,live,P,C
+Falco,KZ,AE,live,P,C
+Falco,KZ,AR,live,T,C
+Falco,KZ,AR,live,P,C
+Falco,KZ,AR,live,P,C
+Falco,KZ,DE,live,P,U
+Falco,KZ,DE,live,T,C
+Falco,KZ,SA,live,P,C
+Falco,MA,KW,live,P,C
+Falco,PK,AE,live,P,D
+Falco,PK,AE,live,P,C
+Falco,QA,AE,live,P,C
+Falco,QA,AE,live,P,D
+Falco,QA,AE,live,P,F
+Falco,QA,AE,live,P,C
+Falco,QA,AE,live,P,C
+Falco,QA,AE,live,P,D
+Falco,QA,AE,live,P,C
+Falco,QA,AE,live,P,D
+Falco,QA,AE,live,P,C
+Falco,QA,AE,live,P,C
+Falco,QA,AE,live,P,D
+Falco,QA,AE,live,P,C
+Falco,QA,AE,live,P,F
+Falco,QA,AT,live,P,C
+Falco,QA,BH,live,P,C
+Falco,QA,BH,live,P,C
+Falco,QA,DE,live,T,C
+Falco,QA,ES,live,T,C
+Falco,QA,GB,live,T,C
+Falco,QA,IT,live,T,W
+Falco,QA,IT,live,T,C
+Falco,QA,KW,live,P,C
+Falco,QA,NL,live,T,C
+Falco,QA,NL,live,T,C
+Falco,QA,US,live,T,D
+Falco,RS,AE,live,P,D
+Falco,RS,AE,live,P,D
+Falco,RS,AE,live,P,C
+Falco,RS,AE,live,P,D
+Falco,RS,AE,live,P,C
+Falco,RS,AE,live,P,C
+Falco,RS,AE,live,P,D
+Falco,RS,AE,live,P,F
+Falco,SA,AE,live,P,C
+Falco,SA,DE,live,T,C
+Falco,SA,ES,live,T,C
+Falco,SA,KZ,live,P,C
+Falco,SA,US,live,T,D
+Falco,SD,KW,live,P,W
+Falco,SI,AE,live,T,D
+Falco,SI,AE,live,P,C
+Falco,SI,AE,live,P,C
+Falco,SI,AE,live,T,C
+Falco,SI,AE,live,T,D
+Falco,SI,AE,live,P,D
+Falco,SI,AE,live,P,C
+Falco,SI,AE,live,T,C
+Falco,SI,CA,live,T,D
+Falco,SK,AE,live,P,C
+Falco,SK,AE,live,P,C
+Falco,SK,AE,live,P,C
+Falco,UA,DK,live,T,C
+Falco,US,AE,live,P,C
+Falco,US,AE,live,P,C
+Falco,US,AE,live,P,C
+Falco,UZ,AE,live,P,C
+Falco,UZ,AE,live,P,C
+Falco,UZ,AE,live,P,C
+Falco,UZ,AE,live,P,C
+Falco,UZ,AE,live,P,C
+Falco,UZ,AE,live,P,C
+Falco,UZ,AE,live,P,C
+Falco,UZ,AE,live,P,C
+Falco,UZ,AE,live,P,D
+Falco,UZ,AE,live,P,C
+Falco,UZ,AE,live,P,C
+Falco,XX,DE,live,Q,C
+Acinonyx,AR,NA,bodies,H,W
+Acinonyx,AR,NA,trophies,H,W
+Acinonyx,AR,ZA,trophies,H,W
+Acinonyx,AT,JP,hair,S,C
+Acinonyx,AT,NA,rug,H,W
+Acinonyx,AT,NA,skins,H,W
+Acinonyx,AT,NA,trophies,H,W
+Acinonyx,AT,SG,teeth,S,C
+Acinonyx,AU,CZ,skeletons,T,C
+Acinonyx,BE,CH,live,Z,C
+Acinonyx,BE,NA,trophies,H,W
+Acinonyx,BG,NA,trophies,H,W
+Acinonyx,CA,NA,trophies,H,W
+Acinonyx,CA,ZW,trophies,H,W
+Acinonyx,CH,NA,trophies,H,W
+Acinonyx,CN,ZA,bodies,E,W
+Acinonyx,CZ,NA,skins,H,W
+Acinonyx,CZ,NA,trophies,H,W
+Acinonyx,DE,NA,specimens,S,W
+Acinonyx,DE,NA,trophies,H,W
+Acinonyx,DE,ZA,skins,P,C
+Acinonyx,DE,ZA,teeth,S,C
+Acinonyx,DK,NA,trophies,H,W
+Acinonyx,ES,NA,trophies,H,W
+Acinonyx,ES,ZA,bodies,H,W
+Acinonyx,ES,ZA,live,P,C
+Acinonyx,FR,CH,bodies,P,C
+Acinonyx,FR,NA,bodies,H,W
+Acinonyx,FR,NA,rug,H,W
+Acinonyx,FR,NA,skins,P,W
+Acinonyx,FR,NA,trophies,H,W
+Acinonyx,FR,NA,trophies,P,W
+Acinonyx,GE,AZ,live,Q,C
+Acinonyx,HU,NA,trophies,H,W
+Acinonyx,KP,CN,bodies,E,U
+Acinonyx,KP,CN,bodies,E,C
+Acinonyx,MX,NA,trophies,H,W
+Acinonyx,NL,ZA,skins,P,C
+Acinonyx,PL,NA,trophies,H,W
+Acinonyx,PL,RU,trophies,H,W
+Acinonyx,RO,ZA,trophies,H,W
+Acinonyx,RO,ZA,trophies,T,
+Acinonyx,RU,BH,live,Z,C
+Acinonyx,RU,FI,trophies,H,W
+Acinonyx,RU,GE,live,Q,C
+Acinonyx,RU,NA,bodies,H,W
+Acinonyx,RU,NA,rug,H,W
+Acinonyx,RU,NA,skins,H,W
+Acinonyx,RU,NA,trophies,H,W
+Acinonyx,SE,NA,skins,H,W
+Acinonyx,SE,NA,trophies,H,W
+Acinonyx,SK,NA,trophies,H,W
+Acinonyx,TH,NA,skins,H,W
+Acinonyx,US,KE,skins,P,I
+Acinonyx,US,ZA,live,Z,D
+Acinonyx,US,ZM,specimens,S,W
+Acinonyx,ZA,NA,trophies,H,W
+Acinonyx,ZA,US,specimens,S,F
+Caracal,EG,AE,claws,E,W
+Leopardus,PA,DE,live,T,C
+Leopardus,RU,FR,live,Z,C
+Leopardus,CL,BO,specimens,S,W
+Leopardus,CL,BO,specimens,S,W
+Leopardus,CL,BO,specimens,S,W
+Leopardus,MX,VE,bones,S,W
+Leopardus,US,DE,garments,T,O
+Leopardus,US,EC,skins,P,I
+Leopardus,US,VE,skins,P,I
+Leopardus,RU,FR,live,Z,C
+Leopardus,US,NI,skins,P,I
+Lynx,CH,ES,specimens,S,W
+Lynx,CH,ES,specimens,S,W
+Neofelis,AE,TH,live,B,C
+Neofelis,MG,GB,live,B,C
+Neofelis,MG,GB,live,Z,C
+Neofelis,TH,AE,live,Z,F
+Neofelis,TW,DE,live,Z,C
+Neofelis,UA,FR,live,Z,F
+Panthera,KG,KZ,live,Q,C
+Panthera,KG,KZ,live,Q,C
+Panthera,GB,IN,live,Z,C
+Panthera,GB,IN,live,Z,F
+Panthera,AR,PY,live,B,W
+Panthera,CL,DE,live,Z,C
+Panthera,KG,KZ,live,Q,C
+Panthera,KP,CN,bodies,E,U
+Panthera,MM,TH,live,Z,C
+Panthera,MY,ZA,live,Z,C
+Panthera,PL,RU,live,Z,C
+Panthera,SG,ID,live,Z,C
+Panthera,TH,AE,live,Z,F
+Panthera,US,IT,teeth,P,I
+Panthera,US,MX,live,Z,C
+Panthera,AE,HU,live,Z,C
+Panthera,AR,MZ,trophies,H,W
+Panthera,AR,NA,trophies,H,W
+Panthera,AR,ZA,trophies,H,W
+Panthera,AR,ZA,trophies,H,W
+Panthera,AT,ET,trophies,H,W
+Panthera,AT,MZ,trophies,H,W
+Panthera,AT,NA,trophies,H,W
+Panthera,AT,TZ,trophies,H,W
+Panthera,AT,ZA,trophies,H,W
+Panthera,AT,ZA,trophies,H,W
+Panthera,AT,ZW,skins,H,W
+Panthera,AT,ZW,skulls,H,W
+Panthera,AT,ZW,trophies,H,W
+Panthera,BE,TZ,skins,H,W
+Panthera,BE,TZ,skulls,H,W
+Panthera,BE,US,claws,Q,O
+Panthera,BE,ZW,trophies,H,W
+Panthera,BG,NA,trophies,H,W
+Panthera,BG,ZW,trophies,H,W
+Panthera,CA,FR,leather products (large),T,O
+Panthera,CA,GB,skins,T,O
+Panthera,CA,NA,trophies,H,W
+Panthera,CA,ZM,trophies,H,W
+Panthera,CA,ZW,rug,H,W
+Panthera,CA,ZW,skins,H,W
+Panthera,CA,ZW,skulls,H,W
+Panthera,CA,ZW,trophies,H,W
+Panthera,CH,DE,bodies,T,O
+Panthera,CH,FR,bodies,T,C
+Panthera,CL,AR,trophies,H,W
+Panthera,CL,ZA,live,Z,C
+Panthera,CN,IT,bodies,T,C
+Panthera,CN,NA,skins,H,W
+Panthera,CN,NA,skulls,H,W
+Panthera,CN,ZA,bodies,H,W
+Panthera,CN,ZA,bodies,H,W
+Panthera,CN,ZA,skulls,H,W
+Panthera,CN,ZA,rug,H,W
+Panthera,CN,ZA,skulls,H,W
+Panthera,CN,ZA,bodies,E,W
+Panthera,CN,ZA,rug,H,W
+Panthera,CN,ZA,skulls,H,W
+Panthera,CN,ZW,bodies,H,W
+Panthera,CZ,NA,skulls,H,W
+Panthera,CZ,NA,trophies,H,W
+Panthera,DE,CD,specimens,S,W
+Panthera,DE,CF,trophies,H,W
+Panthera,DE,ML,hair,S,W
+Panthera,DE,NA,bodies,H,W
+Panthera,DE,NA,bodies,P,W
+Panthera,DE,NA,specimens,S,W
+Panthera,DE,NA,trophies,H,W
+Panthera,DE,TZ,trophies,H,W
+Panthera,DE,ZA,skulls,H,W
+Panthera,DE,ZA,trophies,H,W
+Panthera,DE,ZW,skins,H,W
+Panthera,DE,ZW,skulls,H,W
+Panthera,DE,ZW,trophies,H,W
+Panthera,DK,MZ,trophies,H,W
+Panthera,DK,NA,trophies,H,W
+Panthera,DK,TZ,trophies,H,W
+Panthera,DK,ZM,trophies,H,W
+Panthera,DK,ZW,trophies,H,W
+Panthera,EE,NA,trophies,H,W
+Panthera,EE,ZW,trophies,H,W
+Panthera,ES,MZ,trophies,H,W
+Panthera,ES,NA,trophies,H,W
+Panthera,ES,RS,trophies,P,W
+Panthera,ES,TZ,trophies,H,W
+Panthera,ES,ZA,trophies,H,W
+Panthera,ES,ZW,trophies,H,W
+Panthera,FI,NA,trophies,H,W
+Panthera,FR,AE,live,Z,C
+Panthera,FR,AE,specimens,S,C
+Panthera,FR,CA,carvings,Q,O
+Panthera,FR,MX,carvings,Q,O
+Panthera,FR,MZ,trophies,P,W
+Panthera,FR,NA,rug,H,W
+Panthera,FR,NA,trophies,H,W
+Panthera,FR,NA,trophies,P,W
+Panthera,FR,TZ,trophies,H,W
+Panthera,FR,TZ,trophies,P,W
+Panthera,FR,ZA,trophies,P,W
+Panthera,FR,ZA,trophies,P,W
+Panthera,FR,ZM,trophies,P,W
+Panthera,FR,ZW,trophies,H,W
+Panthera,FR,ZW,trophies,P,W
+Panthera,GB,AE,specimens,S,F
+Panthera,GB,KE,skins,P,O
+Panthera,GB,KE,skins,P,W
+Panthera,GB,NA,bones,H,W
+Panthera,GB,NA,skins,H,W
+Panthera,GB,NA,skulls,H,W
+Panthera,GB,NA,trophies,H,W
+Panthera,GB,OM,specimens,S,C
+Panthera,GB,OM,bones,S,W
+Panthera,GB,OM,bones,S,W
+Panthera,GB,OM,skins,S,W
+Panthera,GB,OM,skin pieces,S,W
+Panthera,GB,OM,specimens,S,W
+Panthera,GB,OM,specimens,S,W
+Panthera,GB,TZ,trophies,H,W
+Panthera,GB,US,claws,Q,O
+Panthera,GB,ZA,skins,P,O
+Panthera,HR,ZW,trophies,H,W
+Panthera,HU,MZ,trophies,H,W
+Panthera,HU,NA,trophies,H,W
+Panthera,HU,TZ,trophies,H,W
+Panthera,HU,ZM,trophies,H,W
+Panthera,HU,ZW,trophies,H,W
+Panthera,IS,FR,trophies,H,W
+Panthera,IT,MA,live,Q,C
+Panthera,IT,MZ,trophies,H,W
+Panthera,IT,NA,bodies,H,W
+Panthera,IT,NA,trophies,H,W
+Panthera,IT,TZ,trophies,H,W
+Panthera,IT,ZA,trophies,H,W
+Panthera,IT,ZM,trophies,H,W
+Panthera,IT,ZW,trophies,H,W
+Panthera,KG,KZ,live,Q,C
+Panthera,KG,KZ,live,Q,W
+Panthera,KR,CN,specimens,E,C
+Panthera,KR,DE,live,T,C
+Panthera,KW,ZA,trophies,H,W
+Panthera,KZ,RU,live,Q,W
+Panthera,LT,NA,trophies,H,W
+Panthera,LT,NA,trophies,P,W
+Panthera,LT,ZW,trophies,H,W
+Panthera,LU,MZ,trophies,T,C
+Panthera,LV,NA,trophies,H,W
+Panthera,MA,IT,live,Q,C
+Panthera,MC,TZ,trophies,H,W
+Panthera,MX,NA,trophies,H,W
+Panthera,MX,ZW,trophies,H,W
+Panthera,NA,ZA,bodies,P,W
+Panthera,NL,NA,skins,H,W
+Panthera,NL,NA,skulls,H,W
+Panthera,NL,ZW,bodies,H,W
+Panthera,NL,ZW,skins,H,W
+Panthera,NL,ZW,skulls,H,W
+Panthera,NO,DK,skins,T,O
+Panthera,NO,TZ,trophies,H,W
+Panthera,NO,ZW,skulls,H,W
+Panthera,NO,ZW,trophies,H,W
+Panthera,NZ,NA,skins,H,W
+Panthera,NZ,NA,skulls,H,W
+Panthera,NZ,NA,trophies,H,W
+Panthera,NZ,ZW,trophies,H,W
+Panthera,OM,AE,specimens,S,C
+Panthera,OM,SA,specimens,S,C
+Panthera,PE,XX,trophies,H,W
+Panthera,PH,ZA,live,Z,C
+Panthera,PK,GB,skins,P,O
+Panthera,PL,NA,trophies,H,W
+Panthera,PL,RU,live,B,F
+Panthera,PL,ZA,skulls,H,W
+Panthera,PL,ZA,trophies,H,W
+Panthera,PT,MZ,trophies,H,W
+Panthera,PT,US,claws,E,O
+Panthera,PT,US,claws,Q,O
+Panthera,PT,ZA,trophies,P,W
+Panthera,RO,ZA,trophies,H,W
+Panthera,RO,ZA,trophies,T,
+Panthera,RS,DE,live,Z,C
+Panthera,RU,CZ,live,Z,C
+Panthera,RU,EE,live,Z,C
+Panthera,RU,FI,trophies,H,W
+Panthera,RU,FR,trophies,H,W
+Panthera,RU,FR,trophies,P,W
+Panthera,RU,NA,rug,H,W
+Panthera,RU,NA,trophies,H,W
+Panthera,RU,ZM,trophies,H,W
+Panthera,RU,ZW,bones,H,W
+Panthera,RU,ZW,skins,H,W
+Panthera,RU,ZW,skulls,H,W
+Panthera,RU,ZW,trophies,H,W
+Panthera,SA,AE,live,B,F
+Panthera,SE,NA,trophies,H,W
+Panthera,SE,ZA,trophies,H,W
+Panthera,SE,ZA,trophies,H,W
+Panthera,SE,ZA,trophies,H,W
+Panthera,SE,ZA,trophies,H,W
+Panthera,SE,ZW,trophies,H,W
+Panthera,SK,NA,trophies,H,W
+Panthera,SN,US,claws,L,I
+Panthera,SN,US,medicine,L,I
+Panthera,SN,US,skulls,L,I
+Panthera,SN,US,teeth,L,I
+Panthera,TJ,UZ,live,Q,C
+Panthera,UA,ZW,skulls,H,W
+Panthera,UA,ZW,trophies,H,W
+Panthera,US,CA,skins,P,I
+Panthera,US,CN,bone pieces,P,I
+Panthera,US,CN,medicine,P,I
+Panthera,US,DE,live,Z,C
+Panthera,US,DE,live,Z,C
+Panthera,US,FR,live,Z,C
+Panthera,US,GB,skins,P,O
+Panthera,US,GB,trophies,P,O
+Panthera,US,GB,specimens,S,W
+Panthera,US,GB,skins,P,O
+Panthera,US,GB,live,Z,C
+Panthera,US,KE,skins,P,I
+Panthera,US,MX,live,Z,C
+Panthera,US,MZ,trophies,H,W
+Panthera,US,NA,bodies,H,W
+Panthera,US,NA,trophies,H,W
+Panthera,US,NC,trophies,H,W
+Panthera,US,NG,skins,T,I
+Panthera,US,NG,trophies,H,I
+Panthera,US,TZ,trophies,H,I
+Panthera,US,TZ,trophies,H,W
+Panthera,US,YE,trophies,H,W
+Panthera,US,ZA,bones,H,I
+Panthera,US,ZA,trophies,H,W
+Panthera,US,ZA,trophies,H,W
+Panthera,US,ZA,trophies,H,W
+Panthera,US,ZA,trophies,H,W
+Panthera,US,ZA,bones,H,I
+Panthera,US,ZA,skulls,H,W
+Panthera,US,ZA,trophies,H,I
+Panthera,US,ZA,trophies,H,W
+Panthera,US,ZM,trophies,H,W
+Panthera,US,ZM,specimens,S,W
+Panthera,US,ZM,trophies,H,W
+Panthera,US,ZW,skins,H,W
+Panthera,US,ZW,skulls,H,W
+Panthera,US,ZW,trophies,H,W
+Panthera,UY,GB,garments,T,O
+Panthera,UZ,KG,live,Q,C
+Panthera,XX,CI,live,Z,C
+Panthera,ZA,NA,trophies,H,W
+Panthera,ZA,UG,trophies,H,W
+Panthera,ZA,ZM,trophies,H,W
+Panthera,ZA,ZW,skulls,H,W
+Panthera,ZA,ZW,trophies,H,W
+Panthera,AU,JP,live,Z,C
+Panthera,BR,AR,live,Z,F
+Panthera,BR,DE,live,Z,C
+Panthera,BY,UA,live,Q,C
+Panthera,CA,CN,live,Z,C
+Panthera,CL,AR,live,Z,F
+Panthera,CL,ZA,live,Z,C
+Panthera,CN,CA,bodies,P,F
+Panthera,CN,GB,bodies,Q,O
+Panthera,CN,NL,skins,T,C
+Panthera,CN,NL,bodies,P,C
+Panthera,CN,ZA,rug,P,C
+Panthera,CN,ZA,rug,P,W
+Panthera,DK,ZA,trophies,H,C
+Panthera,EC,PE,live,Z,C
+Panthera,FR,CH,bodies,P,C
+Panthera,GB,US,specimens,S,C
+Panthera,ID,CZ,live,T,C
+Panthera,IL,DK,live,Z,C
+Panthera,IL,IE,live,Z,C
+Panthera,IT,MA,live,Q,C
+Panthera,IT,US,carvings,E,O
+Panthera,IT,US,bodies,E,O
+Panthera,JP,AR,live,Z,C
+Panthera,JP,RU,live,Z,F
+Panthera,KG,KZ,live,Q,C
+Panthera,KP,CN,bodies,E,C
+Panthera,KZ,RU,live,Q,C
+Panthera,KZ,RU,live,T,F
+Panthera,KZ,UZ,live,Q,C
+Panthera,LV,UA,live,Q,C
+Panthera,MD,BE,live,T,C
+Panthera,MD,BE,live,T,C
+Panthera,MY,ZA,live,T,C
+Panthera,PH,ID,live,Z,C
+Panthera,PH,SK,live,T,C
+Panthera,TH,AR,live,Z,C
+Panthera,TH,ES,live,T,C
+Panthera,TN,ES,live,Q,C
+Panthera,TR,NL,bodies,T,C
+Panthera,TW,FR,bodies,T,C
+Panthera,UA,SK,live,B,C
+Panthera,US,AR,live,Z,C
+Panthera,US,CA,medicine,P,I
+Panthera,US,CA,claws,P,I
+Panthera,US,CA,medicine,P,I
+Panthera,US,CA,rug,T,I
+Panthera,US,CA,live,P,C
+Panthera,US,CN,medicine,T,I
+Panthera,US,CN,medicine,P,I
+Panthera,US,GB,specimens,S,F
+Panthera,US,KH,medicine,P,I
+Panthera,US,KH,medicine,T,I
+Panthera,US,KR,medicine,P,I
+Panthera,US,MX,live,Z,C
+Panthera,US,PE,live,Z,F
+Panthera,US,VN,bone pieces,P,I
+Panthera,US,VN,medicine,T,I
+Panthera,US,VN,teeth,P,I
+Panthera,US,VN,medicine,P,I
+Panthera,US,VN,medicine,T,I
+Panthera,US,XX,leather products (small),P,I
+Panthera,US,XX,medicine,P,I
+Panthera,UY,ZA,bodies,P,C
+Panthera,UZ,KZ,live,Q,C
+Panthera,VN,BE,live,T,C
+Panthera,VN,BE,live,T,C
+Panthera,VN,CZ,live,T,C
+Panthera,VN,CZ,live,T,C
+Panthera,VN,CZ,live,T,C
+Panthera,XX,IT,live,Q,C
+Panthera,XX,IT,live,Q,C
+Panthera,CH,CZ,live,Z,C
+Panthera,CN,CA,rug,P,F
+Panthera,CN,NL,skins,T,C
+Panthera,CN,NL,bodies,P,C
+Panthera,GB,NO,live,Z,C
+Panthera,GB,US,specimens,S,W
+Panthera,IT,CA,skulls,P,F
+Panthera,KG,KZ,live,Q,C
+Panthera,KP,CN,bodies,E,U
+Panthera,KR,CN,specimens,E,C
+Panthera,NL,NO,live,Z,C
+Panthera,PK,CA,live,B,F
+Panthera,RU,BY,skins,P,C
+Panthera,US,GB,specimens,S,W
+Pardofelis,GB,US,specimens,S,W
+Pardofelis,GB,US,specimens,S,W
+Uncia,CA,US,live,Z,F
+Uncia,CH,FR,live,Z,C
+Uncia,CL,FR,live,Z,C
+Uncia,FR,CH,live,Z,C
+Uncia,HU,CH,live,Z,C
+Uncia,IN,FR,live,Z,C
+Uncia,IN,GB,live,Z,C
+Uncia,US,CH,live,Z,F
+Uncia,US,DE,live,Z,C
+Uncia,US,FI,live,Z,C
+Uncia,US,FR,live,Z,C
+Uncia,US,SE,live,Z,C
+Carduelis,CA,NL,live,T,C
+Carduelis,KW,BE,live,T,C
+Carduelis,QA,NL,live,T,C
+Carduelis,UZ,NL,live,T,C
+Gavialis,US,IN,live,Z,F
+Batagur,SG,KH,specimens,S,C
+Batagur,SG,KH,specimens,S,W
+Batagur,SG,XX,specimens,S,C
+Batagur,SG,XX,specimens,S,W
+Grus,US,CA,eggs (live),N,F
+Grus,CD,BE,live,T,C
+Grus,KP,CN,bodies,E,U
+Grus,QA,NL,live,T,C
+Grus,QA,NL,live,T,C
+Grus,QA,NL,live,T,C
+Grus,RU,CZ,eggs (live),N,C
+Grus,UA,CZ,live,T,C
+Grus,ZA,NL,live,T,C
+Grus,ZA,NL,live,T,C
+Grus,ZA,NL,live,T,C
+Grus,KP,CN,bodies,E,U
+Grus,DE,RU,live,B,C
+Grus,SG,NL,live,T,C
+Grus,SG,NL,live,Z,C
+Grus,BD,NL,live,T,C
+Grus,KP,CN,bodies,E,U
+Grus,QA,AE,live,T,C
+Grus,QA,AE,live,T,C
+Grus,RU,CZ,eggs (live),N,C
+Grus,ZA,NL,live,T,C
+Grus,ZA,NL,live,T,C
+Grus,ZA,NL,live,T,C
+Heloderma,CA,US,live,Z,C
+Gorilla,GB,US,specimens,S,W
+Gorilla,US,RW,bones,S,W
+Gorilla,DE,CG,specimens,S,W
+Gorilla,DE,CM,specimens,S,W
+Gorilla,DE,GA,specimens,S,C
+Gorilla,DK,CH,specimens,S,C
+Gorilla,GB,CH,specimens,M,C
+Gorilla,TW,PL,live,Z,F
+Gorilla,US,CG,specimens,S,I
+Gorilla,US,CG,specimens,S,W
+Gorilla,XX,DE,bodies,Q,C
+Pan,BE,US,hair,Q,O
+Pan,CN,CZ,live,Z,U
+Pan,CN,KW,live,Z,C
+Pan,DE,CD,specimens,S,W
+Pan,DE,CG,specimens,S,W
+Pan,DE,CI,bones,S,W
+Pan,DE,CI,bones,S,W
+Pan,DE,CI,hair,S,W
+Pan,DE,CI,hair,S,W
+Pan,DE,CI,skulls,S,W
+Pan,DE,CI,specimens,S,W
+Pan,DE,CI,specimens,S,W
+Pan,DE,CM,hair,S,W
+Pan,DE,GA,bones,S,W
+Pan,DE,GA,hair,S,W
+Pan,DE,GA,skulls,S,W
+Pan,DE,GA,teeth,S,W
+Pan,DE,ML,hair,S,W
+Pan,DE,RW,hair,S,W
+Pan,DE,TZ,specimens,S,W
+Pan,DK,CH,specimens,S,C
+Pan,DK,SN,specimens,S,W
+Pan,GB,US,live,Z,C
+Pan,GT,SE,live,Z,C
+Pan,GT,SE,live,Z,F
+Pan,IN,IL,live,Z,C
+Pan,KE,IQ,live,E,U
+Pan,KE,IQ,live,,U
+Pan,KZ,RU,live,Z,C
+Pan,KZ,RU,live,Z,C
+Pan,LT,UA,live,Q,C
+Pan,NL,CI,specimens,S,W
+Pan,RU,AM,live,T,W
+Pan,RU,AM,live,B,C
+Pan,TJ,UZ,live,Q,C
+Pan,TT,ZA,live,Q,I
+Pan,UA,LT,live,Q,C
+Pan,UG,CF,specimens,S,W
+Pan,UG,CF,specimens,S,W
+Pan,UG,CF,specimens,S,W
+Pan,US,CA,skulls,P,I
+Pan,US,CD,specimens,S,W
+Pan,US,CG,specimens,S,W
+Pan,US,CM,skulls,T,I
+Pan,US,RW,specimens,S,W
+Pan,US,UG,bone pieces,S,W
+Pan,US,UG,specimens,S,W
+Pan,US,UG,teeth,S,W
+Pan,UZ,KG,live,Q,C
+Pongo,DK,CH,specimens,S,C
+Pongo,GB,JE,bodies,S,O
+Pongo,GB,JE,bodies,S,O
+Pongo,HK,DK,specimens,S,C
+Pongo,HK,DK,specimens,S,C
+Pongo,ID,JE,skulls,S,O
+Pongo,US,AU,live,Z,C
+Pongo,US,DE,live,Z,C
+Pongo,CH,ID,specimens,S,W
+Pongo,CN,GB,bodies,Q,O
+Pongo,CN,UZ,live,T,C
+Pongo,IL,DE,live,Z,C
+Pongo,IL,NL,live,Z,C
+Pongo,IL,NL,live,Z,F
+Pongo,KP,CN,bodies,E,U
+Pongo,MY,SG,live,Z,C
+Pongo,RU,DK,live,Z,C
+Pongo,US,ID,skulls,P,I
+Pongo,US,ID,specimens,S,W
+Pongo,US,ID,specimens,S,W
+Hylobates,KP,CN,bodies,E,U
+Hylobates,IM,GB,live,Z,C
+Hylobates,TH,ID,skulls,Q,W
+Hylobates,FR,CH,live,Z,F
+Nomascus,DE,VN,specimens,S,F
+Nomascus,DE,VN,specimens,S,W
+Nomascus,AU,US,live,Z,F
+Nomascus,DE,VN,specimens,S,W
+Nomascus,KP,CN,bodies,E,U
+Nomascus,TR,DE,live,Z,C
+Nomascus,US,AU,live,Z,F
+Nomascus,DE,VN,specimens,S,F
+Nomascus,DE,VN,specimens,S,W
+Symphalangus,MK,BE,live,Z,C
+Symphalangus,MK,BE,live,Z,
+Symphalangus,SG,FR,live,Z,C
+Brachylophus,US,FJ,specimens,S,W
+Brachylophus,CA,DE,live,T,C
+Brachylophus,CH,DE,live,T,C
+Brachylophus,PH,DE,live,B,C
+Brachylophus,PH,DE,live,T,C
+Brachylophus,US,FJ,specimens,S,W
+Brachylophus,US,FJ,specimens,S,W
+Cyclura,US,JM,specimens,S,W
+Cyclura,CH,AT,live,T,C
+Cyclura,UA,DE,live,T,C
+Cyclura,US,DO,specimens,S,W
+Cyclura,US,HK,live,M,I
+Cyclura,US,BS,specimens,S,W
+Cyclura,US,BS,specimens,S,W
+Cyclura,US,KY,specimens,S,W
+Cyclura,KP,CU,live,Z,C
+Cyclura,US,KY,specimens,M,W
+Cyclura,US,KY,specimens,S,W
+Cyclura,US,DO,specimens,S,W
+Cyclura,JP,AT,live,Z,C
+Cyclura,US,BS,specimens,S,W
+Cyclura,US,BS,specimens,S,W
+Propithecus,DE,MG,specimens,S,W
+Propithecus,US,MG,specimens,S,W
+Latimeria,JP,ID,bodies,S,W
+Latimeria,JP,ID,bodies,S,W
+Dalbergia,AE,DK,carvings,T,O
+Dalbergia,AE,US,wood product,T,O
+Dalbergia,AT,US,wood product,Q,O
+Dalbergia,AU,DK,carvings,T,O
+Dalbergia,AU,FR,carvings,Q,O
+Dalbergia,AU,US,wood product,T,O
+Dalbergia,AU,US,wood product,T,O
+Dalbergia,BE,US,carvings,T,O
+Dalbergia,BR,DK,carvings,T,O
+Dalbergia,BS,DK,carvings,T,O
+Dalbergia,CA,DK,carvings,T,O
+Dalbergia,CA,ES,carvings,T,O
+Dalbergia,CA,FI,wood product,T,O
+Dalbergia,CA,GB,carvings,T,O
+Dalbergia,CA,US,wood product,T,O
+Dalbergia,CA,US,wood product,T,O
+Dalbergia,CH,AE,specimens,T,O
+Dalbergia,CH,DE,carvings,T,O
+Dalbergia,CH,DE,carvings,T,O
+Dalbergia,CH,DE,carvings,T,O
+Dalbergia,CH,DK,carvings,T,O
+Dalbergia,CH,FR,carvings,T,O
+Dalbergia,CH,GB,carvings,T,O
+Dalbergia,CH,GB,carvings,T,O
+Dalbergia,CH,SE,carvings,T,O
+Dalbergia,CH,SG,jewellery,T,O
+Dalbergia,CH,US,wood product,T,O
+Dalbergia,CL,DE,carvings,T,O
+Dalbergia,CN,DE,carvings,T,O
+Dalbergia,CN,DE,carvings,T,O
+Dalbergia,CN,DE,carvings,T,O
+Dalbergia,CN,DE,carvings,T,O
+Dalbergia,CN,DK,carvings,T,O
+Dalbergia,CN,ES,carvings,T,O
+Dalbergia,CN,FR,carvings,T,O
+Dalbergia,CN,GB,carvings,P,O
+Dalbergia,CN,GB,carvings,T,O
+Dalbergia,CN,GB,wood product,T,O
+Dalbergia,CN,US,wood product,T,O
+Dalbergia,CN,US,wood product,Q,O
+Dalbergia,CN,US,wood product,T,O
+Dalbergia,CZ,US,carvings,Q,O
+Dalbergia,DE,IE,carvings,P,U
+Dalbergia,DE,IL,carvings,P,O
+Dalbergia,DE,US,wood product,T,O
+Dalbergia,DE,US,carvings,T,O
+Dalbergia,DE,US,wood product,Q,O
+Dalbergia,DE,US,wood product,T,O
+Dalbergia,FI,US,wood product,Q,O
+Dalbergia,FR,CH,jewellery,T,O
+Dalbergia,FR,US,carvings,Q,O
+Dalbergia,FR,US,carvings,T,O
+Dalbergia,FR,US,wood product,T,O
+Dalbergia,GB,CH,carvings,T,O
+Dalbergia,GB,GG,wood product,T,O
+Dalbergia,GB,GI,carvings,T,O
+Dalbergia,GB,JP,wood product,P,O
+Dalbergia,GB,US,carvings,T,O
+Dalbergia,GB,US,wood product,T,O
+Dalbergia,GB,US,carvings,P,O
+Dalbergia,GB,US,carvings,T,O
+Dalbergia,GB,US,wood product,Q,O
+Dalbergia,GB,US,wood product,T,O
+Dalbergia,GB,US,carvings,T,O
+Dalbergia,GB,US,wood product,T,O
+Dalbergia,GR,US,wood product,T,O
+Dalbergia,HK,CH,wood product,T,O
+Dalbergia,HK,DE,wood product,T,O
+Dalbergia,HK,DK,carvings,T,O
+Dalbergia,HK,GB,wood product,T,O
+Dalbergia,HK,US,wood product,T,O
+Dalbergia,HK,US,wood product,Q,O
+Dalbergia,HK,US,wood product,T,O
+Dalbergia,ID,DK,carvings,T,O
+Dalbergia,ID,US,wood product,T,O
+Dalbergia,IN,GB,carvings,T,O
+Dalbergia,IT,US,carvings,T,O
+Dalbergia,IT,US,wood product,T,O
+Dalbergia,JE,GB,carvings,T,O
+Dalbergia,JP,DE,carvings,T,O
+Dalbergia,JP,DE,wood product,T,O
+Dalbergia,JP,DE,carvings,T,O
+Dalbergia,JP,DE,wood product,T,O
+Dalbergia,JP,DK,carvings,T,O
+Dalbergia,JP,DK,wood product,P,O
+Dalbergia,JP,DK,wood product,T,O
+Dalbergia,JP,DK,carvings,T,O
+Dalbergia,JP,FR,carvings,T,O
+Dalbergia,JP,FR,wood product,T,O
+Dalbergia,JP,GB,carvings,T,O
+Dalbergia,JP,GB,wood product,T,O
+Dalbergia,JP,GB,wood product,Q,O
+Dalbergia,JP,IL,wood product,T,O
+Dalbergia,JP,IT,carvings,T,O
+Dalbergia,JP,IT,sawn wood,T,O
+Dalbergia,JP,IT,wood product,T,O
+Dalbergia,JP,US,wood product,T,O
+Dalbergia,JP,US,wood product,T,W
+Dalbergia,JP,US,wood product,P,O
+Dalbergia,JP,US,wood product,Q,O
+Dalbergia,JP,US,wood product,T,O
+Dalbergia,JP,US,wood product,T,O
+Dalbergia,KP,DK,carvings,T,O
+Dalbergia,KR,DE,carvings,T,O
+Dalbergia,KR,DE,carvings,T,O
+Dalbergia,KR,DK,carvings,T,O
+Dalbergia,KR,US,wood product,Q,O
+Dalbergia,KR,US,wood product,T,O
+Dalbergia,KR,US,wood product,T,O
+Dalbergia,LU,BR,carvings,,O
+Dalbergia,MY,IT,carvings,T,O
+Dalbergia,NL,US,carvings,T,O
+Dalbergia,NL,US,wood product,Q,O
+Dalbergia,NL,US,wood product,T,O
+Dalbergia,NO,DK,carvings,P,O
+Dalbergia,NO,DK,wood product,T,O
+Dalbergia,NO,NL,carvings,T,O
+Dalbergia,NZ,DK,carvings,T,O
+Dalbergia,NZ,US,wood product,T,O
+Dalbergia,PT,DK,carvings,T,O
+Dalbergia,PY,GB,carvings,P,O
+Dalbergia,RU,FR,carvings,T,O
+Dalbergia,SE,DK,carvings,T,O
+Dalbergia,SE,US,wood product,T,O
+Dalbergia,SE,US,carvings,T,O
+Dalbergia,SG,CH,jewellery,T,O
+Dalbergia,SG,DK,carvings,T,O
+Dalbergia,SG,GB,carvings,T,O
+Dalbergia,SG,SE,carvings,T,O
+Dalbergia,SG,US,wood product,T,O
+Dalbergia,SN,US,wood product,L,I
+Dalbergia,TH,DE,carvings,T,O
+Dalbergia,TH,DK,carvings,T,O
+Dalbergia,TH,US,wood product,T,O
+Dalbergia,TH,US,wood product,T,O
+Dalbergia,TR,GB,carvings,T,O
+Dalbergia,TR,US,wood product,T,O
+Dalbergia,TW,DE,carvings,T,O
+Dalbergia,TW,DK,carvings,T,O
+Dalbergia,TW,GB,carvings,T,O
+Dalbergia,TW,US,wood product,T,I
+Dalbergia,TW,US,wood product,T,O
+Dalbergia,TW,US,wood product,Q,O
+Dalbergia,US,AR,wood product,T,O
+Dalbergia,US,AT,veneer,T,O
+Dalbergia,US,AT,wood product,T,O
+Dalbergia,US,BR,sawn wood,T,O
+Dalbergia,US,BR,sawn wood,P,I
+Dalbergia,US,BR,veneer,T,O
+Dalbergia,US,CA,wood product,P,W
+Dalbergia,US,CA,wood product,T,O
+Dalbergia,US,CH,wood product,Q,O
+Dalbergia,US,CN,wood product,Q,O
+Dalbergia,US,CZ,carvings,Q,O
+Dalbergia,US,DE,carvings,T,O
+Dalbergia,US,DE,carvings,T,O
+Dalbergia,US,DE,carvings,T,O
+Dalbergia,US,DE,carvings,T,O
+Dalbergia,US,DE,carvings,T,O
+Dalbergia,US,DK,carvings,P,O
+Dalbergia,US,DK,carvings,T,O
+Dalbergia,US,DK,wood product,T,O
+Dalbergia,US,DK,carvings,T,O
+Dalbergia,US,DK,wood product,Q,O
+Dalbergia,US,DK,wood product,T,O
+Dalbergia,US,DK,carvings,T,O
+Dalbergia,US,FI,wood product,T,O
+Dalbergia,US,FR,carvings,T,O
+Dalbergia,US,FR,veneer,T,O
+Dalbergia,US,FR,wood product,T,O
+Dalbergia,US,FR,carvings,T,O
+Dalbergia,US,FR,wood product,Q,O
+Dalbergia,US,FR,wood product,T,O
+Dalbergia,US,GB,carvings,T,O
+Dalbergia,US,GB,wood product,P,O
+Dalbergia,US,GB,wood product,T,O
+Dalbergia,US,GB,carvings,P,O
+Dalbergia,US,GB,carvings,T,O
+Dalbergia,US,GB,wood product,P,O
+Dalbergia,US,GB,wood product,Q,O
+Dalbergia,US,GB,wood product,T,O
+Dalbergia,US,IL,wood product,T,O
+Dalbergia,US,IL,wood product,T,O
+Dalbergia,US,IT,carvings,T,O
+Dalbergia,US,IT,sawn wood,T,O
+Dalbergia,US,IT,sawn wood,T,O
+Dalbergia,US,IT,wood product,T,O
+Dalbergia,US,JP,wood product,Q,O
+Dalbergia,US,JP,wood product,T,O
+Dalbergia,US,JP,wood product,Q,O
+Dalbergia,US,JP,wood product,T,O
+Dalbergia,US,KR,wood product,Q,O
+Dalbergia,US,LU,wood product,Q,O
+Dalbergia,US,PT,carvings,T,O
+Dalbergia,US,SE,carvings,T,O
+Dalbergia,US,SE,wood product,P,W
+Dalbergia,US,SE,wood product,T,O
+Dalbergia,US,SE,carvings,Q,O
+Dalbergia,US,ZA,wood product,P,W
+Dalbergia,XX,DE,carvings,P,O
+Dalbergia,XX,DE,carvings,P,O
+Dalbergia,XX,US,wood product,P,O
+,NL,RU,carvings,E,O
+Eulemur,US,DE,live,Z,C
+Eulemur,US,DE,live,Z,F
+Eulemur,GI,ES,live,Z,F
+Eulemur,ID,HU,live,Z,C
+Eulemur,FR,US,live,Z,C
+Eulemur,FR,US,specimens,S,W
+Eulemur,MA,FR,live,Z,C
+Eulemur,RS,HU,live,Z,C
+Eulemur,DE,MG,specimens,S,W
+Hapalemur,JE,GB,live,Z,C
+Hapalemur,US,MG,specimens,S,W
+Hapalemur,US,MG,specimens,S,W
+Lemur,AU,US,live,Z,C
+Lemur,BY,IL,live,Z,C
+Lemur,CA,US,live,Z,C
+Lemur,CN,CA,live,Z,F
+Lemur,CN,CZ,live,T,C
+Lemur,CN,CZ,live,T,C
+Lemur,CN,CZ,live,T,C
+Lemur,CN,CZ,live,T,C
+Lemur,CN,CZ,live,Z,C
+Lemur,CN,CZ,live,T,C
+Lemur,CN,CZ,live,Z,C
+Lemur,CN,CZ,live,T,C
+Lemur,CN,CZ,live,Z,C
+Lemur,CN,CZ,live,T,C
+Lemur,CN,CZ,live,B,C
+Lemur,CN,CZ,live,T,C
+Lemur,CN,CZ,live,Z,C
+Lemur,FR,FR,live,Z,R
+Lemur,FR,FR,live,Z,C
+Lemur,ID,FR,live,Z,C
+Lemur,MA,FR,live,Z,C
+Lemur,MU,FR,live,Z,C
+Lemur,RU,AM,live,T,W
+Lemur,TR,NL,bodies,T,C
+Lemur,UA,CZ,live,Z,C
+Lemur,VN,CZ,live,T,C
+Lemur,VN,CZ,live,T,C
+Lemur,VN,CZ,live,T,C
+Lemur,VN,CZ,live,T,C
+Lemur,VN,CZ,live,T,C
+Varecia,MG,FR,live,Z,C
+Varecia,MG,FR,live,Z,C
+Varecia,SG,JP,live,Z,C
+Varecia,CA,GB,live,Z,C
+Varecia,CA,PL,live,Z,C
+Varecia,CH,NL,live,Z,C
+Varecia,CL,GB,live,B,C
+Varecia,CN,CA,live,Z,F
+Varecia,IL,CZ,live,Z,C
+Varecia,MA,FR,live,Z,C
+Lepilemur,US,PT,specimens,S,I
+Lepilemur,GB,MG,specimens,S,W
+Lepilemur,US,PT,specimens,S,W
+Lepilemur,BE,MG,specimens,S,W
+Lepilemur,GB,MG,specimens,S,W
+Aloe,CH,DK,live,,
+Aloe,NO,DK,live,,
+Aloe,US,AU,live,T,I
+Aloe,US,BE,live,T,A
+Aloe,GB,MG,specimens,S,W
+Aloe,CA,US,live,T,D
+Aloe,ES,ZA,live,T,A
+Aloe,JP,ES,live,T,A
+Aloe,JP,ZA,live,T,D
+Aloe,JP,ZA,live,T,I
+Aloe,NC,DE,live,T,D
+Aloe,JP,TH,live,T,D
+Aloe,US,TH,live,T,D
+Nycticebus,US,KH,feet,T,I
+Nycticebus,DE,CH,live,B,I
+Nycticebus,GB,CN,live,B,I
+Nycticebus,KP,CN,bodies,E,U
+Nycticebus,PL,CH,live,Z,C
+Loxocemus,JP,GB,ivory carvings,T,O
+Moschus,US,CN,musk,T,I
+Picathartes,DE,US,specimens,S,F
+Lutra,BE,NO,specimens,S,C
+Lutra,CH,DE,live,Z,W
+Lutra,DE,CH,live,Z,C
+Lutra,IT,CH,live,Z,C
+Lutra,JP,KW,live,B,
+Lutra,KW,JP,live,B,C
+Lutra,KW,JP,live,S,C
+Lutra,US,GB,specimens,S,W
+Lutra,US,IT,teeth,S,W
+Lutra,US,SE,teeth,S,W
+Mustela,CA,US,live,B,C
+Mustela,GB,US,specimens,S,C
+Mustela,GB,US,specimens,S,W
+Mustela,US,CA,live,S,C
+Mustela,US,CA,live,S,C
+Nepenthes,GB,LK,live,T,D
+Nepenthes,US,LK,live,T,A
+Nepenthes,JP,TH,live,T,D
+Nepenthes,US,LK,live,T,D
+Nepenthes,GB,LK,live,T,D
+Nepenthes,JP,LK,live,T,D
+Nepenthes,US,LK,live,T,D
+Aerangis,DE,EC,live,T,D
+Aerangis,GB,MG,seeds,S,W
+Aerangis,GB,MG,specimens,S,W
+Aerangis,US,DE,live,T,D
+Aerangis,US,EC,live,T,D
+Dendrobium,AF,TH,live,T,D
+Dendrobium,BE,TH,live,T,A
+Dendrobium,DE,TH,live,T,D
+Dendrobium,FR,TH,cultures,T,D
+Dendrobium,IN,TH,roots,T,D
+Dendrobium,JP,TH,live,T,D
+Dendrobium,US,TW,derivatives,T,I
+Laelia,DE,BR,live,T,A
+Laelia,US,BR,live,T,D
+Laelia,US,DE,live,T,D
+Laelia,DE,BR,live,T,A
+Laelia,DE,BR,live,T,D
+Laelia,US,BR,live,T,A
+Laelia,US,DE,live,T,D
+,JP,MY,live,T,A
+,US,CN,medicine,T,I
+,CA,US,live,T,A
+,DE,TW,live,T,A
+,TH,US,stems,T,A
+Paphiopedilum,AE,NL,live,T,A
+Paphiopedilum,AF,TH,live,T,D
+Paphiopedilum,BY,NL,live,,A
+Paphiopedilum,CA,CN,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,CH,CN,live,T,A
+Paphiopedilum,CH,CN,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,CH,NL,live,,A
+Paphiopedilum,DE,CN,live,T,A
+Paphiopedilum,DE,CN,live,T,D
+Paphiopedilum,DE,TH,live,T,D
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,DE,TW,live,T,D
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,FR,TH,live,T,A
+Paphiopedilum,HK,NL,live,T,A
+Paphiopedilum,HK,NL,live,,A
+Paphiopedilum,HK,TH,live,P,D
+Paphiopedilum,JP,CN,live,T,A
+Paphiopedilum,JP,CN,live,T,D
+Paphiopedilum,JP,DE,live,T,A
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,ID,live,T,A
+Paphiopedilum,JP,TH,live,T,D
+Paphiopedilum,JP,TW,flowers,T,A
+Paphiopedilum,JP,TW,live,T,A
+Paphiopedilum,JP,TW,live,T,D
+Paphiopedilum,JP,US,live,T,A
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,KZ,NL,live,,A
+Paphiopedilum,MD,NL,live,,A
+Paphiopedilum,NO,NL,live,,A
+Paphiopedilum,RE,NL,live,,A
+Paphiopedilum,TW,JP,live,P,A
+Paphiopedilum,TW,JP,live,T,A
+Paphiopedilum,TW,JP,live,T,
+Paphiopedilum,UA,NL,live,,A
+Paphiopedilum,US,CA,live,T,D
+Paphiopedilum,US,CN,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,US,JP,live,T,A
+Paphiopedilum,US,JP,live,T,
+Paphiopedilum,US,NL,live,T,A
+Paphiopedilum,US,NL,live,,A
+Paphiopedilum,US,TH,live,T,D
+Paphiopedilum,US,TW,live,T,D
+Paphiopedilum,XX,NL,live,,A
+Paphiopedilum,ZW,NL,live,,A
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,TW,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,US,TH,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,CH,CN,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,CN,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,US,TH,live,T,D
+Paphiopedilum,CA,CN,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,CN,live,T,D
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,CN,live,T,D
+Paphiopedilum,JP,TW,live,T,D
+Paphiopedilum,US,CN,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,AU,MY,live,T,A
+Paphiopedilum,DE,MY,live,T,A
+Paphiopedilum,DE,MY,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,MY,live,T,A
+Paphiopedilum,JP,MY,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,SG,MY,live,T,A
+Paphiopedilum,US,MY,live,T,A
+Paphiopedilum,US,MY,live,T,D
+Paphiopedilum,CH,CN,live,T,D
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,CN,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,AF,TH,live,T,D
+Paphiopedilum,AU,MY,live,T,A
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,CH,CN,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,CH,DE,live,T,D
+Paphiopedilum,DE,MY,live,T,A
+Paphiopedilum,DE,MY,live,T,D
+Paphiopedilum,DE,TH,live,P,D
+Paphiopedilum,DE,TH,live,T,D
+Paphiopedilum,DE,TW,live,T,D
+Paphiopedilum,FR,TH,live,T,A
+Paphiopedilum,FR,TH,live,T,D
+Paphiopedilum,HK,TH,live,P,D
+Paphiopedilum,HK,TH,live,T,D
+Paphiopedilum,JP,CN,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,MY,live,T,A
+Paphiopedilum,JP,MY,live,T,D
+Paphiopedilum,SG,MY,live,T,A
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,US,MY,live,T,A
+Paphiopedilum,US,MY,live,T,D
+Paphiopedilum,US,TH,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,AE,NL,live,,A
+Paphiopedilum,CA,CN,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,CH,CN,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,CH,NL,live,,A
+Paphiopedilum,CW,NL,live,,A
+Paphiopedilum,DE,TH,live,T,D
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,GF,NL,live,,A
+Paphiopedilum,HK,NL,live,,A
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,KE,NL,live,,A
+Paphiopedilum,KW,NL,live,,A
+Paphiopedilum,LB,NL,live,,A
+Paphiopedilum,ME,NL,live,,A
+Paphiopedilum,NO,NL,live,,A
+Paphiopedilum,SX,NL,live,,A
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,US,EC,live,T,D
+Paphiopedilum,US,TH,live,T,D
+Paphiopedilum,XX,NL,live,,A
+Paphiopedilum,ZA,NL,live,,A
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,TH,live,T,D
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,FR,TH,live,T,A
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,TH,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,AF,TH,live,T,D
+Paphiopedilum,CA,CN,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,CN,live,T,D
+Paphiopedilum,DE,MY,live,T,D
+Paphiopedilum,DE,TH,live,T,D
+Paphiopedilum,DE,TW,live,T,D
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,FR,TH,live,T,A
+Paphiopedilum,FR,TH,live,T,D
+Paphiopedilum,HK,TH,live,P,D
+Paphiopedilum,HK,TH,live,T,D
+Paphiopedilum,JP,CN,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,MY,live,T,D
+Paphiopedilum,US,TH,live,T,D
+Paphiopedilum,AU,MY,live,T,A
+Paphiopedilum,AU,MY,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,MY,live,T,A
+Paphiopedilum,DE,MY,live,T,D
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,MY,live,T,A
+Paphiopedilum,JP,MY,live,T,D
+Paphiopedilum,SG,MY,live,T,A
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,US,MY,live,T,A
+Paphiopedilum,US,MY,live,T,D
+Paphiopedilum,US,TH,live,T,D
+Paphiopedilum,AF,TH,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,CH,DE,live,Q,A
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,FR,TH,live,T,A
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,TW,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,CA,CN,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,CH,DE,live,T,D
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,US,CN,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,CH,DE,live,Q,A
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,CA,CN,live,T,D
+Paphiopedilum,CH,CN,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,CN,live,T,D
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,JP,CN,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,CN,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,AF,TH,live,T,D
+Paphiopedilum,BE,TH,live,T,A
+Paphiopedilum,DE,TH,live,T,D
+Paphiopedilum,FR,TH,cultures,T,D
+Paphiopedilum,FR,TH,live,T,A
+Paphiopedilum,US,TH,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,RU,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,BE,TH,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,ID,unspecified,,
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,DE,TW,live,T,D
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,FR,TH,live,T,A
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,AF,TH,live,T,D
+Paphiopedilum,BE,TH,live,T,A
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,DE,TH,live,P,D
+Paphiopedilum,DE,TH,live,T,D
+Paphiopedilum,DE,TW,live,T,D
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,FR,TH,live,T,A
+Paphiopedilum,FR,TH,live,T,D
+Paphiopedilum,HK,TH,live,P,D
+Paphiopedilum,HK,TH,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,US,TH,live,T,D
+Paphiopedilum,CA,CN,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,DE,CN,live,T,D
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,CN,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,CA,CN,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,TW,live,T,D
+Paphiopedilum,US,CA,live,T,D
+Paphiopedilum,US,CN,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,DE,TH,live,T,D
+Paphiopedilum,AF,TH,live,T,D
+Paphiopedilum,CA,CN,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,CH,CN,live,T,D
+Paphiopedilum,DE,TH,live,T,D
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,DE,TW,live,T,D
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,CN,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,AF,TH,live,T,D
+Paphiopedilum,DE,TH,live,T,D
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,FR,TH,cultures,T,D
+Paphiopedilum,FR,TH,live,T,A
+Paphiopedilum,JP,TW,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,CN,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,US,TH,live,T,D
+Paphiopedilum,AU,MY,live,T,A
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,DE,MY,live,T,A
+Paphiopedilum,DE,MY,live,T,D
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,MY,live,T,A
+Paphiopedilum,JP,MY,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,SG,MY,live,T,A
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,US,MY,live,T,A
+Paphiopedilum,US,MY,live,T,D
+Paphiopedilum,US,TH,live,T,D
+Paphiopedilum,AE,NL,live,,A
+Paphiopedilum,AF,TH,live,T,A
+Paphiopedilum,AM,NL,live,,A
+Paphiopedilum,AW,NL,live,,A
+Paphiopedilum,AZ,NL,live,,A
+Paphiopedilum,BE,TW,live,T,A
+Paphiopedilum,BY,NL,live,,A
+Paphiopedilum,CA,CN,live,T,A
+Paphiopedilum,CA,US,live,T,A
+Paphiopedilum,CH,BE,live,T,A
+Paphiopedilum,CH,CN,live,T,A
+Paphiopedilum,CH,CN,live,T,D
+Paphiopedilum,CH,DE,live,Q,A
+Paphiopedilum,CH,NL,live,,A
+Paphiopedilum,CI,NL,live,,A
+Paphiopedilum,CN,DK,live,Q,A
+Paphiopedilum,CN,DK,live,,
+Paphiopedilum,CW,NL,live,,A
+Paphiopedilum,CZ,TW,live,T,D
+Paphiopedilum,DE,CH,live,T,A
+Paphiopedilum,DE,CN,live,T,A
+Paphiopedilum,DE,TH,live,T,A
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,DE,US,live,T,A
+Paphiopedilum,FO,NL,live,,A
+Paphiopedilum,FR,TW,cultures,T,A
+Paphiopedilum,GB,TW,live,T,A
+Paphiopedilum,GB,TW,live,T,D
+Paphiopedilum,GE,NL,live,,A
+Paphiopedilum,GP,NL,live,,A
+Paphiopedilum,HK,NL,live,T,A
+Paphiopedilum,HK,NL,live,,A
+Paphiopedilum,HK,US,live,T,A
+Paphiopedilum,HU,TW,live,T,A
+Paphiopedilum,IL,NL,live,,A
+Paphiopedilum,JP,CN,live,T,A
+Paphiopedilum,JP,DE,live,T,A
+Paphiopedilum,JP,US,live,T,A
+Paphiopedilum,KW,NL,live,T,W
+Paphiopedilum,KW,NL,live,,A
+Paphiopedilum,KZ,NL,live,,A
+Paphiopedilum,LB,NL,live,,A
+Paphiopedilum,MD,NL,live,,A
+Paphiopedilum,MK,NL,live,,A
+Paphiopedilum,MQ,NL,live,,A
+Paphiopedilum,MV,NL,live,,A
+Paphiopedilum,NO,NL,live,,A
+Paphiopedilum,OM,NL,live,,A
+Paphiopedilum,RE,NL,live,,A
+Paphiopedilum,RS,NL,live,,A
+Paphiopedilum,SG,NL,live,,A
+Paphiopedilum,TR,NL,live,,A
+Paphiopedilum,TW,US,live,T,A
+Paphiopedilum,UA,NL,live,,A
+Paphiopedilum,US,CA,live,T,A
+Paphiopedilum,US,CN,live,T,A
+Paphiopedilum,US,DE,live,T,A
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,US,DO,live,T,A
+Paphiopedilum,US,EC,live,T,A
+Paphiopedilum,US,JP,live,T,A
+Paphiopedilum,US,TH,live,T,A
+Paphiopedilum,US,TH,live,T,A
+Paphiopedilum,US,TW,live,T,A
+Paphiopedilum,XX,NL,live,,A
+Paphiopedilum,ZA,NL,live,,A
+Paphiopedilum,ZA,US,live,T,A
+Paphiopedilum,ZW,NL,live,,A
+Paphiopedilum,AF,TH,live,T,D
+Paphiopedilum,CH,DE,live,Q,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,TW,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,DE,TW,live,T,D
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,TW,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,CA,CN,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,CN,live,T,D
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,CN,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,TW,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,US,TH,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,CH,CN,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,CN,live,T,D
+Paphiopedilum,JP,CN,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,TW,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,AF,TH,live,T,D
+Paphiopedilum,AU,MY,live,T,A
+Paphiopedilum,AU,MY,live,T,D
+Paphiopedilum,BE,TH,live,T,A
+Paphiopedilum,DE,MY,live,T,A
+Paphiopedilum,DE,MY,live,T,D
+Paphiopedilum,DE,TH,live,P,D
+Paphiopedilum,DE,TH,live,T,D
+Paphiopedilum,DE,TW,live,T,D
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,FR,TH,live,T,A
+Paphiopedilum,FR,TH,live,T,D
+Paphiopedilum,HK,TH,live,P,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,MY,live,T,A
+Paphiopedilum,JP,MY,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,SG,MY,live,T,A
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,US,MY,live,T,A
+Paphiopedilum,US,MY,live,T,D
+Paphiopedilum,US,TH,live,T,D
+Paphiopedilum,JP,MY,live,T,D
+Paphiopedilum,US,MY,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,AF,TH,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,TH,live,T,D
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,FR,TH,live,T,A
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,US,TH,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,CH,DE,live,T,D
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,AF,TH,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,DE,TW,live,T,D
+Paphiopedilum,FR,TH,live,T,A
+Paphiopedilum,FR,TW,cultures,T,A
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,AU,MY,live,T,A
+Paphiopedilum,AU,MY,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,CH,DE,live,T,D
+Paphiopedilum,DE,MY,live,T,A
+Paphiopedilum,DE,MY,live,T,D
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,DE,TW,live,T,D
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,MY,live,T,A
+Paphiopedilum,JP,MY,live,T,D
+Paphiopedilum,JP,TW,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,SG,MY,live,T,A
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,US,MY,live,T,A
+Paphiopedilum,US,MY,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,CH,DE,live,T,D
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,DE,TW,live,T,D
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,TW,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,DE,TH,live,T,D
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,FR,TH,cultures,T,D
+Paphiopedilum,FR,TH,live,T,A
+Paphiopedilum,FR,TW,cultures,T,A
+Paphiopedilum,JP,TW,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,AU,MY,live,T,A
+Paphiopedilum,AU,MY,live,T,D
+Paphiopedilum,CH,DE,live,T,D
+Paphiopedilum,DE,MY,live,T,A
+Paphiopedilum,DE,MY,live,T,D
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,FR,TH,live,T,A
+Paphiopedilum,JP,MY,live,T,A
+Paphiopedilum,JP,MY,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,SG,MY,live,T,A
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,US,MY,live,T,A
+Paphiopedilum,US,MY,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,US,TH,live,T,D
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,US,TH,live,T,D
+Paphiopedilum,CA,CN,live,T,D
+Paphiopedilum,CH,CN,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,US,CN,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,CA,CN,live,T,D
+Paphiopedilum,CH,CN,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,DE,TW,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,TW,live,T,D
+Paphiopedilum,US,CN,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,AF,TH,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,TH,live,T,D
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,DE,TW,live,T,D
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,FR,TW,cultures,T,A
+Paphiopedilum,GB,TW,live,T,D
+Paphiopedilum,JP,TW,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,CA,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,DE,TW,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,DE,TW,live,T,D
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,TW,live,T,A
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,JP,TW,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Paphiopedilum,CA,CN,live,T,D
+Paphiopedilum,CH,CN,live,T,D
+Paphiopedilum,CH,DE,live,T,A
+Paphiopedilum,DE,CN,live,T,D
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,FR,TH,live,T,A
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,CN,live,T,D
+Paphiopedilum,US,TH,live,T,D
+Paphiopedilum,JP,DE,live,T,D
+Paphiopedilum,CA,CN,live,T,D
+Paphiopedilum,CA,US,live,T,D
+Paphiopedilum,CH,CN,live,T,D
+Paphiopedilum,DE,US,live,T,D
+Paphiopedilum,JP,US,live,T,D
+Paphiopedilum,US,DE,live,T,D
+Peristeria,DE,BR,live,T,A
+Peristeria,DE,EC,live,T,D
+Peristeria,JP,BR,live,T,A
+Peristeria,JP,BR,live,T,D
+Peristeria,US,EC,live,T,D
+Peristeria,US,PA,live,T,A
+Peristeria,US,TH,live,T,D
+Phragmipedium,AU,SG,live,B,D
+Phragmipedium,CA,PE,live,T,D
+Phragmipedium,CA,US,live,T,D
+Phragmipedium,DE,EC,live,T,D
+Phragmipedium,DE,PE,live,T,A
+Phragmipedium,DE,PE,live,T,D
+Phragmipedium,ES,PE,live,T,D
+Phragmipedium,FR,EC,live,T,A
+Phragmipedium,GT,PE,live,T,D
+Phragmipedium,JP,EC,live,T,A
+Phragmipedium,JP,EC,live,T,D
+Phragmipedium,JP,PE,live,T,D
+Phragmipedium,JP,US,live,T,A
+Phragmipedium,JP,US,live,T,D
+Phragmipedium,RU,US,live,T,D
+Phragmipedium,SG,PE,live,G,D
+Phragmipedium,SG,PE,live,T,D
+Phragmipedium,TH,SG,live,P,D
+Phragmipedium,TW,PE,live,T,D
+Phragmipedium,US,DE,live,T,D
+Phragmipedium,US,EC,live,T,D
+Phragmipedium,US,PE,live,T,D
+Phragmipedium,CA,US,live,T,D
+Phragmipedium,CH,DE,live,T,A
+Phragmipedium,DE,EC,live,T,D
+Phragmipedium,DE,US,live,T,A
+Phragmipedium,DE,US,live,T,D
+Phragmipedium,FR,EC,live,T,A
+Phragmipedium,FR,EC,live,T,D
+Phragmipedium,JP,EC,live,T,D
+Phragmipedium,JP,US,live,T,D
+Phragmipedium,US,DE,live,T,D
+Phragmipedium,US,EC,live,T,D
+Phragmipedium,US,PE,live,T,D
+Phragmipedium,CA,PE,live,T,D
+Phragmipedium,DE,EC,live,T,D
+Phragmipedium,DE,PE,live,T,A
+Phragmipedium,DE,PE,live,T,D
+Phragmipedium,FR,EC,live,T,D
+Phragmipedium,GT,PE,live,T,D
+Phragmipedium,JP,EC,live,T,D
+Phragmipedium,SG,BR,live,B,A
+Phragmipedium,SG,EC,live,G,D
+Phragmipedium,SG,PE,live,G,D
+Phragmipedium,SG,PE,live,T,D
+Phragmipedium,US,DE,live,T,D
+Phragmipedium,US,EC,live,T,D
+Phragmipedium,US,PE,live,T,D
+Phragmipedium,SG,EC,live,G,D
+Phragmipedium,SG,PE,live,G,D
+Phragmipedium,US,PE,live,T,D
+Phragmipedium,CA,PE,live,T,D
+Phragmipedium,CA,US,live,T,D
+Phragmipedium,CH,DE,live,T,A
+Phragmipedium,DE,EC,live,T,D
+Phragmipedium,DE,PE,live,T,A
+Phragmipedium,DE,PE,live,T,D
+Phragmipedium,DE,US,live,T,D
+Phragmipedium,ES,PE,live,T,D
+Phragmipedium,FR,EC,live,T,A
+Phragmipedium,FR,EC,live,T,D
+Phragmipedium,GT,PE,live,T,D
+Phragmipedium,JP,EC,live,T,D
+Phragmipedium,JP,PE,live,T,D
+Phragmipedium,SG,EC,live,G,D
+Phragmipedium,SG,PE,live,G,D
+Phragmipedium,SG,PE,live,T,D
+Phragmipedium,TW,PE,live,T,D
+Phragmipedium,US,DE,live,T,D
+Phragmipedium,US,EC,live,T,D
+Phragmipedium,US,PE,live,T,D
+Phragmipedium,DE,EC,live,T,D
+Phragmipedium,FR,EC,live,T,A
+Phragmipedium,FR,EC,live,T,D
+Phragmipedium,JP,EC,live,T,D
+Phragmipedium,US,DE,live,T,D
+Phragmipedium,US,EC,live,T,D
+Phragmipedium,CA,PE,live,T,D
+Phragmipedium,CA,US,live,T,A
+Phragmipedium,CN,DK,live,Q,A
+Phragmipedium,CN,DK,live,,
+Phragmipedium,CN,EC,live,E,A
+Phragmipedium,DE,EC,live,T,A
+Phragmipedium,DE,PE,live,T,A
+Phragmipedium,DE,PE,live,T,D
+Phragmipedium,DE,US,live,T,A
+Phragmipedium,FR,EC,live,T,A
+Phragmipedium,GT,PE,live,T,D
+Phragmipedium,HK,US,live,T,A
+Phragmipedium,JP,PE,live,T,D
+Phragmipedium,JP,US,live,T,A
+Phragmipedium,RU,US,live,T,A
+Phragmipedium,SG,PE,live,T,D
+Phragmipedium,TW,PE,live,T,D
+Phragmipedium,TW,US,live,T,A
+Phragmipedium,US,CA,live,T,A
+Phragmipedium,US,CA,live,T,D
+Phragmipedium,US,DE,live,T,A
+Phragmipedium,US,EC,live,T,A
+Phragmipedium,US,PE,live,T,A
+Phragmipedium,US,PE,live,T,D
+Phragmipedium,CA,US,live,T,D
+Phragmipedium,DE,US,live,T,D
+Phragmipedium,DE,EC,live,T,D
+Phragmipedium,DE,US,live,T,D
+Phragmipedium,FR,EC,live,T,A
+Phragmipedium,JP,EC,live,T,D
+Phragmipedium,JP,US,live,T,D
+Phragmipedium,US,EC,live,T,D
+Phragmipedium,DE,US,live,T,D
+Phragmipedium,US,DE,live,T,D
+Phragmipedium,US,EC,live,T,D
+Phragmipedium,CA,US,live,T,D
+Phragmipedium,CH,DE,live,Q,A
+Phragmipedium,DE,EC,live,T,D
+Phragmipedium,DE,US,live,T,D
+Phragmipedium,FR,EC,live,T,D
+Phragmipedium,JP,US,live,T,D
+Phragmipedium,US,DE,live,T,D
+Phragmipedium,US,EC,live,T,D
+Phragmipedium,CA,PE,live,T,D
+Phragmipedium,CA,US,live,T,D
+Phragmipedium,CH,DE,live,T,A
+Phragmipedium,DE,EC,live,T,D
+Phragmipedium,DE,PE,live,T,A
+Phragmipedium,DE,PE,live,T,D
+Phragmipedium,DE,US,live,T,D
+Phragmipedium,FR,EC,live,T,A
+Phragmipedium,GT,PE,live,T,D
+Phragmipedium,JP,PE,live,T,D
+Phragmipedium,SG,PE,live,T,D
+Phragmipedium,TW,PE,live,T,D
+Phragmipedium,US,DE,live,T,D
+Phragmipedium,US,EC,live,T,D
+Phragmipedium,US,PE,live,T,D
+Phragmipedium,CA,PE,live,T,D
+Phragmipedium,CH,DE,live,T,A
+Phragmipedium,DE,PE,live,T,A
+Phragmipedium,DE,PE,live,T,D
+Phragmipedium,DE,US,live,T,D
+Phragmipedium,GT,PE,live,T,D
+Phragmipedium,JP,PE,live,T,D
+Phragmipedium,SG,PE,live,T,D
+Phragmipedium,TW,PE,live,T,D
+Phragmipedium,US,DE,live,T,D
+Phragmipedium,US,PE,live,T,D
+Phragmipedium,DE,US,live,T,D
+Phragmipedium,CA,US,live,T,D
+Phragmipedium,CH,DE,live,T,A
+Phragmipedium,DE,EC,live,T,D
+Phragmipedium,DE,US,live,T,D
+Phragmipedium,FR,EC,live,T,A
+Phragmipedium,FR,EC,live,T,D
+Phragmipedium,JP,US,live,T,D
+Phragmipedium,US,DE,live,T,D
+Phragmipedium,US,EC,live,T,D
+Phragmipedium,DE,BR,live,T,A
+Phragmipedium,DE,US,live,T,D
+Phragmipedium,JP,BR,live,T,D
+Phragmipedium,US,BR,live,T,A
+Phragmipedium,US,DE,live,T,D
+Phragmipedium,DE,PE,live,T,A
+Phragmipedium,DE,PE,live,T,D
+Phragmipedium,JP,PE,live,T,D
+Phragmipedium,SG,PE,live,G,D
+Phragmipedium,US,PE,live,T,D
+Phragmipedium,DE,US,live,T,D
+Scleropages,AE,SG,live,T,D
+Scleropages,BE,ID,live,T,D
+Scleropages,BE,SG,live,T,D
+Scleropages,BR,MY,live,T,D
+Scleropages,CA,MY,live,T,D
+Scleropages,CA,SG,live,T,D
+Scleropages,CA,SG,live,T,D
+Scleropages,CN,ID,live,T,D
+Scleropages,CN,MY,live,T,D
+Scleropages,CN,MY,live,T,D
+Scleropages,CN,SG,live,T,D
+Scleropages,CN,SG,live,T,D
+Scleropages,CN,SG,live,T,D
+Scleropages,CZ,SG,live,T,D
+Scleropages,CZ,SG,live,T,D
+Scleropages,DE,ID,live,P,D
+Scleropages,DE,ID,live,T,D
+Scleropages,DE,SG,live,T,D
+Scleropages,DK,SG,live,T,D
+Scleropages,DK,SG,live,P,D
+Scleropages,DK,SG,live,T,D
+Scleropages,FR,SG,live,T,D
+Scleropages,FR,SG,live,T,D
+Scleropages,GB,ID,live,T,D
+Scleropages,GB,MY,live,T,D
+Scleropages,GB,SG,live,T,D
+Scleropages,HK,ID,live,T,D
+Scleropages,HK,MY,live,T,D
+Scleropages,HK,SG,live,P,D
+Scleropages,HK,SG,live,T,D
+Scleropages,HK,SG,live,T,D
+Scleropages,ID,SG,live,T,D
+Scleropages,IN,SG,live,T,D
+Scleropages,IN,SG,live,T,D
+Scleropages,IN,SG,live,T,D
+Scleropages,IR,MY,live,T,D
+Scleropages,IT,SG,live,T,D
+Scleropages,IT,SG,live,T,D
+Scleropages,JP,ID,live,P,D
+Scleropages,JP,ID,live,T,D
+Scleropages,JP,MY,live,T,D
+Scleropages,JP,SG,live,T,D
+Scleropages,JP,SG,live,T,D
+Scleropages,JP,SG,live,T,D
+Scleropages,JP,TH,live,T,D
+Scleropages,KH,ID,live,T,D
+Scleropages,KP,MY,live,T,D
+Scleropages,KR,ID,live,T,D
+Scleropages,KR,SG,live,T,D
+Scleropages,KR,SG,live,T,D
+Scleropages,KR,SG,live,T,D
+Scleropages,KW,SG,live,T,D
+Scleropages,LK,MY,live,T,D
+Scleropages,LK,SG,live,T,D
+Scleropages,LK,SG,live,T,D
+Scleropages,LK,SG,live,T,D
+Scleropages,MO,SG,live,T,D
+Scleropages,MO,SG,live,T,D
+Scleropages,MY,ID,live,T,D
+Scleropages,MY,SG,live,T,D
+Scleropages,MY,SG,live,T,D
+Scleropages,MY,SG,live,T,C
+Scleropages,MY,SG,live,T,D
+Scleropages,NL,ID,live,T,D
+Scleropages,NL,MY,live,T,D
+Scleropages,NL,SG,live,T,D
+Scleropages,NL,SG,live,T,D
+Scleropages,NO,SG,live,T,C
+Scleropages,NO,SG,live,T,D
+Scleropages,NZ,MY,live,T,D
+Scleropages,NZ,SG,live,T,D
+Scleropages,PF,SG,live,T,D
+Scleropages,PF,SG,live,T,D
+Scleropages,PH,HK,live,T,D
+Scleropages,PH,ID,live,T,D
+Scleropages,PH,MY,live,T,D
+Scleropages,PH,SG,live,T,D
+Scleropages,PH,SG,live,T,D
+Scleropages,PH,SG,live,T,D
+Scleropages,RU,SG,live,T,D
+Scleropages,RU,SG,live,T,D
+Scleropages,RU,SG,live,T,D
+Scleropages,SE,ID,live,T,D
+Scleropages,SG,ID,live,T,D
+Scleropages,SG,MY,live,T,D
+Scleropages,SK,MY,live,T,D
+Scleropages,TH,ID,live,T,D
+Scleropages,TH,MY,live,T,D
+Scleropages,TH,SG,live,T,D
+Scleropages,TH,SG,live,T,D
+Scleropages,TR,SG,live,T,D
+Scleropages,TR,SG,live,T,D
+Scleropages,TW,ID,live,T,D
+Scleropages,TW,MY,live,T,D
+Scleropages,TW,MY,live,T,W
+Scleropages,TW,SG,live,T,D
+Scleropages,TW,SG,live,T,D
+Scleropages,TW,SG,live,T,D
+Scleropages,UA,SG,live,T,D
+Scleropages,US,VN,live,T,I
+Scleropages,VN,ID,live,P,D
+Scleropages,VN,ID,live,T,D
+Scleropages,VN,MY,live,T,D
+Scleropages,VN,SG,live,T,D
+Scleropages,VN,SG,live,T,D
+Scleropages,XX,SG,live,T,D
+Scleropages,XX,SG,live,T,D
+Scleropages,ZA,SG,live,T,D
+Scleropages,ZA,SG,live,T,D
+Chlamydotis,AE,MA,live,P,C
+Chlamydotis,BH,AE,live,N,C
+Chlamydotis,JO,AE,bodies,E,C
+Chlamydotis,JO,AE,live,N,C
+Chlamydotis,KW,AE,live,N,C
+Chlamydotis,KZ,AE,live,N,C
+Chlamydotis,KZ,AR,live,N,C
+Chlamydotis,PK,AE,live,P,C
+Chlamydotis,QA,AE,live,B,C
+Chlamydotis,SA,AE,live,N,C
+Chlamydotis,AE,MA,live,B,C
+Chlamydotis,DZ,MA,live,N,C
+Chlamydotis,KZ,AR,live,T,
+Chlamydotis,SA,KW,live,N,I
+Chlamydotis,SA,MA,live,N,C
+Catreus,AR,PT,live,T,C
+Colinus,MX,US,live,B,F
+Crossoptilon,AR,PT,live,T,C
+Crossoptilon,NP,NL,live,T,C
+Crossoptilon,PK,NL,live,T,C
+Crossoptilon,AR,PT,live,T,C
+Crossoptilon,NP,NL,live,T,C
+Crossoptilon,PK,NL,live,T,C
+Crossoptilon,US,CA,feathers,T,I
+Lophophorus,AR,PT,live,T,C
+Lophophorus,VN,NL,live,T,C
+Lophophorus,VN,NL,live,T,C
+Lophura,GB,JE,bodies,S,C
+Lophura,GB,JE,bodies,S,C
+Lophura,BD,NL,live,T,C
+Lophura,ID,NL,live,T,C
+Lophura,MY,NL,live,T,C
+Lophura,UZ,NL,live,T,C
+Polyplectron,NO,GB,live,Z,C
+Syrmaticus,AR,PT,live,T,C
+Syrmaticus,MY,NL,live,T,C
+Syrmaticus,NP,NL,live,T,C
+Syrmaticus,VN,NL,live,T,C
+Syrmaticus,AR,PT,live,T,C
+Syrmaticus,ID,NL,live,T,C
+Neophocaena,KR,CN,specimens,E,W
+Physeter,AT,CH,carvings,S,O
+Physeter,AU,DK,carvings,P,O
+Physeter,AU,NZ,teeth,P,O
+Physeter,AU,US,jewellery - ivory ,T,O
+Physeter,CH,GB,carvings,T,O
+Physeter,DE,US,bone carvings,Q,O
+Physeter,DE,US,carvings,Q,O
+Physeter,DK,GL,carvings,P,O
+Physeter,DK,GL,teeth,P,O
+Physeter,FR,FR,ivory carvings,Q,O
+Physeter,FR,FR,carvings,Q,O
+Physeter,GB,FJ,carvings,Q,O
